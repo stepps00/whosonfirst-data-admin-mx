@@ -9,7 +9,6 @@
     "geom:bbox":"-102.054986,19.972593,-102.054986,19.972593",
     "geom:latitude":19.972593,
     "geom:longitude":-102.054986,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.059986,19.967593,-102.049986,19.977593",
     "lbl:latitude":19.972593,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885241,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242606,
     "wof:name":"Tlazazalca Centro",
     "wof:parent_id":101997443,
     "wof:placetype":"neighbourhood",

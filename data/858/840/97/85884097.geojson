@@ -9,7 +9,6 @@
     "geom:bbox":"-110.317518,24.160441,-110.317518,24.160441",
     "geom:latitude":24.160441,
     "geom:longitude":-110.317518,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.322518,24.155441,-110.312518,24.165441",
     "lbl:latitude":24.160441,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884097,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242595,
     "wof:name":"Zona Comercial",
     "wof:parent_id":101994029,
     "wof:placetype":"neighbourhood",

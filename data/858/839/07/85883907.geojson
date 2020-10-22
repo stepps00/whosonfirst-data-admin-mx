@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1790771484,19.4600373085,-99.1625976562,19.4839979454",
     "geom:latitude":19.470318,
     "geom:longitude":-99.16984,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.465653,
     "lbl:longitude":-99.173613,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85883907,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619708,
+    "wof:lastmodified":1603242604,
     "wof:name":"San Bernabe",
     "wof:parent_id":890535755,
     "wof:placetype":"neighbourhood",

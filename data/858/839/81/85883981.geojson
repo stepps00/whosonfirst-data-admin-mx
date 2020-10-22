@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1659930375,19.3837046284,-99.1448962811,19.4018399026",
     "geom:latitude":19.392668,
     "geom:longitude":-99.155462,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.392063,
     "lbl:longitude":-99.159283,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85883981,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619708,
+    "wof:lastmodified":1603242604,
     "wof:name":"Narvarte Poniente",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

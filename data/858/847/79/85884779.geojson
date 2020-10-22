@@ -9,7 +9,6 @@
     "geom:bbox":"-98.729902,18.894559,-98.729902,18.894559",
     "geom:latitude":18.894559,
     "geom:longitude":-98.729902,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.734902,18.889559,-98.724902,18.899559",
     "lbl:latitude":18.894559,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884779,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Tetela Del Volcan Centro",
     "wof:parent_id":101993293,
     "wof:placetype":"neighbourhood",

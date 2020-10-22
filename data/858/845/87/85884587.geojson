@@ -9,7 +9,6 @@
     "geom:bbox":"-103.261928,22.111393,-103.261928,22.111393",
     "geom:latitude":22.111393,
     "geom:longitude":-103.261928,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.266928,22.106393,-103.256928,22.116393",
     "lbl:latitude":22.111393,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884587,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Lomas de Oriente",
     "wof:parent_id":101997705,
     "wof:placetype":"neighbourhood",

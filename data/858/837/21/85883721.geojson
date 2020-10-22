@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1309371902,19.2670725588,-99.1151511336,19.2806978757",
     "geom:latitude":19.273034,
     "geom:longitude":-99.12235,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.270229,
     "lbl:longitude":-99.126414,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883721,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619694,
+    "wof:lastmodified":1603242601,
     "wof:name":"Villa Xochimilco",
     "wof:parent_id":857683023,
     "wof:placetype":"neighbourhood",

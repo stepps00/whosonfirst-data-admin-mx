@@ -9,7 +9,6 @@
     "geom:bbox":"-90.889618,16.823734,-90.889618,16.823734",
     "geom:latitude":16.823734,
     "geom:longitude":-90.889618,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-90.894618,16.818734,-90.884618,16.828734",
     "lbl:latitude":16.823734,
@@ -81,10 +80,7 @@
         }
     ],
     "wof:id":85885177,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242583,
     "wof:name":"Barrio Nuevo Tila",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

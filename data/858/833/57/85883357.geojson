@@ -9,7 +9,6 @@
     "geom:bbox":"-97.39286,18.462965,-97.39286,18.462965",
     "geom:latitude":18.462965,
     "geom:longitude":-97.39286,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.39786,18.457965,-97.38786,18.467965",
     "lbl:latitude":18.462965,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883357,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Tehuacan Centro",
     "wof:parent_id":101999839,
     "wof:placetype":"neighbourhood",

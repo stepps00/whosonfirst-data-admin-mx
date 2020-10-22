@@ -9,7 +9,6 @@
     "geom:bbox":"-97.080352,15.860774,-97.080352,15.860774",
     "geom:latitude":15.860774,
     "geom:longitude":-97.080352,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.085352,15.855774,-97.075352,15.865774",
     "lbl:latitude":15.860774,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885125,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242583,
     "wof:name":"Fracc Rinconada",
     "wof:parent_id":101996231,
     "wof:placetype":"neighbourhood",

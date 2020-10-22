@@ -9,7 +9,6 @@
     "geom:bbox":"-100.323137,25.670115,-100.323137,25.670115",
     "geom:latitude":25.670115,
     "geom:longitude":-100.323137,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.328137,25.665115,-100.318137,25.675115",
     "lbl:latitude":25.670115,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85884029,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"El Mirador Centro",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-117.123679,32.499423,-117.123679,32.499423",
     "geom:latitude":32.499423,
     "geom:longitude":-117.123679,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.128679,32.494423,-117.118679,32.504423",
     "lbl:latitude":32.499423,
@@ -80,10 +79,7 @@
         }
     ],
     "wof:id":85882451,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Playas de Tijuana Secc Costa Azul",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

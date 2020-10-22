@@ -9,7 +9,6 @@
     "geom:bbox":"-99.187315,19.617729,-99.187315,19.617729",
     "geom:latitude":19.617729,
     "geom:longitude":-99.187315,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.192315,19.612729,-99.182315,19.622729",
     "lbl:latitude":19.617729,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884747,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Campo Remachadores",
     "wof:parent_id":101991633,
     "wof:placetype":"neighbourhood",

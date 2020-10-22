@@ -9,7 +9,6 @@
     "geom:bbox":"-92.133653,16.250808,-92.133653,16.250808",
     "geom:latitude":16.250808,
     "geom:longitude":-92.133653,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.138653,16.245808,-92.128653,16.255808",
     "lbl:latitude":16.250808,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885175,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242583,
     "wof:name":"Comitan de Dominguez Centro",
     "wof:parent_id":101994647,
     "wof:placetype":"neighbourhood",

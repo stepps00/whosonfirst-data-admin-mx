@@ -9,7 +9,6 @@
     "geom:bbox":"-99.168739998,19.2871254439,-99.1646950541,19.2910934266",
     "geom:latitude":19.2894,
     "geom:longitude":-99.166409,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.288995,
     "lbl:longitude":-99.166799,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85884073,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Barrio Ni\u00f1o Jesus",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

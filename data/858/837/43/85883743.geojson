@@ -9,7 +9,6 @@
     "geom:bbox":"-99.262772313,19.3616925148,-99.2377416992,19.3837046341",
     "geom:latitude":19.374361,
     "geom:longitude":-99.248764,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.376863,
     "lbl:longitude":-99.253123,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883743,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619694,
+    "wof:lastmodified":1603242602,
     "wof:name":"Centro Comercial Lomas de Santa Fe",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

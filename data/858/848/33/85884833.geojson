@@ -9,7 +9,6 @@
     "geom:bbox":"-89.742371,21.268558,-89.742371,21.268558",
     "geom:latitude":21.268558,
     "geom:longitude":-89.742371,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.747371,21.263558,-89.737371,21.273558",
     "lbl:latitude":21.268558,
@@ -109,10 +108,7 @@
         }
     ],
     "wof:id":85884833,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Chelem Puerto",
     "wof:parent_id":102001263,
     "wof:placetype":"neighbourhood",

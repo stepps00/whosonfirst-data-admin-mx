@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1845703125,19.3648795247,-99.1735839844,19.3733407134",
     "geom:latitude":19.369376,
     "geom:longitude":-99.179272,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.369523,
     "lbl:longitude":-99.179348,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884035,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619661,
+    "wof:lastmodified":1603242594,
     "wof:name":"Actipan",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

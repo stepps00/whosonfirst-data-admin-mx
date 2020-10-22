@@ -9,7 +9,6 @@
     "geom:bbox":"-102.247009,21.527182,-102.247009,21.527182",
     "geom:latitude":21.527182,
     "geom:longitude":-102.247009,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.252009,21.522182,-102.242009,21.532182",
     "lbl:latitude":21.527182,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884859,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Encarnacion de Diaz Centro",
     "wof:parent_id":101998023,
     "wof:placetype":"neighbourhood",

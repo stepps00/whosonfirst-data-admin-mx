@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1309361616,19.4030548368,-99.1213989258,19.4134972058",
     "geom:latitude":19.407998,
     "geom:longitude":-99.125582,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.406719,
     "lbl:longitude":-99.124274,
@@ -680,10 +679,7 @@
         }
     ],
     "wof:id":85883667,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619685,
+    "wof:lastmodified":1603242600,
     "wof:name":"Jamaica",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.220782,19.714471,-99.220782,19.714471",
     "geom:latitude":19.714471,
     "geom:longitude":-99.220782,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.225782,19.709471,-99.215782,19.719471",
     "lbl:latitude":19.714471,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884193,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Barrio San Martin",
     "wof:parent_id":101991839,
     "wof:placetype":"neighbourhood",

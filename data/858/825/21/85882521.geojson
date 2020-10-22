@@ -9,7 +9,6 @@
     "geom:bbox":"-91.82708,18.630675,-91.82708,18.630675",
     "geom:latitude":18.630675,
     "geom:longitude":-91.82708,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-91.83208,18.625675,-91.82208,18.635675",
     "lbl:latitude":18.630675,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882521,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Puntilla",
     "wof:parent_id":102001433,
     "wof:placetype":"neighbourhood",

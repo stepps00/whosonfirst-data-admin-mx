@@ -9,7 +9,6 @@
     "geom:bbox":"-102.538147,22.778713,-102.538147,22.778713",
     "geom:latitude":22.778713,
     "geom:longitude":-102.538147,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.543147,22.773713,-102.533147,22.783713",
     "lbl:latitude":22.778713,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85884211,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Fracc Ca\u00f1ada de la Bufa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

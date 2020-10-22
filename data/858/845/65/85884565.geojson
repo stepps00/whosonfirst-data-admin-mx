@@ -9,7 +9,6 @@
     "geom:bbox":"-103.311288,20.739695,-103.311288,20.739695",
     "geom:latitude":20.739695,
     "geom:longitude":-103.311288,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.316288,20.734695,-103.306288,20.744695",
     "lbl:latitude":20.739695,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884565,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Panoramica de Huentitan",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

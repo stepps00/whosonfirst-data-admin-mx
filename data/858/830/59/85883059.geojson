@@ -9,7 +9,6 @@
     "geom:bbox":"-88.337326,18.492055,-88.337326,18.492055",
     "geom:latitude":18.492055,
     "geom:longitude":-88.337326,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-88.342326,18.487055,-88.332326,18.497055",
     "lbl:latitude":18.492055,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85883059,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242602,
     "wof:name":"Fracc Aeropuerto",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

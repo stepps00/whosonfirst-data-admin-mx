@@ -9,7 +9,6 @@
     "geom:bbox":"-97.862778,22.220887,-97.862778,22.220887",
     "geom:latitude":22.220887,
     "geom:longitude":-97.862778,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.867778,22.215887,-97.857778,22.225887",
     "lbl:latitude":22.220887,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85883545,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Cascajal",
     "wof:parent_id":102001087,
     "wof:placetype":"neighbourhood",

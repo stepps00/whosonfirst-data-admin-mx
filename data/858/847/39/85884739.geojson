@@ -9,7 +9,6 @@
     "geom:bbox":"-109.913552,22.882208,-109.913552,22.882208",
     "geom:latitude":22.882208,
     "geom:longitude":-109.913552,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.918552,22.877208,-109.908552,22.887208",
     "lbl:latitude":22.882208,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884739,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242593,
     "wof:name":"Los Cabos",
     "wof:parent_id":101994035,
     "wof:placetype":"neighbourhood",

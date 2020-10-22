@@ -9,7 +9,6 @@
     "geom:bbox":"-100.328725,20.582576,-100.328725,20.582576",
     "geom:latitude":20.582576,
     "geom:longitude":-100.328725,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.333725,20.577576,-100.323725,20.587576",
     "lbl:latitude":20.582576,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85882487,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242591,
     "wof:name":"Cumbres de Conin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

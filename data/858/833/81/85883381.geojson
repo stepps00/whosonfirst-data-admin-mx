@@ -9,7 +9,6 @@
     "geom:bbox":"-94.420035,18.132802,-94.420035,18.132802",
     "geom:latitude":18.132802,
     "geom:longitude":-94.420035,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-94.425035,18.127802,-94.415035,18.137802",
     "lbl:latitude":18.132802,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883381,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Esfuerzo de Los Hnos Del Trabajo",
     "wof:parent_id":101998237,
     "wof:placetype":"neighbourhood",

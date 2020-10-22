@@ -9,7 +9,6 @@
     "geom:bbox":"-96.93142,19.550864,-96.93142,19.550864",
     "geom:latitude":19.550864,
     "geom:longitude":-96.93142,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.93642,19.545864,-96.92642,19.555864",
     "lbl:latitude":19.550864,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883159,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242598,
     "wof:name":"Unidad Magisterial",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

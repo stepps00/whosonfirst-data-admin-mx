@@ -9,7 +9,6 @@
     "geom:bbox":"-99.029171,19.613586,-99.029171,19.613586",
     "geom:latitude":19.613586,
     "geom:longitude":-99.029171,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.034171,19.608586,-99.024171,19.618586",
     "lbl:latitude":19.613586,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883001,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Izcalli Jardines",
     "wof:parent_id":101992735,
     "wof:placetype":"neighbourhood",

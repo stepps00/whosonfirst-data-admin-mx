@@ -9,7 +9,6 @@
     "geom:bbox":"-99.237152,18.98119,-99.237152,18.98119",
     "geom:latitude":18.98119,
     "geom:longitude":-99.237152,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.242152,18.97619,-99.232152,18.98619",
     "lbl:latitude":18.98119,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882655,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Univ Autonoma Del Estado de Morelos",
     "wof:parent_id":101993267,
     "wof:placetype":"neighbourhood",

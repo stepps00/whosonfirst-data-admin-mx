@@ -9,7 +9,6 @@
     "geom:bbox":"-99.851687,16.836595,-99.851687,16.836595",
     "geom:latitude":16.836595,
     "geom:longitude":-99.851687,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.856687,16.831595,-99.846687,16.841595",
     "lbl:latitude":16.836595,
@@ -80,10 +79,7 @@
         }
     ],
     "wof:id":85883469,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Base Naval Icacos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

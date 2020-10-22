@@ -9,7 +9,6 @@
     "geom:bbox":"-99.845529,25.192972,-99.845529,25.192972",
     "geom:latitude":25.192972,
     "geom:longitude":-99.845529,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.850529,25.187972,-99.840529,25.197972",
     "lbl:latitude":25.192972,
@@ -106,10 +105,7 @@
         }
     ],
     "wof:id":85884583,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Universidad la Carlota",
     "wof:parent_id":102000683,
     "wof:placetype":"neighbourhood",

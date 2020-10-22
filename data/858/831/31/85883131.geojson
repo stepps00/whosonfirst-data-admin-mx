@@ -9,7 +9,6 @@
     "geom:bbox":"-100.446002,20.624138,-100.446002,20.624138",
     "geom:latitude":20.624138,
     "geom:longitude":-100.446002,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.451002,20.619138,-100.441002,20.629138",
     "lbl:latitude":20.624138,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883131,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Fracc Don Manuel",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

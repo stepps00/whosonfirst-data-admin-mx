@@ -9,7 +9,6 @@
     "geom:bbox":"-102.531386,22.766423,-102.531386,22.766423",
     "geom:latitude":22.766423,
     "geom:longitude":-102.531386,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.536386,22.761423,-102.526386,22.771423",
     "lbl:latitude":22.766423,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884209,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Fracc Lomas de Bernardez",
     "wof:parent_id":101992875,
     "wof:placetype":"neighbourhood",

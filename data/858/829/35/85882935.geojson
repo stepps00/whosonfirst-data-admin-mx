@@ -9,7 +9,6 @@
     "geom:bbox":"-103.398595,25.517584,-103.398595,25.517584",
     "geom:latitude":25.517584,
     "geom:longitude":-103.398595,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.403595,25.512584,-103.393595,25.522584",
     "lbl:latitude":25.517584,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882935,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Fracc Florida Blanca",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

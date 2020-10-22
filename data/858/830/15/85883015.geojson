@@ -9,7 +9,6 @@
     "geom:bbox":"-96.884523,19.523008,-96.884523,19.523008",
     "geom:latitude":19.523008,
     "geom:longitude":-96.884523,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.889523,19.518008,-96.879523,19.528008",
     "lbl:latitude":19.523008,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883015,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242604,
     "wof:name":"Dos Vistas",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

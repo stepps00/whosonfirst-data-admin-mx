@@ -9,7 +9,6 @@
     "geom:bbox":"-89.619036,20.98194,-89.619036,20.98194",
     "geom:latitude":20.98194,
     "geom:longitude":-89.619036,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.624036,20.97694,-89.614036,20.98694",
     "lbl:latitude":20.98194,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882515,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242596,
     "wof:name":"Los Cupules",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

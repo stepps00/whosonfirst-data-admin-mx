@@ -9,7 +9,6 @@
     "geom:bbox":"-99.228679,19.714583,-99.228679,19.714583",
     "geom:latitude":19.714583,
     "geom:longitude":-99.228679,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.233679,19.709583,-99.223679,19.719583",
     "lbl:latitude":19.714583,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884191,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Conjunto Hab Paseo Del Virrey",
     "wof:parent_id":101991839,
     "wof:placetype":"neighbourhood",

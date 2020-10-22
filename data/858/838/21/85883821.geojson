@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1680908203,19.416694992,-99.1537092115,19.4230793241",
     "geom:latitude":19.419282,
     "geom:longitude":-99.161454,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.419273,
     "lbl:longitude":-99.162038,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883821,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619674,
+    "wof:lastmodified":1603242597,
     "wof:name":"Roma Norte",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

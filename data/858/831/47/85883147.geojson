@@ -9,7 +9,6 @@
     "geom:bbox":"-116.963486,32.532431,-116.963486,32.532431",
     "geom:latitude":32.532431,
     "geom:longitude":-116.963486,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.968486,32.527431,-116.958486,32.537431",
     "lbl:latitude":32.532431,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883147,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Internacional Tijuana",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

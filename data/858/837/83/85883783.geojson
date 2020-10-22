@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1268920898,19.4122020044,-99.1131591797,19.4303341116",
     "geom:latitude":19.420443,
     "geom:longitude":-99.120122,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.422729,
     "lbl:longitude":-99.123022,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883783,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619697,
+    "wof:lastmodified":1603242602,
     "wof:name":"Merced Balbuena",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",

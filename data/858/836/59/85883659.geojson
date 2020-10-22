@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2316491699,19.4490712374,-99.2162321577,19.4599357596",
     "geom:latitude":19.453987,
     "geom:longitude":-99.225161,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.452416,
     "lbl:longitude":-99.219031,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883659,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619685,
+    "wof:lastmodified":1603242599,
     "wof:name":"Periodista",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

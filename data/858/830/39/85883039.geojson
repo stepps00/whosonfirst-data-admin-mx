@@ -9,7 +9,6 @@
     "geom:bbox":"-99.701956,19.273183,-99.701956,19.273183",
     "geom:latitude":19.273183,
     "geom:longitude":-99.701956,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.706956,19.268183,-99.696956,19.278183",
     "lbl:latitude":19.273183,
@@ -775,10 +774,7 @@
         }
     ],
     "wof:id":85883039,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Cultural",
     "wof:parent_id":101991705,
     "wof:placetype":"neighbourhood",

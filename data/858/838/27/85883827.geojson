@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2614746094,19.3823289844,-99.2446634232,19.3977361702",
     "geom:latitude":19.388769,
     "geom:longitude":-99.254121,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.387602,
     "lbl:longitude":-99.25236,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883827,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619673,
+    "wof:lastmodified":1603242597,
     "wof:name":"Cooperativa Palo Alto",
     "wof:parent_id":890535767,
     "wof:placetype":"neighbourhood",

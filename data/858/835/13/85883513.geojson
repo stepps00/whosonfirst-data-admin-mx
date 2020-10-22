@@ -9,7 +9,6 @@
     "geom:bbox":"-96.106305,19.100724,-96.106305,19.100724",
     "geom:latitude":19.100724,
     "geom:longitude":-96.106305,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.111305,19.095724,-96.101305,19.105724",
     "lbl:latitude":19.100724,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883513,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Boca Del Rio Centro",
     "wof:parent_id":101998201,
     "wof:placetype":"neighbourhood",

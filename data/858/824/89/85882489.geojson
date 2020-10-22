@@ -9,7 +9,6 @@
     "geom:bbox":"-100.400059,20.549574,-100.400059,20.549574",
     "geom:latitude":20.549574,
     "geom:longitude":-100.400059,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.405059,20.544574,-100.395059,20.554574",
     "lbl:latitude":20.549574,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85882489,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Res Valle Real",
     "wof:parent_id":101996447,
     "wof:placetype":"neighbourhood",

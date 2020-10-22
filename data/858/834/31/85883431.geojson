@@ -9,7 +9,6 @@
     "geom:bbox":"-98.8611,19.687534,-98.8611,19.687534",
     "geom:latitude":19.687534,
     "geom:longitude":-98.8611,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.8661,19.682534,-98.8561,19.692534",
     "lbl:latitude":19.687534,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85883431,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242585,
     "wof:name":"Purificacion",
     "wof:parent_id":101991889,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.188540059,19.2987266452,-99.1680908203,19.3215112211",
     "geom:latitude":19.308873,
     "geom:longitude":-99.177284,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.313368,
     "lbl:longitude":-99.182483,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884329,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619581,
+    "wof:lastmodified":1603242576,
     "wof:name":"Panteon Mauseleos Del Angel",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

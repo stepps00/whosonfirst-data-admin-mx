@@ -9,7 +9,6 @@
     "geom:bbox":"-99.999367,21.924933,-99.999367,21.924933",
     "geom:latitude":21.924933,
     "geom:longitude":-99.999367,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.004367,21.919933,-99.994367,21.929933",
     "lbl:latitude":21.924933,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882619,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Fracc Molino Colorado",
     "wof:parent_id":101996477,
     "wof:placetype":"neighbourhood",

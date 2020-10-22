@@ -9,7 +9,6 @@
     "geom:bbox":"-103.332488,20.688111,-103.332488,20.688111",
     "geom:latitude":20.688111,
     "geom:longitude":-103.332488,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.337488,20.683111,-103.327488,20.693111",
     "lbl:latitude":20.688111,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884973,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Independencia Oriente",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

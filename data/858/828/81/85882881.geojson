@@ -9,7 +9,6 @@
     "geom:bbox":"-94.425303,18.148952,-94.425303,18.148952",
     "geom:latitude":18.148952,
     "geom:longitude":-94.425303,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-94.430303,18.143952,-94.420303,18.153952",
     "lbl:latitude":18.148952,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882881,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242573,
     "wof:name":"Maria de la Piedad",
     "wof:parent_id":101998237,
     "wof:placetype":"neighbourhood",

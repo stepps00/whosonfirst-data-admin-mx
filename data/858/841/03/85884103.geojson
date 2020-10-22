@@ -9,7 +9,6 @@
     "geom:bbox":"-86.973987,20.481606,-86.973987,20.481606",
     "geom:latitude":20.481606,
     "geom:longitude":-86.973987,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-86.978987,20.476606,-86.968987,20.486606",
     "lbl:latitude":20.481606,
@@ -80,10 +79,7 @@
         }
     ],
     "wof:id":85884103,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242586,
     "wof:name":"Ix Chil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

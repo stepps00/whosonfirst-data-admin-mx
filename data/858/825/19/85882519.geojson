@@ -9,7 +9,6 @@
     "geom:bbox":"-91.837447,18.66706,-91.837447,18.66706",
     "geom:latitude":18.66706,
     "geom:longitude":-91.837447,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-91.842447,18.66206,-91.832447,18.67206",
     "lbl:latitude":18.66706,
@@ -78,10 +77,7 @@
         }
     ],
     "wof:id":85882519,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Playa Norte",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

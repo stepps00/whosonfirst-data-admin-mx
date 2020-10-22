@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1160352206,19.2634481023,-99.0911865234,19.2852208",
     "geom:latitude":19.273728,
     "geom:longitude":-99.104112,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.26965,
     "lbl:longitude":-99.103112,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883677,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"La Concepcion Tlacoapa",
     "wof:parent_id":857683023,
     "wof:placetype":"neighbourhood",

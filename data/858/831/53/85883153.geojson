@@ -9,7 +9,6 @@
     "geom:bbox":"-99.319885,19.541672,-99.319885,19.541672",
     "geom:latitude":19.541672,
     "geom:longitude":-99.319885,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.324885,19.536672,-99.314885,19.546672",
     "lbl:latitude":19.541672,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883153,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Club de Golf Chiluca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

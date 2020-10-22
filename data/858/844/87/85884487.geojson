@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1021728516,19.285220759,-99.0829467773,19.3021503952",
     "geom:latitude":19.294313,
     "geom:longitude":-99.091999,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.293165,
     "lbl:longitude":-99.093837,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884487,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619587,
+    "wof:lastmodified":1603242577,
     "wof:name":"Infonavit Doctor Ignacio Chavez",
     "wof:parent_id":890535775,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-96.911774,19.540307,-96.911774,19.540307",
     "geom:latitude":19.540307,
     "geom:longitude":-96.911774,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.916774,19.535307,-96.906774,19.545307",
     "lbl:latitude":19.540307,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85883181,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Divisadero",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

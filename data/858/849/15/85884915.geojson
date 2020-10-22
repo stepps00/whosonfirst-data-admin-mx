@@ -9,7 +9,6 @@
     "geom:bbox":"-103.441086,20.683756,-103.441086,20.683756",
     "geom:latitude":20.683756,
     "geom:longitude":-103.441086,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.446086,20.678756,-103.436086,20.688756",
     "lbl:latitude":20.683756,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884915,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242592,
     "wof:name":"Jocotan",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

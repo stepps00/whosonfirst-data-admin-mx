@@ -9,7 +9,6 @@
     "geom:bbox":"-88.28569,18.497842,-88.28569,18.497842",
     "geom:latitude":18.497842,
     "geom:longitude":-88.28569,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-88.29069,18.492842,-88.28069,18.502842",
     "lbl:latitude":18.497842,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883509,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Barrio Bravo",
     "wof:parent_id":102001489,
     "wof:placetype":"neighbourhood",

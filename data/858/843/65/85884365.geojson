@@ -9,7 +9,6 @@
     "geom:bbox":"-107.366638,24.824133,-107.366638,24.824133",
     "geom:latitude":24.824133,
     "geom:longitude":-107.366638,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-107.371638,24.819133,-107.361638,24.829133",
     "lbl:latitude":24.824133,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884365,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242576,
     "wof:name":"Paseo Del Rio",
     "wof:parent_id":101993731,
     "wof:placetype":"neighbourhood",

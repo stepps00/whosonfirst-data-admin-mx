@@ -9,7 +9,6 @@
     "geom:bbox":"-98.303227,19.059668,-98.303227,19.059668",
     "geom:latitude":19.059668,
     "geom:longitude":-98.303227,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.308227,19.054668,-98.298227,19.064668",
     "lbl:latitude":19.059668,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85882713,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Fracc Los Frailes",
     "wof:parent_id":101999761,
     "wof:placetype":"neighbourhood",

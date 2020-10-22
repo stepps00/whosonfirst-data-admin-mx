@@ -9,7 +9,6 @@
     "geom:bbox":"-96.675276,16.790652,-96.675276,16.790652",
     "geom:latitude":16.790652,
     "geom:longitude":-96.675276,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.680276,16.785652,-96.670276,16.795652",
     "lbl:latitude":16.790652,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85885131,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242583,
     "wof:name":"Ocotlan de Morelos Centro",
     "wof:parent_id":101995151,
     "wof:placetype":"neighbourhood",

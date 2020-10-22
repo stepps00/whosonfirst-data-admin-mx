@@ -9,7 +9,6 @@
     "geom:bbox":"-99.037559,19.514697,-99.037559,19.514697",
     "geom:latitude":19.514697,
     "geom:longitude":-99.037559,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.042559,19.509697,-99.032559,19.519697",
     "lbl:latitude":19.514697,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883377,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242584,
     "wof:name":"Valle de Anahuac",
     "wof:parent_id":101992735,
     "wof:placetype":"neighbourhood",

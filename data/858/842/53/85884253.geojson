@@ -9,7 +9,6 @@
     "geom:bbox":"-101.260653,21.019847,-101.260653,21.019847",
     "geom:latitude":21.019847,
     "geom:longitude":-101.260653,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.265653,21.014847,-101.255653,21.024847",
     "lbl:latitude":21.019847,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884253,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Barrio de la Griteria",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

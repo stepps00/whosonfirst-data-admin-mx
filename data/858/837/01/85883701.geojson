@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1969299316,19.3564979105,-99.1781037702,19.3739060106",
     "geom:latitude":19.3649,
     "geom:longitude":-99.188523,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.365281,
     "lbl:longitude":-99.185821,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85883701,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619695,
+    "wof:lastmodified":1603242602,
     "wof:name":"San Jose Insurgentes",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

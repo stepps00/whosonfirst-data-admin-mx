@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1639709473,19.4044304903,-99.1461181641,19.4173828202",
     "geom:latitude":19.411719,
     "geom:longitude":-99.155112,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.413214,
     "lbl:longitude":-99.157451,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85883889,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619673,
+    "wof:lastmodified":1603242597,
     "wof:name":"Centro Urbano Benito Juarez",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

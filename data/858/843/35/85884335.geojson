@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2669677734,19.3448364301,-99.2486347946,19.3616804888",
     "geom:latitude":19.353376,
     "geom:longitude":-99.258243,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.357581,
     "lbl:longitude":-99.260127,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85884335,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619580,
+    "wof:lastmodified":1603242576,
     "wof:name":"Tlayacapa",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

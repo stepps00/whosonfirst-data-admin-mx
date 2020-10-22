@@ -9,7 +9,6 @@
     "geom:bbox":"-103.36023,20.673662,-103.36023,20.673662",
     "geom:latitude":20.673662,
     "geom:longitude":-103.36023,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.36523,20.668662,-103.35523,20.678662",
     "lbl:latitude":20.673662,
@@ -111,10 +110,7 @@
         }
     ],
     "wof:id":85884521,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Americana",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

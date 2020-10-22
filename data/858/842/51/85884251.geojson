@@ -9,7 +9,6 @@
     "geom:bbox":"-101.250666,21.029449,-101.250666,21.029449",
     "geom:latitude":21.029449,
     "geom:longitude":-101.250666,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.255666,21.024449,-101.245666,21.034449",
     "lbl:latitude":21.029449,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884251,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Barrio de Mellado",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-95.015177,16.436025,-95.015177,16.436025",
     "geom:latitude":16.436025,
     "geom:longitude":-95.015177,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-95.020177,16.431025,-95.010177,16.441025",
     "lbl:latitude":16.436025,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885077,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Fracc Guenda Biani",
     "wof:parent_id":101995085,
     "wof:placetype":"neighbourhood",

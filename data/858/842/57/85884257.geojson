@@ -9,7 +9,6 @@
     "geom:bbox":"-101.258388,21.041044,-101.258388,21.041044",
     "geom:latitude":21.041044,
     "geom:longitude":-101.258388,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.263388,21.036044,-101.253388,21.046044",
     "lbl:latitude":21.041044,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884257,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242572,
     "wof:name":"Cerro Del Erizo",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

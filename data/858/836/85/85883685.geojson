@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1571044922,19.2955902738,-99.1376471308,19.3111433551",
     "geom:latitude":19.303012,
     "geom:longitude":-99.148184,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.302975,
     "lbl:longitude":-99.150451,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883685,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619690,
+    "wof:lastmodified":1603242601,
     "wof:name":"Bosques de Tetlalmeya",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

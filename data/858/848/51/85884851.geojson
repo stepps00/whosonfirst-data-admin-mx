@@ -9,7 +9,6 @@
     "geom:bbox":"-99.946747,20.734282,-99.946747,20.734282",
     "geom:latitude":20.734282,
     "geom:longitude":-99.946747,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.951747,20.729282,-99.941747,20.739282",
     "lbl:latitude":20.734282,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85884851,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Barrio El Gallito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

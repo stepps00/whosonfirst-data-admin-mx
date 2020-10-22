@@ -9,7 +9,6 @@
     "geom:bbox":"-99.013367,19.615855,-99.013367,19.615855",
     "geom:latitude":19.615855,
     "geom:longitude":-99.013367,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.018367,19.610855,-99.008367,19.620855",
     "lbl:latitude":19.615855,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85882951,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Ampl Llano de Los Baez",
     "wof:parent_id":101992735,
     "wof:placetype":"neighbourhood",

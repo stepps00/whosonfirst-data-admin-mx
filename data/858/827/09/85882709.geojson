@@ -9,7 +9,6 @@
     "geom:bbox":"-98.193994,19.041347,-98.193994,19.041347",
     "geom:latitude":19.041347,
     "geom:longitude":-98.193994,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.198994,19.036347,-98.188994,19.046347",
     "lbl:latitude":19.041347,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882709,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242568,
     "wof:name":"Barrio El Analco",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

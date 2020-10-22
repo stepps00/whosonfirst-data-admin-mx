@@ -9,7 +9,6 @@
     "geom:bbox":"-89.536106,20.398368,-89.536106,20.398368",
     "geom:latitude":20.398368,
     "geom:longitude":-89.536106,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.541106,20.393368,-89.531106,20.403368",
     "lbl:latitude":20.398368,
@@ -115,10 +114,7 @@
         }
     ],
     "wof:id":85884825,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Ticul Centro",
     "wof:parent_id":102001229,
     "wof:placetype":"neighbourhood",

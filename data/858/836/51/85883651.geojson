@@ -9,7 +9,6 @@
     "geom:bbox":"-115.452576,32.646313,-115.452576,32.646313",
     "geom:latitude":32.646313,
     "geom:longitude":-115.452576,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.457576,32.641313,-115.447576,32.651313",
     "lbl:latitude":32.646313,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85883651,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Cantu",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

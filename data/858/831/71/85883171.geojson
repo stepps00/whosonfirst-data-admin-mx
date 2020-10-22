@@ -9,7 +9,6 @@
     "geom:bbox":"-92.917814,17.986478,-92.917814,17.986478",
     "geom:latitude":17.986478,
     "geom:longitude":-92.917814,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.922814,17.981478,-92.912814,17.991478",
     "lbl:latitude":17.986478,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883171,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Villahermosa Centro",
     "wof:parent_id":101994837,
     "wof:placetype":"neighbourhood",

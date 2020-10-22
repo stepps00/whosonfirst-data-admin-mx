@@ -9,7 +9,6 @@
     "geom:bbox":"-99.0832906919,19.4448574229,-99.0509741211,19.4665922322",
     "geom:latitude":19.456059,
     "geom:longitude":-99.066224,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.457115,
     "lbl:longitude":-99.0732,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883791,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619695,
+    "wof:lastmodified":1603242602,
     "wof:name":"San Juan de Aragon 3ra Secc",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

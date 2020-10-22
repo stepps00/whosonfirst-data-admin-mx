@@ -9,7 +9,6 @@
     "geom:bbox":"-116.915283,32.445659,-116.915283,32.445659",
     "geom:latitude":32.445659,
     "geom:longitude":-116.915283,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.920283,32.440659,-116.910283,32.450659",
     "lbl:latitude":32.445659,
@@ -71,10 +70,7 @@
         }
     ],
     "wof:id":85882459,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Balcones de la Presa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

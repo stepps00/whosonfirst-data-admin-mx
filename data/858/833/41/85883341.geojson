@@ -9,7 +9,6 @@
     "geom:bbox":"-87.092918,20.651097,-87.092918,20.651097",
     "geom:latitude":20.651097,
     "geom:longitude":-87.092918,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-87.097918,20.646097,-87.087918,20.656097",
     "lbl:latitude":20.651097,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85883341,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242584,
     "wof:name":"Galaxia",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",

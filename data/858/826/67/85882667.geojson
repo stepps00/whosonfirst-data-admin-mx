@@ -9,7 +9,6 @@
     "geom:bbox":"-106.453837,31.740131,-106.453837,31.740131",
     "geom:latitude":31.740131,
     "geom:longitude":-106.453837,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.458837,31.735131,-106.448837,31.745131",
     "lbl:latitude":31.740131,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882667,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242574,
     "wof:name":"Zona Pronaf",
     "wof:parent_id":101994153,
     "wof:placetype":"neighbourhood",

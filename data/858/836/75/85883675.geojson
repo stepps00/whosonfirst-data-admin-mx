@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1598510742,19.4270561052,-99.141998291,19.4432843639",
     "geom:latitude":19.435053,
     "geom:longitude":-99.150455,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.435256,
     "lbl:longitude":-99.149161,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85883675,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619687,
+    "wof:lastmodified":1603242600,
     "wof:name":"Tabacalera",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

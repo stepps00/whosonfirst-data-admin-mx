@@ -9,7 +9,6 @@
     "geom:bbox":"-99.235642,18.921237,-99.235642,18.921237",
     "geom:latitude":18.921237,
     "geom:longitude":-99.235642,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.240642,18.916237,-99.230642,18.926237",
     "lbl:latitude":18.921237,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884729,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Cuernavaca Centro",
     "wof:parent_id":101993267,
     "wof:placetype":"neighbourhood",

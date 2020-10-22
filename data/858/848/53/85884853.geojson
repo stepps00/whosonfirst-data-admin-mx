@@ -9,7 +9,6 @@
     "geom:bbox":"-99.943018,20.743475,-99.943018,20.743475",
     "geom:latitude":20.743475,
     "geom:longitude":-99.943018,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.948018,20.738475,-99.938018,20.748475",
     "lbl:latitude":20.743475,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884853,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242590,
     "wof:name":"Barrio la Fuente",
     "wof:parent_id":101996297,
     "wof:placetype":"neighbourhood",

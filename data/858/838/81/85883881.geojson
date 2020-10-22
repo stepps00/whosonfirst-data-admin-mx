@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1625976562,19.3681584989,-99.1543579102,19.3759317497",
     "geom:latitude":19.372045,
     "geom:longitude":-99.159263,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.372242,
     "lbl:longitude":-99.158672,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85883881,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619675,
+    "wof:lastmodified":1603242597,
     "wof:name":"Fracc Res Emperadores",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

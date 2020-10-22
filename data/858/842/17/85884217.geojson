@@ -9,7 +9,6 @@
     "geom:bbox":"-99.18156,19.67104,-99.18156,19.67104",
     "geom:latitude":19.67104,
     "geom:longitude":-99.18156,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.18656,19.66604,-99.17656,19.67604",
     "lbl:latitude":19.67104,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884217,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Necapa",
     "wof:parent_id":101992805,
     "wof:placetype":"neighbourhood",

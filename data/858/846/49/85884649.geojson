@@ -9,7 +9,6 @@
     "geom:bbox":"-98.300928,19.05268,-98.300928,19.05268",
     "geom:latitude":19.05268,
     "geom:longitude":-98.300928,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.305928,19.04768,-98.295928,19.05768",
     "lbl:latitude":19.05268,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884649,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Barrio San Andresito",
     "wof:parent_id":101999685,
     "wof:placetype":"neighbourhood",

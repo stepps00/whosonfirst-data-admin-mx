@@ -9,7 +9,6 @@
     "geom:bbox":"-96.098259,19.101854,-96.098259,19.101854",
     "geom:latitude":19.101854,
     "geom:longitude":-96.098259,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.103259,19.096854,-96.093259,19.106854",
     "lbl:latitude":19.101854,
@@ -79,10 +78,7 @@
         }
     ],
     "wof:id":85884313,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242577,
     "wof:name":"Pescadores",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

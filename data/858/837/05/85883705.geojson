@@ -9,7 +9,6 @@
     "geom:bbox":"-100.28983,25.65105,-100.28983,25.65105",
     "geom:latitude":25.65105,
     "geom:longitude":-100.28983,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.29483,25.64605,-100.28483,25.65605",
     "lbl:latitude":25.65105,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85883705,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242601,
     "wof:name":"Tecnologico",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

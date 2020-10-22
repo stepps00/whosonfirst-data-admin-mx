@@ -9,7 +9,6 @@
     "geom:bbox":"-93.2547,16.801912,-93.2547,16.801912",
     "geom:latitude":16.801912,
     "geom:longitude":-93.2547,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-93.2597,16.796912,-93.2497,16.806912",
     "lbl:latitude":16.801912,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85885171,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242583,
     "wof:name":"Barrio San Miguel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

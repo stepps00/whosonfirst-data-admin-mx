@@ -9,7 +9,6 @@
     "geom:bbox":"-109.899211,22.890944,-109.899211,22.890944",
     "geom:latitude":22.890944,
     "geom:longitude":-109.899211,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.904211,22.885944,-109.894211,22.895944",
     "lbl:latitude":22.890944,
@@ -96,10 +95,7 @@
         }
     ],
     "wof:id":85884801,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242590,
     "wof:name":"El Medano",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

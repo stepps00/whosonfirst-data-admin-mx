@@ -9,7 +9,6 @@
     "geom:bbox":"-117.020309,32.527194,-117.020309,32.527194",
     "geom:latitude":32.527194,
     "geom:longitude":-117.020309,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.025309,32.522194,-117.015309,32.532194",
     "lbl:latitude":32.527194,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85882461,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Zona Urbana Rio Tijuana",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

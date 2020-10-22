@@ -9,7 +9,6 @@
     "geom:bbox":"-100.381449,25.670355,-100.381449,25.670355",
     "geom:latitude":25.670355,
     "geom:longitude":-100.381449,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.386449,25.665355,-100.376449,25.675355",
     "lbl:latitude":25.670355,
@@ -185,10 +184,7 @@
         }
     ],
     "wof:id":85883951,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242604,
     "wof:name":"Santa Maria",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

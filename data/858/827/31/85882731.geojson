@@ -9,7 +9,6 @@
     "geom:bbox":"-114.783472,32.4855,-114.783472,32.4855",
     "geom:latitude":32.4855,
     "geom:longitude":-114.783472,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-114.788472,32.4805,-114.778472,32.4905",
     "lbl:latitude":32.4855,
@@ -104,10 +103,7 @@
         }
     ],
     "wof:id":85882731,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242568,
     "wof:name":"Cuauhtemoc",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

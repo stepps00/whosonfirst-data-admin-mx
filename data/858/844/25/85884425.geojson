@@ -9,7 +9,6 @@
     "geom:bbox":"-99.0307617188,19.2829979772,-99.0056555176,19.3068864529",
     "geom:latitude":19.294681,
     "geom:longitude":-99.018425,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.296552,
     "lbl:longitude":-99.015893,
@@ -70,10 +69,7 @@
         }
     ],
     "wof:id":85884425,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242578,
     "wof:name":"Pueblo San Francisco Tlaltenco",
     "wof:parent_id":857683023,
     "wof:placetype":"neighbourhood",

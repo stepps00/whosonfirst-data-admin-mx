@@ -9,7 +9,6 @@
     "geom:bbox":"-97.851105,22.270034,-97.851105,22.270034",
     "geom:latitude":22.270034,
     "geom:longitude":-97.851105,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.856105,22.265034,-97.846105,22.275034",
     "lbl:latitude":22.270034,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882441,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242591,
     "wof:name":"Unidad Nacional",
     "wof:parent_id":102001085,
     "wof:placetype":"neighbourhood",

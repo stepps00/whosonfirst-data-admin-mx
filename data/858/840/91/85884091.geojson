@@ -9,7 +9,6 @@
     "geom:bbox":"-110.30875,24.169179,-110.30875,24.169179",
     "geom:latitude":24.169179,
     "geom:longitude":-110.30875,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.31375,24.164179,-110.30375,24.174179",
     "lbl:latitude":24.169179,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884091,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242595,
     "wof:name":"Barrio El Esterito",
     "wof:parent_id":101994029,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-98.77533,18.877701,-98.77533,18.877701",
     "geom:latitude":18.877701,
     "geom:longitude":-98.77533,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.78033,18.872701,-98.77033,18.882701",
     "lbl:latitude":18.877701,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884785,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Ocuituco Centro",
     "wof:parent_id":101993289,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-96.72007,17.067252,-96.72007,17.067252",
     "geom:latitude":17.067252,
     "geom:longitude":-96.72007,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.72507,17.062252,-96.71507,17.072252",
     "lbl:latitude":17.067252,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85882745,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Los Pirules",
     "wof:parent_id":101995147,
     "wof:placetype":"neighbourhood",

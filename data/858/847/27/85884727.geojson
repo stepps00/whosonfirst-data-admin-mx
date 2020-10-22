@@ -9,7 +9,6 @@
     "geom:bbox":"-98.406465,19.155967,-98.406465,19.155967",
     "geom:latitude":19.155967,
     "geom:longitude":-98.406465,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.411465,19.150967,-98.401465,19.160967",
     "lbl:latitude":19.155967,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884727,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Barrio Segundo",
     "wof:parent_id":101999495,
     "wof:placetype":"neighbourhood",

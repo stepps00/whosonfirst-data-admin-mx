@@ -9,7 +9,6 @@
     "geom:bbox":"-103.430148,20.678426,-103.430148,20.678426",
     "geom:latitude":20.678426,
     "geom:longitude":-103.430148,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.435148,20.673426,-103.425148,20.683426",
     "lbl:latitude":20.678426,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884911,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242591,
     "wof:name":"Camichin Vallarta",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

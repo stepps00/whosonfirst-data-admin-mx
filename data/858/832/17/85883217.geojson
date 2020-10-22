@@ -9,7 +9,6 @@
     "geom:bbox":"-101.610117,19.51619,-101.610117,19.51619",
     "geom:latitude":19.51619,
     "geom:longitude":-101.610117,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.615117,19.51119,-101.605117,19.52119",
     "lbl:latitude":19.51619,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883217,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Patzcuaro Centro",
     "wof:parent_id":101997213,
     "wof:placetype":"neighbourhood",

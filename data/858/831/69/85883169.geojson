@@ -9,7 +9,6 @@
     "geom:bbox":"-98.304728,19.077237,-98.304728,19.077237",
     "geom:latitude":19.077237,
     "geom:longitude":-98.304728,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.309728,19.072237,-98.299728,19.082237",
     "lbl:latitude":19.077237,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883169,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242598,
     "wof:name":"Unidad Hab Fovissste Cholula",
     "wof:parent_id":101999761,
     "wof:placetype":"neighbourhood",

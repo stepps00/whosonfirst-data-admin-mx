@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1900634766,19.4096115431,-99.1735839844,19.4229073717",
     "geom:latitude":19.416015,
     "geom:longitude":-99.181815,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.418961,
     "lbl:longitude":-99.181112,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85884457,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242577,
     "wof:name":"Bosque de Chapultepec",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-100.126648,25.634098,-100.126648,25.634098",
     "geom:latitude":25.634098,
     "geom:longitude":-100.126648,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.131648,25.629098,-100.121648,25.639098",
     "lbl:latitude":25.634098,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884927,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242591,
     "wof:name":"Hector Caballero Escamilla",
     "wof:parent_id":102000705,
     "wof:placetype":"neighbourhood",

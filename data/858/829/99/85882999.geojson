@@ -9,7 +9,6 @@
     "geom:bbox":"-98.867493,19.67104,-98.867493,19.67104",
     "geom:latitude":19.67104,
     "geom:longitude":-98.867493,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.872493,19.66604,-98.862493,19.67604",
     "lbl:latitude":19.67104,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85882999,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Villas Teotihuacan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-106.486353,23.302483,-106.486353,23.302483",
     "geom:latitude":23.302483,
     "geom:longitude":-106.486353,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.491353,23.297483,-106.481353,23.307483",
     "lbl:latitude":23.302483,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85884141,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Fracc Cerritos Resort",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

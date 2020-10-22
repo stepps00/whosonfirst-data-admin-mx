@@ -9,7 +9,6 @@
     "geom:bbox":"-101.256482,21.017281,-101.256482,21.017281",
     "geom:latitude":21.017281,
     "geom:longitude":-101.256482,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.261482,21.012281,-101.251482,21.022281",
     "lbl:latitude":21.017281,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85884297,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Guanajuato Centro",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2071787497,19.2738379249,-99.1900634766,19.2904056395",
     "geom:latitude":19.282448,
     "geom:longitude":-99.197637,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.28547,
     "lbl:longitude":-99.194517,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884025,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619666,
+    "wof:lastmodified":1603242595,
     "wof:name":"Ampl Miguel Hidalgo 1ra Secc",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

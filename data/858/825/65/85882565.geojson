@@ -9,7 +9,6 @@
     "geom:bbox":"-87.037753,20.662113,-87.037753,20.662113",
     "geom:latitude":20.662113,
     "geom:longitude":-87.037753,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-87.042753,20.657113,-87.032753,20.667113",
     "lbl:latitude":20.662113,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882565,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Nicte - Ha",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",

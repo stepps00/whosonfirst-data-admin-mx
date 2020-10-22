@@ -9,7 +9,6 @@
     "geom:bbox":"-96.11795,18.083408,-96.11795,18.083408",
     "geom:latitude":18.083408,
     "geom:longitude":-96.11795,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.12295,18.078408,-96.11295,18.088408",
     "lbl:latitude":18.083408,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85885097,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"San Juan Bautista Tuxtepec Centro",
     "wof:parent_id":101995405,
     "wof:placetype":"neighbourhood",

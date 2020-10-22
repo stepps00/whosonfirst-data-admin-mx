@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1643579101,19.2505553121,-99.137878418,19.2718869705",
     "geom:latitude":19.25957,
     "geom:longitude":-99.150778,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.256045,
     "lbl:longitude":-99.149758,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884481,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619588,
+    "wof:lastmodified":1603242578,
     "wof:name":"Heroico Colegio Militar",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-103.346833,20.663381,-103.346833,20.663381",
     "geom:latitude":20.663381,
     "geom:longitude":-103.346833,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.351833,20.658381,-103.341833,20.668381",
     "lbl:latitude":20.663381,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884983,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Mexicaltzingo",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

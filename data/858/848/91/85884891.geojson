@@ -9,7 +9,6 @@
     "geom:bbox":"-103.242196,20.62716,-103.242196,20.62716",
     "geom:latitude":20.62716,
     "geom:longitude":-103.242196,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.247196,20.62216,-103.237196,20.63216",
     "lbl:latitude":20.62716,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85884891,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242590,
     "wof:name":"Tonala Centro",
     "wof:parent_id":101997867,
     "wof:placetype":"neighbourhood",

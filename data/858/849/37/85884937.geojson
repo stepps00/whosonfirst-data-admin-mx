@@ -9,7 +9,6 @@
     "geom:bbox":"-105.264198,21.030311,-105.264198,21.030311",
     "geom:latitude":21.030311,
     "geom:longitude":-105.264198,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.269198,21.025311,-105.259198,21.035311",
     "lbl:latitude":21.030311,
@@ -81,10 +80,7 @@
         }
     ],
     "wof:id":85884937,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Ejido Rincon de Guayabitos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

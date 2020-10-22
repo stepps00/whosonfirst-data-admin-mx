@@ -9,7 +9,6 @@
     "geom:bbox":"-94.477251,18.143667,-94.477251,18.143667",
     "geom:latitude":18.143667,
     "geom:longitude":-94.477251,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-94.482251,18.138667,-94.472251,18.148667",
     "lbl:latitude":18.143667,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883091,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Pensiones",
     "wof:parent_id":101998237,
     "wof:placetype":"neighbourhood",

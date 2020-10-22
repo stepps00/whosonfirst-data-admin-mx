@@ -9,7 +9,6 @@
     "geom:bbox":"-97.450562,20.480197,-97.450562,20.480197",
     "geom:latitude":20.480197,
     "geom:longitude":-97.450562,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.455562,20.475197,-97.445562,20.485197",
     "lbl:latitude":20.480197,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885001,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Fracc Kawatsin Valencia",
     "wof:parent_id":101998249,
     "wof:placetype":"neighbourhood",

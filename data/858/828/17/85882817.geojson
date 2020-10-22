@@ -9,7 +9,6 @@
     "geom:bbox":"-103.664246,19.23077,-103.664246,19.23077",
     "geom:latitude":19.23077,
     "geom:longitude":-103.664246,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.669246,19.22577,-103.659246,19.23577",
     "lbl:latitude":19.23077,
@@ -99,10 +98,7 @@
         }
     ],
     "wof:id":85882817,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242573,
     "wof:name":"Burocratas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

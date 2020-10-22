@@ -9,7 +9,6 @@
     "geom:bbox":"-104.780823,20.520634,-104.780823,20.520634",
     "geom:latitude":20.520634,
     "geom:longitude":-104.780823,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.785823,20.515634,-104.775823,20.525634",
     "lbl:latitude":20.520634,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884605,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Mascota Centro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

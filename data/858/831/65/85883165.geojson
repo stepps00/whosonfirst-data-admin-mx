@@ -9,7 +9,6 @@
     "geom:bbox":"-99.501719,17.553309,-99.501719,17.553309",
     "geom:latitude":17.553309,
     "geom:longitude":-99.501719,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.506719,17.548309,-99.496719,17.558309",
     "lbl:latitude":17.553309,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883165,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Chilpancingo de Los Bravo Centro",
     "wof:parent_id":101991453,
     "wof:placetype":"neighbourhood",

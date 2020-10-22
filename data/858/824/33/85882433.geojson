@@ -9,7 +9,6 @@
     "geom:bbox":"-97.840445,22.21223,-97.840445,22.21223",
     "geom:latitude":22.21223,
     "geom:longitude":-97.840445,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.845445,22.20723,-97.835445,22.21723",
     "lbl:latitude":22.21223,
@@ -102,10 +101,7 @@
         }
     ],
     "wof:id":85882433,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Isleta Perez",
     "wof:parent_id":102001087,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1073043129,19.324470121,-99.0793851274,19.3526106886",
     "geom:latitude":19.339769,
     "geom:longitude":-99.092456,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.343686,
     "lbl:longitude":-99.091187,
@@ -122,10 +121,7 @@
         }
     ],
     "wof:id":85884005,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619661,
+    "wof:lastmodified":1603242594,
     "wof:name":"Valle de Luces",
     "wof:parent_id":890535765,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-98.302307,26.09324,-98.302307,26.09324",
     "geom:latitude":26.09324,
     "geom:longitude":-98.302307,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.307307,26.08824,-98.297307,26.09824",
     "lbl:latitude":26.09324,
@@ -174,10 +173,7 @@
         }
     ],
     "wof:id":85882443,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242591,
     "wof:name":"Vicente Guerrero",
     "wof:parent_id":102000955,
     "wof:placetype":"neighbourhood",

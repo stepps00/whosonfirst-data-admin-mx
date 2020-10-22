@@ -9,7 +9,6 @@
     "geom:bbox":"-89.017459,20.934012,-89.017459,20.934012",
     "geom:latitude":20.934012,
     "geom:longitude":-89.017459,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.022459,20.929012,-89.012459,20.939012",
     "lbl:latitude":20.934012,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884827,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Fracc Kinich Kakmo",
     "wof:parent_id":102001129,
     "wof:placetype":"neighbourhood",

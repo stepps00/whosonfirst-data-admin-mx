@@ -9,7 +9,6 @@
     "geom:bbox":"-109.695487,23.06139,-109.695487,23.06139",
     "geom:latitude":23.06139,
     "geom:longitude":-109.695487,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.700487,23.05639,-109.690487,23.06639",
     "lbl:latitude":23.06139,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884811,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"San Jose Del Cabo Centro",
     "wof:parent_id":101993435,
     "wof:placetype":"neighbourhood",

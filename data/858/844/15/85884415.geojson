@@ -9,7 +9,6 @@
     "geom:bbox":"-99.236723,19.500731,-99.236723,19.500731",
     "geom:latitude":19.500731,
     "geom:longitude":-99.236723,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.241723,19.495731,-99.231723,19.505731",
     "lbl:latitude":19.500731,
@@ -411,10 +410,7 @@
         }
     ],
     "wof:id":85884415,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242578,
     "wof:name":"Satelite",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

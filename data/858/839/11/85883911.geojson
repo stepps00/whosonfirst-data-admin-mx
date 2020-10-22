@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1359407649,19.3186006744,-99.1160701361,19.3387564328",
     "geom:latitude":19.328991,
     "geom:longitude":-99.127733,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.326825,
     "lbl:longitude":-99.129868,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883911,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619706,
+    "wof:lastmodified":1603242604,
     "wof:name":"Presidentes Ejidales",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1543579102,19.3811137093,-99.1516113281,19.3837046284",
     "geom:latitude":19.382409,
     "geom:longitude":-99.152985,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.38241,
     "lbl:longitude":-99.152985,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85884051,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619661,
+    "wof:lastmodified":1603242594,
     "wof:name":"Vertiz Narvarte",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

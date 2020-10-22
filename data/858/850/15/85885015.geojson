@@ -9,7 +9,6 @@
     "geom:bbox":"-95.662714,18.613387,-95.662714,18.613387",
     "geom:latitude":18.613387,
     "geom:longitude":-95.662714,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-95.667714,18.608387,-95.657714,18.618387",
     "lbl:latitude":18.613387,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885015,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Tlacotalpan Centro",
     "wof:parent_id":101998793,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-110.959708,29.067172,-110.959708,29.067172",
     "geom:latitude":29.067172,
     "geom:longitude":-110.959708,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.964708,29.062172,-110.954708,29.072172",
     "lbl:latitude":29.067172,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882701,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242568,
     "wof:name":"Hermosillo Xxi",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

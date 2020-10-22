@@ -9,7 +9,6 @@
     "geom:bbox":"-93.142572,16.755197,-93.142572,16.755197",
     "geom:latitude":16.755197,
     "geom:longitude":-93.142572,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-93.147572,16.750197,-93.137572,16.760197",
     "lbl:latitude":16.755197,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882991,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Conjunto Hab Magdalena",
     "wof:parent_id":101994357,
     "wof:placetype":"neighbourhood",

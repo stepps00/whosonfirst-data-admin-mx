@@ -9,7 +9,6 @@
     "geom:bbox":"-97.960729,19.933522,-97.960729,19.933522",
     "geom:latitude":19.933522,
     "geom:longitude":-97.960729,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.965729,19.928522,-97.955729,19.938522",
     "lbl:latitude":19.933522,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884689,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Zacatlan Centro",
     "wof:parent_id":102000055,
     "wof:placetype":"neighbourhood",

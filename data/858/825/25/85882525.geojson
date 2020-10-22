@@ -9,7 +9,6 @@
     "geom:bbox":"-102.320442,21.895079,-102.320442,21.895079",
     "geom:latitude":21.895079,
     "geom:longitude":-102.320442,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.325442,21.890079,-102.315442,21.900079",
     "lbl:latitude":21.895079,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882525,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242597,
     "wof:name":"Fracc Las Brisas",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

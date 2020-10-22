@@ -9,7 +9,6 @@
     "geom:bbox":"-116.677551,31.87989,-116.677551,31.87989",
     "geom:latitude":31.87989,
     "geom:longitude":-116.677551,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.682551,31.87489,-116.672551,31.88489",
     "lbl:latitude":31.87989,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85884167,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Colinas Serenidad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

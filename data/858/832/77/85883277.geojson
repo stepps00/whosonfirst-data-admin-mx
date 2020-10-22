@@ -9,7 +9,6 @@
     "geom:bbox":"-90.531204,19.851904,-90.531204,19.851904",
     "geom:latitude":19.851904,
     "geom:longitude":-90.531204,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-90.536204,19.846904,-90.526204,19.856904",
     "lbl:latitude":19.851904,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883277,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242582,
     "wof:name":"Ah Kim Pech",
     "wof:parent_id":102001379,
     "wof:placetype":"neighbourhood",

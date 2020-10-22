@@ -9,7 +9,6 @@
     "geom:bbox":"-99.972433,16.901119,-99.972433,16.901119",
     "geom:latitude":16.901119,
     "geom:longitude":-99.972433,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.977433,16.896119,-99.967433,16.906119",
     "lbl:latitude":16.901119,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882993,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Unidad Hab Fuerza Aerea",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

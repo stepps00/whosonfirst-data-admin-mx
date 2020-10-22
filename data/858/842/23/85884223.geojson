@@ -9,7 +9,6 @@
     "geom:bbox":"-104.684359,24.028118,-104.684359,24.028118",
     "geom:latitude":24.028118,
     "geom:longitude":-104.684359,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.689359,24.023118,-104.679359,24.033118",
     "lbl:latitude":24.028118,
@@ -114,10 +113,7 @@
         }
     ],
     "wof:id":85884223,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242573,
     "wof:name":"Los Sauces",
     "wof:parent_id":101994335,
     "wof:placetype":"neighbourhood",

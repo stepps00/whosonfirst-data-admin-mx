@@ -9,7 +9,6 @@
     "geom:bbox":"-104.351461,19.108928,-104.351461,19.108928",
     "geom:latitude":19.108928,
     "geom:longitude":-104.351461,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.356461,19.103928,-104.346461,19.113928",
     "lbl:latitude":19.108928,
@@ -80,10 +79,7 @@
         }
     ],
     "wof:id":85883119,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Villas Del Faro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

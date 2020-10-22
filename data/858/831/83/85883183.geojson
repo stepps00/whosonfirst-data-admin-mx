@@ -9,7 +9,6 @@
     "geom:bbox":"-102.552898,22.764867,-102.552898,22.764867",
     "geom:latitude":22.764867,
     "geom:longitude":-102.552898,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.557898,22.759867,-102.547898,22.769867",
     "lbl:latitude":22.764867,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883183,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Fracc Colonial Zacatecas",
     "wof:parent_id":101994047,
     "wof:placetype":"neighbourhood",

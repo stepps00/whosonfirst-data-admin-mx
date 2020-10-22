@@ -9,7 +9,6 @@
     "geom:bbox":"-116.96814,32.50652,-116.96814,32.50652",
     "geom:latitude":32.50652,
     "geom:longitude":-116.96814,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.97314,32.50152,-116.96314,32.51152",
     "lbl:latitude":32.50652,
@@ -75,10 +74,7 @@
         }
     ],
     "wof:id":85882475,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242591,
     "wof:name":"Los Volcanes Fovissste",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

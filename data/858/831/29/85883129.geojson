@@ -9,7 +9,6 @@
     "geom:bbox":"-100.385913,20.614542,-100.385913,20.614542",
     "geom:latitude":20.614542,
     "geom:longitude":-100.385913,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.390913,20.609542,-100.380913,20.619542",
     "lbl:latitude":20.614542,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883129,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242598,
     "wof:name":"Balcones Coloniales",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

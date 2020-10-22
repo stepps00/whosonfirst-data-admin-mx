@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2852075195,19.3681584645,-99.2724609375,19.3797024317",
     "geom:latitude":19.372931,
     "geom:longitude":-99.278814,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.37075,
     "lbl:longitude":-99.275208,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884509,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619558,
+    "wof:lastmodified":1603242571,
     "wof:name":"Giralta",
     "wof:parent_id":890535767,
     "wof:placetype":"neighbourhood",

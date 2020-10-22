@@ -463,8 +463,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        102078687,
-        85686681
+        85686681,
+        102078687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -490,10 +490,7 @@
         }
     ],
     "wof:id":102000679,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1587428917,
+    "wof:lastmodified":1603242461,
     "wof:megacity":1,
     "wof:name":"Monterrey",
     "wof:parent_id":102078687,

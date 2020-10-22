@@ -9,7 +9,6 @@
     "geom:bbox":"-101.610616,19.539957,-101.610616,19.539957",
     "geom:latitude":19.539957,
     "geom:longitude":-101.610616,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.615616,19.534957,-101.605616,19.544957",
     "lbl:latitude":19.539957,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85883603,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242599,
     "wof:name":"Presidencial",
     "wof:parent_id":101997213,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-89.661932,20.933223,-89.661932,20.933223",
     "geom:latitude":20.933223,
     "geom:longitude":-89.661932,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.666932,20.928223,-89.656932,20.938223",
     "lbl:latitude":20.933223,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883263,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242582,
     "wof:name":"Manuel Crescencio Rejon",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

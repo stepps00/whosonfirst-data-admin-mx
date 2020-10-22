@@ -9,7 +9,6 @@
     "geom:bbox":"-96.116925,19.169638,-96.116925,19.169638",
     "geom:latitude":19.169638,
     "geom:longitude":-96.116925,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.121925,19.164638,-96.111925,19.174638",
     "lbl:latitude":19.169638,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883525,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Fracc Costa Verde",
     "wof:parent_id":101998203,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-101.01844,22.143468,-101.01844,22.143468",
     "geom:latitude":22.143468,
     "geom:longitude":-101.01844,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.02344,22.138468,-101.01344,22.148468",
     "lbl:latitude":22.143468,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883087,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Lomas de Los Filtros",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

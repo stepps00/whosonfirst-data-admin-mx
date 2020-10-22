@@ -9,7 +9,6 @@
     "geom:bbox":"-101.193695,19.698193,-101.193695,19.698193",
     "geom:latitude":19.698193,
     "geom:longitude":-101.193695,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.198695,19.693193,-101.188695,19.703193",
     "lbl:latitude":19.698193,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882871,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242574,
     "wof:name":"Molino de Parras",
     "wof:parent_id":101997341,
     "wof:placetype":"neighbourhood",

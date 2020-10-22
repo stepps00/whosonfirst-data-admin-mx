@@ -9,7 +9,6 @@
     "geom:bbox":"-100.750837,20.918517,-100.750837,20.918517",
     "geom:latitude":20.918517,
     "geom:longitude":-100.750837,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.755837,20.913517,-100.745837,20.923517",
     "lbl:latitude":20.918517,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883421,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242585,
     "wof:name":"San Rafael Insurgentes",
     "wof:parent_id":101993059,
     "wof:placetype":"neighbourhood",

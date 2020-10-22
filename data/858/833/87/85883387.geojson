@@ -9,7 +9,6 @@
     "geom:bbox":"-99.244339,19.613144,-99.244339,19.613144",
     "geom:latitude":19.613144,
     "geom:longitude":-99.244339,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.249339,19.608144,-99.239339,19.618144",
     "lbl:latitude":19.613144,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883387,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Bosques de Primavera",
     "wof:parent_id":101991533,
     "wof:placetype":"neighbourhood",

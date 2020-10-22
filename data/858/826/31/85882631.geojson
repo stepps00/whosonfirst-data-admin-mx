@@ -9,7 +9,6 @@
     "geom:bbox":"-100.134099,25.399508,-100.134099,25.399508",
     "geom:latitude":25.399508,
     "geom:longitude":-100.134099,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.139099,25.394508,-100.129099,25.404508",
     "lbl:latitude":25.399508,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882631,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Los Pescadores",
     "wof:parent_id":102000647,
     "wof:placetype":"neighbourhood",

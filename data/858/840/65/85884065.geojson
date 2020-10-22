@@ -9,7 +9,6 @@
     "geom:bbox":"-99.0878049706,19.4166949224,-99.0802001953,19.4277438843",
     "geom:latitude":19.422836,
     "geom:longitude":-99.083566,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.421363,
     "lbl:longitude":-99.08347,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884065,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619664,
+    "wof:lastmodified":1603242595,
     "wof:name":"Cuatro Arboles",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",

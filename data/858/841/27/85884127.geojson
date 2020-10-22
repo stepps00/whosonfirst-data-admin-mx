@@ -9,7 +9,6 @@
     "geom:bbox":"-106.431058,23.201051,-106.431058,23.201051",
     "geom:latitude":23.201051,
     "geom:longitude":-106.431058,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.436058,23.196051,-106.426058,23.206051",
     "lbl:latitude":23.201051,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884127,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Balcones de Loma Linda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

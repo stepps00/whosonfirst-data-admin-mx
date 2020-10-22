@@ -9,7 +9,6 @@
     "geom:bbox":"-86.974837,20.467527,-86.974837,20.467527",
     "geom:latitude":20.467527,
     "geom:longitude":-86.974837,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-86.979837,20.462527,-86.969837,20.472527",
     "lbl:latitude":20.467527,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85882589,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Taxistas Y Ctm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

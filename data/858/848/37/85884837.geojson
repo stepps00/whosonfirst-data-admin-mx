@@ -9,7 +9,6 @@
     "geom:bbox":"-89.667675,21.284379,-89.667675,21.284379",
     "geom:latitude":21.284379,
     "geom:longitude":-89.667675,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.672675,21.279379,-89.662675,21.289379",
     "lbl:latitude":21.284379,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884837,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242590,
     "wof:name":"Progreso Centro",
     "wof:parent_id":102001367,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.90823,16.827411,-99.90823,16.827411",
     "geom:latitude":16.827411,
     "geom:longitude":-99.90823,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.91323,16.822411,-99.90323,16.832411",
     "lbl:latitude":16.827411,
@@ -80,10 +79,7 @@
         }
     ],
     "wof:id":85883531,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Barrio Cobadonga",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

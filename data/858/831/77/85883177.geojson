@@ -9,7 +9,6 @@
     "geom:bbox":"-117.034527,32.284078,-117.034527,32.284078",
     "geom:latitude":32.284078,
     "geom:longitude":-117.034527,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.039527,32.279078,-117.029527,32.289078",
     "lbl:latitude":32.284078,
@@ -81,10 +80,7 @@
         }
     ],
     "wof:id":85883177,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Ciudad Popotla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

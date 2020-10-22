@@ -9,7 +9,6 @@
     "geom:bbox":"-102.718084,21.847651,-102.718084,21.847651",
     "geom:latitude":21.847651,
     "geom:longitude":-102.718084,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.723084,21.842651,-102.713084,21.852651",
     "lbl:latitude":21.847651,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885145,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242583,
     "wof:name":"Calvillo Centro",
     "wof:parent_id":101996885,
     "wof:placetype":"neighbourhood",

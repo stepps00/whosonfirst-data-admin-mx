@@ -9,7 +9,6 @@
     "geom:bbox":"-101.188156,19.701628,-101.188156,19.701628",
     "geom:latitude":19.701628,
     "geom:longitude":-101.188156,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.193156,19.696628,-101.183156,19.706628",
     "lbl:latitude":19.701628,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85883423,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Morelia Centro",
     "wof:parent_id":101997341,
     "wof:placetype":"neighbourhood",

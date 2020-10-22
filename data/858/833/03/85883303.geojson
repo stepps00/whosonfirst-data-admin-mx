@@ -9,7 +9,6 @@
     "geom:bbox":"-110.909729,27.901395,-110.909729,27.901395",
     "geom:latitude":27.901395,
     "geom:longitude":-110.909729,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.914729,27.896395,-110.904729,27.906395",
     "lbl:latitude":27.901395,
@@ -169,10 +168,7 @@
         }
     ],
     "wof:id":85883303,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Samaniego",
     "wof:parent_id":101994013,
     "wof:placetype":"neighbourhood",

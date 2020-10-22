@@ -9,7 +9,6 @@
     "geom:bbox":"-101.558167,21.046054,-101.558167,21.046054",
     "geom:latitude":21.046054,
     "geom:longitude":-101.558167,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.563167,21.041054,-101.553167,21.051054",
     "lbl:latitude":21.046054,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883069,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Campestre San Jose",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

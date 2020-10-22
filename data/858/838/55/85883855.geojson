@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1204125977,19.2836883976,-99.0803202322,19.3237353641",
     "geom:latitude":19.305066,
     "geom:longitude":-99.101165,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.301806,
     "lbl:longitude":-99.103209,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883855,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619676,
+    "wof:lastmodified":1603242598,
     "wof:name":"Fracc Villa Quietud",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

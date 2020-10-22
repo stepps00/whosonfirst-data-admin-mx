@@ -9,7 +9,6 @@
     "geom:bbox":"-99.629187,21.133855,-99.629187,21.133855",
     "geom:latitude":21.133855,
     "geom:longitude":-99.629187,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.634187,21.128855,-99.624187,21.138855",
     "lbl:latitude":21.133855,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85884835,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Barrio la Escondida",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-103.377717,20.672327,-103.377717,20.672327",
     "geom:latitude":20.672327,
     "geom:longitude":-103.377717,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.382717,20.667327,-103.372717,20.677327",
     "lbl:latitude":20.672327,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884567,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242570,
     "wof:name":"Res Arcos",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

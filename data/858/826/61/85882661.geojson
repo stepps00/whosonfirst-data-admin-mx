@@ -9,7 +9,6 @@
     "geom:bbox":"-101.19452,19.684937,-101.19452,19.684937",
     "geom:latitude":19.684937,
     "geom:longitude":-101.19452,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.19952,19.679937,-101.18952,19.689937",
     "lbl:latitude":19.684937,
@@ -101,10 +100,7 @@
         }
     ],
     "wof:id":85882661,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242574,
     "wof:name":"Virreyes",
     "wof:parent_id":101997341,
     "wof:placetype":"neighbourhood",

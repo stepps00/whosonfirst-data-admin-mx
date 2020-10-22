@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1980029309,19.2955903148,-99.1845703125,19.3111433551",
     "geom:latitude":19.303442,
     "geom:longitude":-99.191678,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.302505,
     "lbl:longitude":-99.189544,
@@ -101,10 +100,7 @@
         }
     ],
     "wof:id":85884477,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242578,
     "wof:name":"Parque Del Pedregal",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

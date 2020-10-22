@@ -9,7 +9,6 @@
     "geom:bbox":"-99.566345,19.26085,-99.566345,19.26085",
     "geom:latitude":19.26085,
     "geom:longitude":-99.566345,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.571345,19.25585,-99.561345,19.26585",
     "lbl:latitude":19.26085,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884231,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Agricola Lazaro Cardenas",
     "wof:parent_id":101992517,
     "wof:placetype":"neighbourhood",

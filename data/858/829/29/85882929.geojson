@@ -9,7 +9,6 @@
     "geom:bbox":"-91.846619,18.619351,-91.846619,18.619351",
     "geom:latitude":18.619351,
     "geom:longitude":-91.846619,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-91.851619,18.614351,-91.841619,18.624351",
     "lbl:latitude":18.619351,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85882929,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Guanal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

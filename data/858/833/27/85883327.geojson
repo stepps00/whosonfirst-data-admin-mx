@@ -9,7 +9,6 @@
     "geom:bbox":"-99.914523,16.844071,-99.914523,16.844071",
     "geom:latitude":16.844071,
     "geom:longitude":-99.914523,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.919523,16.839071,-99.909523,16.849071",
     "lbl:latitude":16.844071,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883327,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"La Pinzona",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

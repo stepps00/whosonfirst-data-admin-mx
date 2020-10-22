@@ -9,7 +9,6 @@
     "geom:bbox":"-117.00852,32.518178,-117.00852,32.518178",
     "geom:latitude":32.518178,
     "geom:longitude":-117.00852,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.01352,32.513178,-117.00352,32.523178",
     "lbl:latitude":32.518178,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883549,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Aviacion",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

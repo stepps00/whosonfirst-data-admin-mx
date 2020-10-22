@@ -9,7 +9,6 @@
     "geom:bbox":"-89.64125,20.95096,-89.64125,20.95096",
     "geom:latitude":20.95096,
     "geom:longitude":-89.64125,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.64625,20.94596,-89.63625,20.95596",
     "lbl:latitude":20.95096,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883641,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Fracc Los Reyes",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

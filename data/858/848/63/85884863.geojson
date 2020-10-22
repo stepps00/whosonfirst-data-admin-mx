@@ -9,7 +9,6 @@
     "geom:bbox":"-98.473893,18.938883,-98.473893,18.938883",
     "geom:latitude":18.938883,
     "geom:longitude":-98.473893,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.478893,18.933883,-98.468893,18.943883",
     "lbl:latitude":18.938883,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85884863,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Ing Cuauhtemoc Cardenas (la Villa)",
     "wof:parent_id":101999289,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-96.726421,17.059562,-96.726421,17.059562",
     "geom:latitude":17.059562,
     "geom:longitude":-96.726421,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.731421,17.054562,-96.721421,17.064562",
     "lbl:latitude":17.059562,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883615,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242601,
     "wof:name":"Compuerta",
     "wof:parent_id":101995147,
     "wof:placetype":"neighbourhood",

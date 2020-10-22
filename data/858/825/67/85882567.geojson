@@ -9,7 +9,6 @@
     "geom:bbox":"-87.094736,20.633818,-87.094736,20.633818",
     "geom:latitude":20.633818,
     "geom:longitude":-87.094736,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-87.099736,20.628818,-87.089736,20.638818",
     "lbl:latitude":20.633818,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85882567,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Ejidal",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",

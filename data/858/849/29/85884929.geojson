@@ -9,7 +9,6 @@
     "geom:bbox":"-103.323666,20.624138,-103.323666,20.624138",
     "geom:latitude":20.624138,
     "geom:longitude":-103.323666,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.328666,20.619138,-103.318666,20.629138",
     "lbl:latitude":20.624138,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884929,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242591,
     "wof:name":"Alamo Industrial",
     "wof:parent_id":101997863,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-96.09875,19.14916,-96.09875,19.14916",
     "geom:latitude":19.14916,
     "geom:longitude":-96.09875,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.10375,19.14416,-96.09375,19.15416",
     "lbl:latitude":19.14916,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884317,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242576,
     "wof:name":"Unidad Hab Heriberto Kehoe",
     "wof:parent_id":101998203,
     "wof:placetype":"neighbourhood",

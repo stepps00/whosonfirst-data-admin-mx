@@ -9,7 +9,6 @@
     "geom:bbox":"-99.864645,16.829714,-99.864645,16.829714",
     "geom:latitude":16.829714,
     "geom:longitude":-99.864645,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.869645,16.824714,-99.859645,16.834714",
     "lbl:latitude":16.829714,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882759,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Fracc Marina Brisas",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

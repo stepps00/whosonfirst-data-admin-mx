@@ -9,7 +9,6 @@
     "geom:bbox":"-101.678281,21.176947,-101.678281,21.176947",
     "geom:latitude":21.176947,
     "geom:longitude":-101.678281,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.683281,21.171947,-101.673281,21.181947",
     "lbl:latitude":21.176947,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883335,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Rivera de la Presa Country",
     "wof:parent_id":101996837,
     "wof:placetype":"neighbourhood",

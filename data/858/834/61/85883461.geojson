@@ -9,7 +9,6 @@
     "geom:bbox":"-97.838145,22.229527,-97.838145,22.229527",
     "geom:latitude":22.229527,
     "geom:longitude":-97.838145,
-    "gn:id":"",
     "gn:population":309003,
     "iso:country":"MX",
     "lbl:bbox":"-97.843145,22.224527,-97.833145,22.234527",
@@ -436,10 +435,7 @@
         }
     ],
     "wof:id":85883461,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:megacity":0,
     "wof:name":"Tamaulipas",
     "wof:parent_id":102001087,

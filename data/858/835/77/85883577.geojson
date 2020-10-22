@@ -9,7 +9,6 @@
     "geom:bbox":"-94.437613,18.139005,-94.437613,18.139005",
     "geom:latitude":18.139005,
     "geom:longitude":-94.437613,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-94.442613,18.134005,-94.432613,18.144005",
     "lbl:latitude":18.139005,
@@ -102,10 +101,7 @@
         }
     ],
     "wof:id":85883577,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242581,
     "wof:name":"Palma Sola",
     "wof:parent_id":101998237,
     "wof:placetype":"neighbourhood",

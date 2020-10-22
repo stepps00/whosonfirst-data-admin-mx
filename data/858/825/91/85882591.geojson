@@ -9,7 +9,6 @@
     "geom:bbox":"-103.747365,19.257929,-103.747365,19.257929",
     "geom:latitude":19.257929,
     "geom:longitude":-103.747365,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.752365,19.252929,-103.742365,19.262929",
     "lbl:latitude":19.257929,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85882591,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Juan Jose Rios Ii",
     "wof:parent_id":101996947,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-98.283691,26.086389,-98.283691,26.086389",
     "geom:latitude":26.086389,
     "geom:longitude":-98.283691,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.288691,26.081389,-98.278691,26.091389",
     "lbl:latitude":26.086389,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882893,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242573,
     "wof:name":"Simon Rodriguez",
     "wof:parent_id":102000955,
     "wof:placetype":"neighbourhood",

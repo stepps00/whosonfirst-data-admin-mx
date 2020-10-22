@@ -9,7 +9,6 @@
     "geom:bbox":"-97.664143,18.95936,-97.664143,18.95936",
     "geom:latitude":18.95936,
     "geom:longitude":-97.664143,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.669143,18.95436,-97.659143,18.96436",
     "lbl:latitude":18.95936,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884621,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Barrio Del Rosario",
     "wof:parent_id":101999661,
     "wof:placetype":"neighbourhood",

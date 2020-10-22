@@ -9,7 +9,6 @@
     "geom:bbox":"-99.878982,16.859194,-99.878982,16.859194",
     "geom:latitude":16.859194,
     "geom:longitude":-99.878982,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.883982,16.854194,-99.873982,16.864194",
     "lbl:latitude":16.859194,
@@ -80,10 +79,7 @@
         }
     ],
     "wof:id":85882947,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Fracc Magallanes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

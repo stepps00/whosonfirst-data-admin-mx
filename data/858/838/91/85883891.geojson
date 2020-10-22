@@ -9,7 +9,6 @@
     "geom:bbox":"-99.059987793,19.1896472522,-99.0344946289,19.2148347959",
     "geom:latitude":19.201511,
     "geom:longitude":-99.046515,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.202241,
     "lbl:longitude":-99.045868,
@@ -79,10 +78,7 @@
         }
     ],
     "wof:id":85883891,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619675,
+    "wof:lastmodified":1603242597,
     "wof:name":"Barrio Panchimalco",
     "wof:parent_id":101991139,
     "wof:placetype":"neighbourhood",

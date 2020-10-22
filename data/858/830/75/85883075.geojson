@@ -9,7 +9,6 @@
     "geom:bbox":"-100.384049,20.600187,-100.384049,20.600187",
     "geom:latitude":20.600187,
     "geom:longitude":-100.384049,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.389049,20.595187,-100.379049,20.605187",
     "lbl:latitude":20.600187,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883075,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Conjunto Hab Arboledas Del Rio",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

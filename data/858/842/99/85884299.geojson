@@ -9,7 +9,6 @@
     "geom:bbox":"-96.767371,17.04584,-96.767371,17.04584",
     "geom:latitude":17.04584,
     "geom:longitude":-96.767371,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.772371,17.04084,-96.762371,17.05084",
     "lbl:latitude":17.04584,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884299,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Margarita Maza de Juarez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

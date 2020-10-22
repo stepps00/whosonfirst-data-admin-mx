@@ -9,7 +9,6 @@
     "geom:bbox":"-91.983624,17.509308,-91.983624,17.509308",
     "geom:latitude":17.509308,
     "geom:longitude":-91.983624,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-91.988624,17.504308,-91.978624,17.514308",
     "lbl:latitude":17.509308,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85885233,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242606,
     "wof:name":"Palenque Centro",
     "wof:parent_id":101994537,
     "wof:placetype":"neighbourhood",

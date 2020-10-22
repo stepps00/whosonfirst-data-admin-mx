@@ -9,7 +9,6 @@
     "geom:bbox":"-96.181641,17.181905,-96.181641,17.181905",
     "geom:latitude":17.181905,
     "geom:longitude":-96.181641,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.186641,17.176905,-96.176641,17.186905",
     "lbl:latitude":17.181905,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885103,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242582,
     "wof:name":"Fracc Villa Hidalgo",
     "wof:parent_id":101995071,
     "wof:placetype":"neighbourhood",

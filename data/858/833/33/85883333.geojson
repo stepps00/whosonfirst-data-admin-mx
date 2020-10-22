@@ -9,7 +9,6 @@
     "geom:bbox":"-100.705078,20.916805,-100.705078,20.916805",
     "geom:latitude":20.916805,
     "geom:longitude":-100.705078,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.710078,20.911805,-100.700078,20.921805",
     "lbl:latitude":20.916805,
@@ -68,10 +67,7 @@
         }
     ],
     "wof:id":85883333,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Palmita de Landeta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

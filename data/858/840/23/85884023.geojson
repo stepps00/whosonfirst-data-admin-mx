@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1969299316,19.4057257498,-99.1873168945,19.4173828145",
     "geom:latitude":19.411652,
     "geom:longitude":-99.192001,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.412232,
     "lbl:longitude":-99.192939,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884023,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619665,
+    "wof:lastmodified":1603242595,
     "wof:name":"Ampl Daniel Garza",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

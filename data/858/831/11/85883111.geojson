@@ -9,7 +9,6 @@
     "geom:bbox":"-96.935254,18.899754,-96.935254,18.899754",
     "geom:latitude":18.899754,
     "geom:longitude":-96.935254,
-    "gn:id":"",
     "gn:population":134403,
     "iso:country":"MX",
     "lbl:bbox":"-96.940254,18.894754,-96.930254,18.904754",
@@ -251,10 +250,7 @@
         }
     ],
     "wof:id":85883111,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242598,
     "wof:name":"Mexico",
     "wof:parent_id":101998261,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1543579102,19.4406943944,-99.1451452644,19.4484641847",
     "geom:latitude":19.444159,
     "geom:longitude":-99.150073,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.444452,
     "lbl:longitude":-99.150474,
@@ -141,10 +140,7 @@
         }
     ],
     "wof:id":85883837,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619676,
+    "wof:lastmodified":1603242598,
     "wof:name":"Buenavista",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

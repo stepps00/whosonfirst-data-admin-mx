@@ -9,7 +9,6 @@
     "geom:bbox":"-87.066516,20.633701,-87.066516,20.633701",
     "geom:latitude":20.633701,
     "geom:longitude":-87.066516,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-87.071516,20.628701,-87.061516,20.638701",
     "lbl:latitude":20.633701,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85882561,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242595,
     "wof:name":"Zazil Ha",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",

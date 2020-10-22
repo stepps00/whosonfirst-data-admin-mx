@@ -9,7 +9,6 @@
     "geom:bbox":"-103.465176,20.788539,-103.465176,20.788539",
     "geom:latitude":20.788539,
     "geom:longitude":-103.465176,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.470176,20.783539,-103.460176,20.793539",
     "lbl:latitude":20.788539,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884951,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242591,
     "wof:name":"Fracc Parques de Tesistan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

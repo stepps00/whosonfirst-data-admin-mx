@@ -9,7 +9,6 @@
     "geom:bbox":"-97.852302,22.234159,-97.852302,22.234159",
     "geom:latitude":22.234159,
     "geom:longitude":-97.852302,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.857302,22.229159,-97.847302,22.239159",
     "lbl:latitude":22.234159,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85883477,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Obrera",
     "wof:parent_id":102001087,
     "wof:placetype":"neighbourhood",

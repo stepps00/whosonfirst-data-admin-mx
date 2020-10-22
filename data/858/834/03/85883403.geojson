@@ -9,7 +9,6 @@
     "geom:bbox":"-112.267626,27.338018,-112.267626,27.338018",
     "geom:latitude":27.338018,
     "geom:longitude":-112.267626,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-112.272626,27.333018,-112.262626,27.343018",
     "lbl:latitude":27.338018,
@@ -110,10 +109,7 @@
         }
     ],
     "wof:id":85883403,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Rancheria",
     "wof:parent_id":101993451,
     "wof:placetype":"neighbourhood",

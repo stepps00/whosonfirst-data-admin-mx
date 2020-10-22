@@ -9,7 +9,6 @@
     "geom:bbox":"-96.141308,19.208597,-96.141308,19.208597",
     "geom:latitude":19.208597,
     "geom:longitude":-96.141308,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.146308,19.203597,-96.136308,19.213597",
     "lbl:latitude":19.208597,
@@ -152,10 +151,7 @@
         }
     ],
     "wof:id":85882785,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Manuel Contreras",
     "wof:parent_id":101998843,
     "wof:placetype":"neighbourhood",

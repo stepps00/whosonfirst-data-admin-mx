@@ -9,7 +9,6 @@
     "geom:bbox":"-117.000337,32.508678,-117.000337,32.508678",
     "geom:latitude":32.508678,
     "geom:longitude":-117.000337,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.005337,32.503678,-116.995337,32.513678",
     "lbl:latitude":32.508678,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883271,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242582,
     "wof:name":"Campo de Golf",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

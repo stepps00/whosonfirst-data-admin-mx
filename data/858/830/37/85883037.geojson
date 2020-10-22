@@ -9,7 +9,6 @@
     "geom:bbox":"-98.845219,19.699302,-98.845219,19.699302",
     "geom:latitude":19.699302,
     "geom:longitude":-98.845219,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.850219,19.694302,-98.840219,19.704302",
     "lbl:latitude":19.699302,
@@ -81,10 +80,7 @@
         }
     ],
     "wof:id":85883037,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Yanhuitlan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

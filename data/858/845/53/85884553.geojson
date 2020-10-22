@@ -9,7 +9,6 @@
     "geom:bbox":"-103.312682,20.666592,-103.312682,20.666592",
     "geom:latitude":20.666592,
     "geom:longitude":-103.312682,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.317682,20.661592,-103.307682,20.671592",
     "lbl:latitude":20.666592,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884553,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"La Penal",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

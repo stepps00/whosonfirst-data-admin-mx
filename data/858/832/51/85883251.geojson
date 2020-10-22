@@ -9,7 +9,6 @@
     "geom:bbox":"-100.855672,20.517808,-100.855672,20.517808",
     "geom:latitude":20.517808,
     "geom:longitude":-100.855672,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.860672,20.512808,-100.850672,20.522808",
     "lbl:latitude":20.517808,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85883251,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Los Cucus",
     "wof:parent_id":101993095,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1714861593,19.3966585973,-99.1543579102,19.4109067861",
     "geom:latitude":19.403857,
     "geom:longitude":-99.163424,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.40476,
     "lbl:longitude":-99.163805,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883849,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619677,
+    "wof:lastmodified":1603242598,
     "wof:name":"Roma sur",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

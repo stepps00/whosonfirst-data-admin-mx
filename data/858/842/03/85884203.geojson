@@ -9,7 +9,6 @@
     "geom:bbox":"-104.670739,24.024472,-104.670739,24.024472",
     "geom:latitude":24.024472,
     "geom:longitude":-104.670739,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.675739,24.019472,-104.665739,24.029472",
     "lbl:latitude":24.024472,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884203,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242572,
     "wof:name":"Barrio Del Calvario",
     "wof:parent_id":101994335,
     "wof:placetype":"neighbourhood",

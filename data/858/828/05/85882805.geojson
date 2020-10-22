@@ -9,7 +9,6 @@
     "geom:bbox":"-96.947638,19.511664,-96.947638,19.511664",
     "geom:latitude":19.511664,
     "geom:longitude":-96.947638,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.952638,19.506664,-96.942638,19.516664",
     "lbl:latitude":19.511664,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85882805,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242573,
     "wof:name":"Francisco Javier Clavijero Arenales",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

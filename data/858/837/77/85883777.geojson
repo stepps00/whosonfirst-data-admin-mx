@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1845703125,19.3448365261,-99.1804504395,19.3500194817",
     "geom:latitude":19.347488,
     "geom:longitude":-99.182905,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.346644,
     "lbl:longitude":-99.183187,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883777,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619697,
+    "wof:lastmodified":1603242602,
     "wof:name":"Guadalupe Chimalistac",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

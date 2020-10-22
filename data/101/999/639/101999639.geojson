@@ -309,8 +309,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        102078237,
-        85686657
+        85686657,
+        102078237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -336,10 +336,7 @@
         }
     ],
     "wof:id":101999639,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1587428931,
+    "wof:lastmodified":1603242990,
     "wof:megacity":1,
     "wof:name":"Her\u00f3ica Puebla de Zaragoza",
     "wof:parent_id":102078237,

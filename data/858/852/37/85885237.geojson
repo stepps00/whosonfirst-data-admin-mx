@@ -9,7 +9,6 @@
     "geom:bbox":"-103.120422,21.409605,-103.120422,21.409605",
     "geom:latitude":21.409605,
     "geom:longitude":-103.120422,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.125422,21.404605,-103.115422,21.414605",
     "lbl:latitude":21.409605,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885237,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242606,
     "wof:name":"Fracc Centro",
     "wof:parent_id":101992277,
     "wof:placetype":"neighbourhood",

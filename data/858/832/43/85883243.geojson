@@ -9,7 +9,6 @@
     "geom:bbox":"-101.229126,27.933753,-101.229126,27.933753",
     "geom:latitude":27.933753,
     "geom:longitude":-101.229126,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.234126,27.928753,-101.224126,27.938753",
     "lbl:latitude":27.933753,
@@ -220,10 +219,7 @@
         }
     ],
     "wof:id":85883243,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242582,
     "wof:name":"Roma",
     "wof:parent_id":102000865,
     "wof:placetype":"neighbourhood",

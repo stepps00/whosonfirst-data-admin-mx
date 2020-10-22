@@ -9,7 +9,6 @@
     "geom:bbox":"-102.571717,22.780708,-102.571717,22.780708",
     "geom:latitude":22.780708,
     "geom:longitude":-102.571717,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.576717,22.775708,-102.566717,22.785708",
     "lbl:latitude":22.780708,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883093,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Barrio de Buenavista",
     "wof:parent_id":101994047,
     "wof:placetype":"neighbourhood",

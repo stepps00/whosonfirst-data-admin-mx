@@ -9,7 +9,6 @@
     "geom:bbox":"-116.633606,31.854737,-116.633606,31.854737",
     "geom:latitude":31.854737,
     "geom:longitude":-116.633606,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.638606,31.849737,-116.628606,31.859737",
     "lbl:latitude":31.854737,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85884159,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Zona Federal",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

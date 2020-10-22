@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2137963867,19.3759316524,-99.1928100586,19.3968190635",
     "geom:latitude":19.386337,
     "geom:longitude":-99.20328,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.389849,
     "lbl:longitude":-99.19958,
@@ -111,10 +110,7 @@
         }
     ],
     "wof:id":85883775,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619694,
+    "wof:lastmodified":1603242601,
     "wof:name":"Cristo Rey",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-103.185738,20.28849,-103.185738,20.28849",
     "geom:latitude":20.28849,
     "geom:longitude":-103.185738,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.190738,20.28349,-103.180738,20.29349",
     "lbl:latitude":20.28849,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884699,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Barrio la Cristiania",
     "wof:parent_id":101998069,
     "wof:placetype":"neighbourhood",

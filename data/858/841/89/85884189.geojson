@@ -9,7 +9,6 @@
     "geom:bbox":"-104.883453,21.501119,-104.883453,21.501119",
     "geom:latitude":21.501119,
     "geom:longitude":-104.883453,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.888453,21.496119,-104.878453,21.506119",
     "lbl:latitude":21.501119,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884189,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Fracc Las Aves",
     "wof:parent_id":101996983,
     "wof:placetype":"neighbourhood",

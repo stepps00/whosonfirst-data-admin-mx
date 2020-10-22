@@ -9,7 +9,6 @@
     "geom:bbox":"-89.577713,20.949897,-89.577713,20.949897",
     "geom:latitude":20.949897,
     "geom:longitude":-89.577713,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.582713,20.944897,-89.572713,20.954897",
     "lbl:latitude":20.949897,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882517,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Fracc San Antonio Kaua",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

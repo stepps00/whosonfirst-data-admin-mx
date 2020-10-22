@@ -9,7 +9,6 @@
     "geom:bbox":"-100.411494,20.591771,-100.411494,20.591771",
     "geom:latitude":20.591771,
     "geom:longitude":-100.411494,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.416494,20.586771,-100.406494,20.596771",
     "lbl:latitude":20.591771,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883323,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Res Quinta Alicia",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

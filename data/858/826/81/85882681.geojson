@@ -9,7 +9,6 @@
     "geom:bbox":"-98.193054,18.998072,-98.193054,18.998072",
     "geom:latitude":18.998072,
     "geom:longitude":-98.193054,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.198054,18.993072,-98.188054,19.003072",
     "lbl:latitude":18.998072,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882681,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Fracc Camino Real",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

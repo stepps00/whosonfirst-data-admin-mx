@@ -9,7 +9,6 @@
     "geom:bbox":"-103.325626,20.673171,-103.325626,20.673171",
     "geom:latitude":20.673171,
     "geom:longitude":-103.325626,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.330626,20.668171,-103.320626,20.678171",
     "lbl:latitude":20.673171,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85884571,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"San Juan de Dios",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

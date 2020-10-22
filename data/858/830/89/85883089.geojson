@@ -9,7 +9,6 @@
     "geom:bbox":"-106.453424,31.759455,-106.453424,31.759455",
     "geom:latitude":31.759455,
     "geom:longitude":-106.453424,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.458424,31.754455,-106.448424,31.764455",
     "lbl:latitude":31.759455,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883089,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Fracc Cordoba Americas",
     "wof:parent_id":101994153,
     "wof:placetype":"neighbourhood",

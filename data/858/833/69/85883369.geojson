@@ -9,7 +9,6 @@
     "geom:bbox":"-98.327118,19.064862,-98.327118,19.064862",
     "geom:latitude":19.064862,
     "geom:longitude":-98.327118,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.332118,19.059862,-98.322118,19.069862",
     "lbl:latitude":19.064862,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883369,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Fracc Zerezotla",
     "wof:parent_id":101999761,
     "wof:placetype":"neighbourhood",

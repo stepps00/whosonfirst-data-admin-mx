@@ -9,7 +9,6 @@
     "geom:bbox":"-103.39207,20.723223,-103.39207,20.723223",
     "geom:latitude":20.723223,
     "geom:longitude":-103.39207,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.39707,20.718223,-103.38707,20.728223",
     "lbl:latitude":20.723223,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884923,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242592,
     "wof:name":"Zapopan Centro",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

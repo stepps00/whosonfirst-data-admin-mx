@@ -9,7 +9,6 @@
     "geom:bbox":"-103.342881,20.680953,-103.342881,20.680953",
     "geom:latitude":20.680953,
     "geom:longitude":-103.342881,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.347881,20.675953,-103.337881,20.685953",
     "lbl:latitude":20.680953,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884531,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Centro Barranquitas",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

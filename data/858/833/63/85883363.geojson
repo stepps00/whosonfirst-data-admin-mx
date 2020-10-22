@@ -9,7 +9,6 @@
     "geom:bbox":"-100.998312,22.117796,-100.998312,22.117796",
     "geom:latitude":22.117796,
     "geom:longitude":-100.998312,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.003312,22.112796,-100.993312,22.122796",
     "lbl:latitude":22.117796,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883363,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242584,
     "wof:name":"Fracc Balcones Del Valle",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

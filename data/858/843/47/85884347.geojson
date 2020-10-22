@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2186110032,19.311143314,-99.1989025173,19.3347890958",
     "geom:latitude":19.322888,
     "geom:longitude":-99.209366,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.32799,
     "lbl:longitude":-99.210535,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884347,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619585,
+    "wof:lastmodified":1603242577,
     "wof:name":"Pedregal de San Jeronimo",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

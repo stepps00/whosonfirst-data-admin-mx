@@ -9,7 +9,6 @@
     "geom:bbox":"-97.008692,20.478674,-97.008692,20.478674",
     "geom:latitude":20.478674,
     "geom:longitude":-97.008692,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.013692,20.473674,-97.003692,20.483674",
     "lbl:latitude":20.478674,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885021,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Tecolutla Centro",
     "wof:parent_id":101998725,
     "wof:placetype":"neighbourhood",

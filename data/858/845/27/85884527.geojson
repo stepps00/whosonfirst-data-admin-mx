@@ -9,7 +9,6 @@
     "geom:bbox":"-103.356296,20.690039,-103.356296,20.690039",
     "geom:latitude":20.690039,
     "geom:longitude":-103.356296,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.361296,20.685039,-103.351296,20.695039",
     "lbl:latitude":20.690039,
@@ -98,10 +97,7 @@
         }
     ],
     "wof:id":85884527,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Artesanos",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

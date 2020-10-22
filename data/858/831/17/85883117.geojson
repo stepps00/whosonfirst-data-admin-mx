@@ -9,7 +9,6 @@
     "geom:bbox":"-101.19479,19.703143,-101.19479,19.703143",
     "geom:latitude":19.703143,
     "geom:longitude":-101.19479,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.19979,19.698143,-101.18979,19.708143",
     "lbl:latitude":19.703143,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883117,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Mauricio Martinez Solorzano",
     "wof:parent_id":101997341,
     "wof:placetype":"neighbourhood",

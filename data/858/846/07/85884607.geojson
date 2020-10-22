@@ -9,7 +9,6 @@
     "geom:bbox":"-103.75844,19.945517,-103.75844,19.945517",
     "geom:latitude":19.945517,
     "geom:longitude":-103.75844,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.76344,19.940517,-103.75344,19.950517",
     "lbl:latitude":19.945517,
@@ -156,10 +155,7 @@
         }
     ],
     "wof:id":85884607,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Centro",
     "wof:parent_id":101997561,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1680908203,19.3303432994,-99.1557312012,19.3422449968",
     "geom:latitude":19.336183,
     "geom:longitude":-99.161607,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.335856,
     "lbl:longitude":-99.159407,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884323,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619584,
+    "wof:lastmodified":1603242577,
     "wof:name":"Pedregal de Coyoacan",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

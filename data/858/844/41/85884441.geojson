@@ -9,7 +9,6 @@
     "geom:bbox":"-103.318176,20.686754,-103.318176,20.686754",
     "geom:latitude":20.686754,
     "geom:longitude":-103.318176,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.323176,20.681754,-103.313176,20.691754",
     "lbl:latitude":20.686754,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884441,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242578,
     "wof:name":"Fracc Belisario Dominguez",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

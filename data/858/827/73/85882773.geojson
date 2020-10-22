@@ -9,7 +9,6 @@
     "geom:bbox":"-99.045254,19.486682,-99.045254,19.486682",
     "geom:latitude":19.486682,
     "geom:longitude":-99.045254,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.050254,19.481682,-99.040254,19.491682",
     "lbl:latitude":19.486682,
@@ -116,10 +115,7 @@
         }
     ],
     "wof:id":85882773,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Nuevo Valle de Aragon",
     "wof:parent_id":101992489,
     "wof:placetype":"neighbourhood",

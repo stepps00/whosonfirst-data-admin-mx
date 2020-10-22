@@ -9,7 +9,6 @@
     "geom:bbox":"-96.108186,19.159598,-96.108186,19.159598",
     "geom:latitude":19.159598,
     "geom:longitude":-96.108186,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.113186,19.154598,-96.103186,19.164598",
     "lbl:latitude":19.159598,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883605,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Fracc Sutsem",
     "wof:parent_id":101998203,
     "wof:placetype":"neighbourhood",

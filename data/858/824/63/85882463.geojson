@@ -9,7 +9,6 @@
     "geom:bbox":"-117.122873,32.533643,-117.122873,32.533643",
     "geom:latitude":32.533643,
     "geom:longitude":-117.122873,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.127873,32.528643,-117.117873,32.538643",
     "lbl:latitude":32.533643,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85882463,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242591,
     "wof:name":"Playas de Tijuana Secc Monumental",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

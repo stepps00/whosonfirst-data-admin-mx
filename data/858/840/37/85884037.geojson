@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1309354404,19.4962884617,-99.1123457215,19.5183752713",
     "geom:latitude":19.508034,
     "geom:longitude":-99.121728,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.503024,
     "lbl:longitude":-99.123911,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884037,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619664,
+    "wof:lastmodified":1603242595,
     "wof:name":"Res Zacatenco",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

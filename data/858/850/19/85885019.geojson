@@ -9,7 +9,6 @@
     "geom:bbox":"-97.012753,20.48239,-97.012753,20.48239",
     "geom:latitude":20.48239,
     "geom:longitude":-97.012753,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.017753,20.47739,-97.007753,20.48739",
     "lbl:latitude":20.48239,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85885019,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Candido Aguilar",
     "wof:parent_id":101998725,
     "wof:placetype":"neighbourhood",

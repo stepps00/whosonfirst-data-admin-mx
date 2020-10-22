@@ -9,7 +9,6 @@
     "geom:bbox":"-100.142141,19.168918,-100.142141,19.168918",
     "geom:latitude":19.168918,
     "geom:longitude":-100.142141,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.147141,19.163918,-100.137141,19.173918",
     "lbl:latitude":19.168918,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85884757,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242592,
     "wof:name":"Barrio San Lorenzo",
     "wof:parent_id":101991621,
     "wof:placetype":"neighbourhood",

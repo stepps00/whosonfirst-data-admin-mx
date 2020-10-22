@@ -9,7 +9,6 @@
     "geom:bbox":"-99.14566,19.597744,-99.14566,19.597744",
     "geom:latitude":19.597744,
     "geom:longitude":-99.14566,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.15066,19.592744,-99.14066,19.602744",
     "lbl:latitude":19.597744,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85884749,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Ampl Las Torres",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

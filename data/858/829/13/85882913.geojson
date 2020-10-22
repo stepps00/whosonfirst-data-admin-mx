@@ -9,7 +9,6 @@
     "geom:bbox":"-100.388821,20.592896,-100.388821,20.592896",
     "geom:latitude":20.592896,
     "geom:longitude":-100.388821,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.393821,20.587896,-100.383821,20.597896",
     "lbl:latitude":20.592896,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85882913,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Barrio la Cruz",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

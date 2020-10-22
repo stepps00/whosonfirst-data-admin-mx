@@ -9,7 +9,6 @@
     "geom:bbox":"-97.011247,19.42327,-97.011247,19.42327",
     "geom:latitude":19.42327,
     "geom:longitude":-97.011247,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.016247,19.41827,-97.006247,19.42827",
     "lbl:latitude":19.42327,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885013,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242580,
     "wof:name":"Xico Centro",
     "wof:parent_id":101998459,
     "wof:placetype":"neighbourhood",

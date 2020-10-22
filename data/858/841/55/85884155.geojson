@@ -9,7 +9,6 @@
     "geom:bbox":"-116.651001,31.870819,-116.651001,31.870819",
     "geom:latitude":31.870819,
     "geom:longitude":-116.651001,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.656001,31.865819,-116.646001,31.875819",
     "lbl:latitude":31.870819,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85884155,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Moderna Oeste",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

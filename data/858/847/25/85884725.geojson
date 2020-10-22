@@ -9,7 +9,6 @@
     "geom:bbox":"-98.460511,19.106047,-98.460511,19.106047",
     "geom:latitude":19.106047,
     "geom:longitude":-98.460511,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.465511,19.101047,-98.455511,19.111047",
     "lbl:latitude":19.106047,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85884725,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Barrio Santa Ana",
     "wof:parent_id":101999317,
     "wof:placetype":"neighbourhood",

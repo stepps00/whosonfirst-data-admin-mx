@@ -9,7 +9,6 @@
     "geom:bbox":"-104.694756,19.216643,-104.694756,19.216643",
     "geom:latitude":19.216643,
     "geom:longitude":-104.694756,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.699756,19.211643,-104.689756,19.221643",
     "lbl:latitude":19.216643,
@@ -77,10 +76,7 @@
         }
     ],
     "wof:id":85884821,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242590,
     "wof:name":"Presidentes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.538729,18.345343,-99.538729,18.345343",
     "geom:latitude":18.345343,
     "geom:longitude":-99.538729,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.543729,18.340343,-99.533729,18.350343",
     "lbl:latitude":18.345343,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882835,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242573,
     "wof:name":"Educacion",
     "wof:parent_id":101991385,
     "wof:placetype":"neighbourhood",

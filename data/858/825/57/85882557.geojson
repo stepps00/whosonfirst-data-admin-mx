@@ -9,7 +9,6 @@
     "geom:bbox":"-87.071894,20.625777,-87.071894,20.625777",
     "geom:latitude":20.625777,
     "geom:longitude":-87.071894,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-87.076894,20.620777,-87.066894,20.630777",
     "lbl:latitude":20.625777,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85882557,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242595,
     "wof:name":"Playa Del Carmen Centro",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",

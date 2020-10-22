@@ -9,7 +9,6 @@
     "geom:bbox":"-117.013733,32.443493,-117.013733,32.443493",
     "geom:latitude":32.443493,
     "geom:longitude":-117.013733,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.018733,32.438493,-117.008733,32.448493",
     "lbl:latitude":32.443493,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85883143,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Campestre la Gloria",
     "wof:parent_id":101993555,
     "wof:placetype":"neighbourhood",

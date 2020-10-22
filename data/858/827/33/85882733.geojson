@@ -9,7 +9,6 @@
     "geom:bbox":"-99.066467,19.531319,-99.066467,19.531319",
     "geom:latitude":19.531319,
     "geom:longitude":-99.066467,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.071467,19.526319,-99.061467,19.536319",
     "lbl:latitude":19.531319,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85882733,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Cuauhtemoc Xalostoc",
     "wof:parent_id":101992735,
     "wof:placetype":"neighbourhood",

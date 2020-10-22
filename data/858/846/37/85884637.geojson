@@ -9,7 +9,6 @@
     "geom:bbox":"-105.213318,20.60965,-105.213318,20.60965",
     "geom:latitude":20.60965,
     "geom:longitude":-105.213318,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.218318,20.60465,-105.208318,20.61465",
     "lbl:latitude":20.60965,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85884637,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Gastronomicos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

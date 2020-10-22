@@ -9,7 +9,6 @@
     "geom:bbox":"-101.553531,17.640347,-101.553531,17.640347",
     "geom:latitude":17.640347,
     "geom:longitude":-101.553531,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.558531,17.635347,-101.548531,17.645347",
     "lbl:latitude":17.640347,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882703,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Jose Azueta Centro",
     "wof:parent_id":101991381,
     "wof:placetype":"neighbourhood",

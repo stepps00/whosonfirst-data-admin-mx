@@ -9,7 +9,6 @@
     "geom:bbox":"-103.440503,20.673818,-103.440503,20.673818",
     "geom:latitude":20.673818,
     "geom:longitude":-103.440503,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.445503,20.668818,-103.435503,20.678818",
     "lbl:latitude":20.673818,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884907,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Fracc Res Del Parque",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

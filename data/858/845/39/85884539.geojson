@@ -9,7 +9,6 @@
     "geom:bbox":"-103.390044,20.702474,-103.390044,20.702474",
     "geom:latitude":20.702474,
     "geom:longitude":-103.390044,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.395044,20.697474,-103.385044,20.707474",
     "lbl:latitude":20.702474,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884539,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Colomos",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

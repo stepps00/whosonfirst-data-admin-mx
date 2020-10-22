@@ -9,7 +9,6 @@
     "geom:bbox":"-103.033808,19.903136,-103.033808,19.903136",
     "geom:latitude":19.903136,
     "geom:longitude":-103.033808,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.038808,19.898136,-103.028808,19.908136",
     "lbl:latitude":19.903136,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884717,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Fracc Paseo de Los Cazos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

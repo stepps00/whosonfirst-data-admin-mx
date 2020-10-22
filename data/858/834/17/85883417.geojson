@@ -9,7 +9,6 @@
     "geom:bbox":"-89.593507,21.022229,-89.593507,21.022229",
     "geom:latitude":21.022229,
     "geom:longitude":-89.593507,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.598507,21.017229,-89.588507,21.027229",
     "lbl:latitude":21.022229,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883417,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242585,
     "wof:name":"Priv Monterreal Plus",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

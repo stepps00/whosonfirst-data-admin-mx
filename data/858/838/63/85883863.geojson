@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1076660156,19.3905173985,-99.0911865234,19.4109871725",
     "geom:latitude":19.400661,
     "geom:longitude":-99.099704,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.404623,
     "lbl:longitude":-99.099612,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883863,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619676,
+    "wof:lastmodified":1603242598,
     "wof:name":"Mario Moreno",
     "wof:parent_id":890535761,
     "wof:placetype":"neighbourhood",

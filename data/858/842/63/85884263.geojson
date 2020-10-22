@@ -9,7 +9,6 @@
     "geom:bbox":"-101.250791,20.996308,-101.250791,20.996308",
     "geom:latitude":20.996308,
     "geom:longitude":-101.250791,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.255791,20.991308,-101.245791,21.001308",
     "lbl:latitude":20.996308,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85884263,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242573,
     "wof:name":"Fracc Lomas de Zaragoza",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

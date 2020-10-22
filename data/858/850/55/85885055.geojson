@@ -9,7 +9,6 @@
     "geom:bbox":"-109.57489,31.332525,-109.57489,31.332525",
     "geom:latitude":31.332525,
     "geom:longitude":-109.57489,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.57989,31.327525,-109.56989,31.337525",
     "lbl:latitude":31.332525,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885055,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Ferrocarril",
     "wof:parent_id":101993867,
     "wof:placetype":"neighbourhood",

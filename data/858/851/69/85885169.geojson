@@ -9,7 +9,6 @@
     "geom:bbox":"-98.36904,20.083472,-98.36904,20.083472",
     "geom:latitude":20.083472,
     "geom:longitude":-98.36904,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.37404,20.078472,-98.36404,20.088472",
     "lbl:latitude":20.083472,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85885169,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242582,
     "wof:name":"Tulancingo de Bravo Centro",
     "wof:parent_id":102000143,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-98.241328,19.021615,-98.241328,19.021615",
     "geom:latitude":19.021615,
     "geom:longitude":-98.241328,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.246328,19.016615,-98.236328,19.026615",
     "lbl:latitude":19.021615,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883065,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Momosa",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-108.977509,25.80051,-108.977509,25.80051",
     "geom:latitude":25.80051,
     "geom:longitude":-108.977509,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-108.982509,25.79551,-108.972509,25.80551",
     "lbl:latitude":25.80051,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884169,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242586,
     "wof:name":"El Parque",
     "wof:parent_id":101993793,
     "wof:placetype":"neighbourhood",

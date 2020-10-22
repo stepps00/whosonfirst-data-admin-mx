@@ -9,7 +9,6 @@
     "geom:bbox":"-88.388807,18.678964,-88.388807,18.678964",
     "geom:latitude":18.678964,
     "geom:longitude":-88.388807,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-88.393807,18.673964,-88.383807,18.683964",
     "lbl:latitude":18.678964,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85882597,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242596,
     "wof:name":"Felipe Diaz",
     "wof:parent_id":102001487,
     "wof:placetype":"neighbourhood",

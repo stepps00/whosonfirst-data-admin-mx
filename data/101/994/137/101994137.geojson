@@ -375,8 +375,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        102075217,
-        85686581
+        85686581,
+        102075217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -403,10 +403,7 @@
         }
     ],
     "wof:id":101994137,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1587428933,
+    "wof:lastmodified":1603243034,
     "wof:megacity":1,
     "wof:name":"Chihuahua",
     "wof:parent_id":102075217,

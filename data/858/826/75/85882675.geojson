@@ -9,7 +9,6 @@
     "geom:bbox":"-92.254943,14.889868,-92.254943,14.889868",
     "geom:latitude":14.889868,
     "geom:longitude":-92.254943,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.259943,14.884868,-92.249943,14.894868",
     "lbl:latitude":14.889868,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85882675,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Infonavit San Jose El Eden",
     "wof:parent_id":101994355,
     "wof:placetype":"neighbourhood",

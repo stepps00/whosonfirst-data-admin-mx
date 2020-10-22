@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1159057617,19.4847210655,-99.1076660156,19.4961543311",
     "geom:latitude":19.49055,
     "geom:longitude":-99.111619,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.489878,
     "lbl:longitude":-99.111726,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884499,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619589,
+    "wof:lastmodified":1603242578,
     "wof:name":"Triunfo de la Republica",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

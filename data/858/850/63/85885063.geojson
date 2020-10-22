@@ -9,7 +9,6 @@
     "geom:bbox":"-107.627579,31.781679,-107.627579,31.781679",
     "geom:latitude":31.781679,
     "geom:longitude":-107.627579,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-107.632579,31.776679,-107.622579,31.786679",
     "lbl:latitude":31.781679,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85885063,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Puerto Palomas Centro",
     "wof:parent_id":101994135,
     "wof:placetype":"neighbourhood",

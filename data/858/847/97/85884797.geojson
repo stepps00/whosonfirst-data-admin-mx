@@ -9,7 +9,6 @@
     "geom:bbox":"-109.906111,22.899693,-109.906111,22.899693",
     "geom:latitude":22.899693,
     "geom:longitude":-109.906111,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.911111,22.894693,-109.901111,22.904693",
     "lbl:latitude":22.899693,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85884797,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242593,
     "wof:name":"Ampl Juarez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

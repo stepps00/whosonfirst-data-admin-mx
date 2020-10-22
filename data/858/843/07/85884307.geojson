@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1989519689,19.3982175309,-99.1873168945,19.4070210383",
     "geom:latitude":19.402856,
     "geom:longitude":-99.192815,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.404186,
     "lbl:longitude":-99.190531,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884307,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619582,
+    "wof:lastmodified":1603242576,
     "wof:name":"Sears Roebuck",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

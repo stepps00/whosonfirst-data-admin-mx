@@ -9,7 +9,6 @@
     "geom:bbox":"-100.188164,25.778504,-100.188164,25.778504",
     "geom:latitude":25.778504,
     "geom:longitude":-100.188164,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.193164,25.773504,-100.183164,25.783504",
     "lbl:latitude":25.778504,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883583,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242581,
     "wof:name":"Apodaca Centro",
     "wof:parent_id":102000809,
     "wof:placetype":"neighbourhood",

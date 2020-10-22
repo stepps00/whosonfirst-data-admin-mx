@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1021728516,19.4691816844,-99.0829467773,19.4898966396",
     "geom:latitude":19.480714,
     "geom:longitude":-99.092538,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.478365,
     "lbl:longitude":-99.093903,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884495,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619585,
+    "wof:lastmodified":1603242577,
     "wof:name":"Dm Nacional",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

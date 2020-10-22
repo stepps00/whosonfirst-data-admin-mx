@@ -9,7 +9,6 @@
     "geom:bbox":"-103.191574,20.300842,-103.191574,20.300842",
     "geom:latitude":20.300842,
     "geom:longitude":-103.191574,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.196574,20.295842,-103.186574,20.305842",
     "lbl:latitude":20.300842,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884697,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242589,
     "wof:name":"Chapala Centro",
     "wof:parent_id":101998069,
     "wof:placetype":"neighbourhood",

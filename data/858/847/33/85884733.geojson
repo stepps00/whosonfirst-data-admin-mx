@@ -9,7 +9,6 @@
     "geom:bbox":"-98.896179,18.934866,-98.896179,18.934866",
     "geom:latitude":18.934866,
     "geom:longitude":-98.896179,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.901179,18.929866,-98.891179,18.939866",
     "lbl:latitude":18.934866,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884733,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Barrio San Mateo",
     "wof:parent_id":101993309,
     "wof:placetype":"neighbourhood",

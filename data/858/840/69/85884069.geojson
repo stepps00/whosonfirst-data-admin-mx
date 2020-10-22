@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2893273926,19.3422447911,-99.2669677734,19.3697888728",
     "geom:latitude":19.356381,
     "geom:longitude":-99.277317,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.360314,
     "lbl:longitude":-99.273946,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85884069,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Centro Comercial Santa Fe",
     "wof:parent_id":890535767,
     "wof:placetype":"neighbourhood",

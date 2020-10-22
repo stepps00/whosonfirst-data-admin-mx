@@ -9,7 +9,6 @@
     "geom:bbox":"-100.326606,25.685123,-100.326606,25.685123",
     "geom:latitude":25.685123,
     "geom:longitude":-100.326606,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.331606,25.680123,-100.321606,25.690123",
     "lbl:latitude":25.685123,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883653,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Centro de Monterrey",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

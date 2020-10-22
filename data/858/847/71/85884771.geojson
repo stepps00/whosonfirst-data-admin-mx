@@ -9,7 +9,6 @@
     "geom:bbox":"-100.129095,19.18845,-100.129095,19.18845",
     "geom:latitude":19.18845,
     "geom:longitude":-100.129095,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.134095,19.18345,-100.124095,19.19345",
     "lbl:latitude":19.18845,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884771,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Santa Maria Ahuacatlan",
     "wof:parent_id":101991621,
     "wof:placetype":"neighbourhood",

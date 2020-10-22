@@ -9,7 +9,6 @@
     "geom:bbox":"-100.391663,20.59463,-100.391663,20.59463",
     "geom:latitude":20.59463,
     "geom:longitude":-100.391663,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.396663,20.58963,-100.386663,20.59963",
     "lbl:latitude":20.59463,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883385,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Fracc Jacarandas",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

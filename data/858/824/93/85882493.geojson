@@ -9,7 +9,6 @@
     "geom:bbox":"-100.395813,20.60965,-100.395813,20.60965",
     "geom:latitude":20.60965,
     "geom:longitude":-100.395813,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.400813,20.60465,-100.390813,20.61465",
     "lbl:latitude":20.60965,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882493,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Rinconada Jacarandas",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

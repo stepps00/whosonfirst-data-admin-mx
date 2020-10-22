@@ -9,7 +9,6 @@
     "geom:bbox":"-103.458866,20.813258,-103.458866,20.813258",
     "geom:latitude":20.813258,
     "geom:longitude":-103.458866,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.463866,20.808258,-103.453866,20.818258",
     "lbl:latitude":20.813258,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85884953,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"San Jose Ejidal",
     "wof:parent_id":101997653,
     "wof:placetype":"neighbourhood",

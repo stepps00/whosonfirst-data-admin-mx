@@ -9,7 +9,6 @@
     "geom:bbox":"-100.155857,25.426782,-100.155857,25.426782",
     "geom:latitude":25.426782,
     "geom:longitude":-100.155857,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.160857,25.421782,-100.150857,25.431782",
     "lbl:latitude":25.426782,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883339,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242584,
     "wof:name":"Concepcion Salazar",
     "wof:parent_id":102000647,
     "wof:placetype":"neighbourhood",

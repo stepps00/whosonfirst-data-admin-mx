@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1793267444,19.2878132339,-99.1680908203,19.3007748259",
     "geom:latitude":19.294494,
     "geom:longitude":-99.174756,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.291732,
     "lbl:longitude":-99.17178,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85884011,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Barrio San Fernando",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

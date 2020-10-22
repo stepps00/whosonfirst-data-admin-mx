@@ -9,7 +9,6 @@
     "geom:bbox":"-102.314412,21.915834,-102.314412,21.915834",
     "geom:latitude":21.915834,
     "geom:longitude":-102.314412,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.319412,21.910834,-102.309412,21.920834",
     "lbl:latitude":21.915834,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85882859,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242573,
     "wof:name":"Fracc Bosques Del Prado sur",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

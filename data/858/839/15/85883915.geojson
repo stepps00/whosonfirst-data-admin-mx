@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1711565798,19.5097012843,-99.1507468926,19.5271008494",
     "geom:latitude":19.518603,
     "geom:longitude":-99.161469,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.522162,
     "lbl:longitude":-99.161123,
@@ -105,10 +104,7 @@
         }
     ],
     "wof:id":85883915,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619711,
+    "wof:lastmodified":1603242605,
     "wof:name":"Guadalupe Proletaria",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

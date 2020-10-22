@@ -9,7 +9,6 @@
     "geom:bbox":"-98.270914,19.313271,-98.270914,19.313271",
     "geom:latitude":19.313271,
     "geom:longitude":-98.270914,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.275914,19.308271,-98.265914,19.318271",
     "lbl:latitude":19.313271,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85883295,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Zapotla",
     "wof:parent_id":101999093,
     "wof:placetype":"neighbourhood",

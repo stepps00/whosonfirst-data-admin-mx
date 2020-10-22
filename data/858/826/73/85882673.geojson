@@ -9,7 +9,6 @@
     "geom:bbox":"-92.272793,14.909129,-92.272793,14.909129",
     "geom:latitude":14.909129,
     "geom:longitude":-92.272793,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.277793,14.904129,-92.267793,14.914129",
     "lbl:latitude":14.909129,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882673,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Brisas Del Cohoatan",
     "wof:parent_id":101994355,
     "wof:placetype":"neighbourhood",

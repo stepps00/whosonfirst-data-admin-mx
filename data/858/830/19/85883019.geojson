@@ -9,7 +9,6 @@
     "geom:bbox":"-94.55658,18.007467,-94.55658,18.007467",
     "geom:latitude":18.007467,
     "geom:longitude":-94.55658,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-94.56158,18.002467,-94.55158,18.012467",
     "lbl:latitude":18.007467,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85883019,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Rosalinda",
     "wof:parent_id":102000637,
     "wof:placetype":"neighbourhood",

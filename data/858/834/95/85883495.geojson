@@ -9,7 +9,6 @@
     "geom:bbox":"-98.237,19.043945,-98.237,19.043945",
     "geom:latitude":19.043945,
     "geom:longitude":-98.237,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.242,19.038945,-98.232,19.048945",
     "lbl:latitude":19.043945,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883495,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Fracc Las Animas",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

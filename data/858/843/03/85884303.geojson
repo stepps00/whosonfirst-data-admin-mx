@@ -9,7 +9,6 @@
     "geom:bbox":"-99.221614,18.904971,-99.221614,18.904971",
     "geom:latitude":18.904971,
     "geom:longitude":-99.221614,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.226614,18.899971,-99.216614,18.909971",
     "lbl:latitude":18.904971,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884303,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242576,
     "wof:name":"Fracc San Miguel Acapantzingo",
     "wof:parent_id":101993267,
     "wof:placetype":"neighbourhood",

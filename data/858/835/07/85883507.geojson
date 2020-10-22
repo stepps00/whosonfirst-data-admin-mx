@@ -9,7 +9,6 @@
     "geom:bbox":"-115.471312,32.640845,-115.471312,32.640845",
     "geom:latitude":32.640845,
     "geom:longitude":-115.471312,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.476312,32.635845,-115.466312,32.645845",
     "lbl:latitude":32.640845,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85883507,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Centro Civico",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

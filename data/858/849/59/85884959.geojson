@@ -9,7 +9,6 @@
     "geom:bbox":"-103.402405,20.763439,-103.402405,20.763439",
     "geom:latitude":20.763439,
     "geom:longitude":-103.402405,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.407405,20.758439,-103.397405,20.768439",
     "lbl:latitude":20.763439,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884959,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242591,
     "wof:name":"Fracc Haciendas Del Valle",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

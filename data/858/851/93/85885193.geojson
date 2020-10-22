@@ -9,7 +9,6 @@
     "geom:bbox":"-93.044331,16.759643,-93.044331,16.759643",
     "geom:latitude":16.759643,
     "geom:longitude":-93.044331,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-93.049331,16.754643,-93.039331,16.764643",
     "lbl:latitude":16.759643,
@@ -81,10 +80,7 @@
         }
     ],
     "wof:id":85885193,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242582,
     "wof:name":"Julio Cesar Ruiz Ferro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

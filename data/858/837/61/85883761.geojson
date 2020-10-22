@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1461181641,19.351579164,-99.137229486,19.3598570129",
     "geom:latitude":19.355874,
     "geom:longitude":-99.141365,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.356352,
     "lbl:longitude":-99.141589,
@@ -108,10 +107,7 @@
         }
     ],
     "wof:id":85883761,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619691,
+    "wof:lastmodified":1603242601,
     "wof:name":"Ermita",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

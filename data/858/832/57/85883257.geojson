@@ -9,7 +9,6 @@
     "geom:bbox":"-99.21286,19.549954,-99.21286,19.549954",
     "geom:latitude":19.549954,
     "geom:longitude":-99.21286,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.21786,19.544954,-99.20786,19.554954",
     "lbl:latitude":19.549954,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883257,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Valle Dorado",
     "wof:parent_id":101991513,
     "wof:placetype":"neighbourhood",

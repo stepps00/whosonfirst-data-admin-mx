@@ -9,7 +9,6 @@
     "geom:bbox":"-99.826721,25.187875,-99.826721,25.187875",
     "geom:latitude":25.187875,
     "geom:longitude":-99.826721,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.831721,25.182875,-99.821721,25.192875",
     "lbl:latitude":25.187875,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884585,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Montemorelos Centro",
     "wof:parent_id":102000683,
     "wof:placetype":"neighbourhood",

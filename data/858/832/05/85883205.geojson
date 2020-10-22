@@ -9,7 +9,6 @@
     "geom:bbox":"-100.368295,20.565288,-100.368295,20.565288",
     "geom:latitude":20.565288,
     "geom:longitude":-100.368295,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.373295,20.560288,-100.363295,20.570288",
     "lbl:latitude":20.565288,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883205,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Colinas Del Cimatario",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

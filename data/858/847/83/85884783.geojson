@@ -9,7 +9,6 @@
     "geom:bbox":"-103.722811,20.842319,-103.722811,20.842319",
     "geom:latitude":20.842319,
     "geom:longitude":-103.722811,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.727811,20.837319,-103.717811,20.847319",
     "lbl:latitude":20.842319,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85884783,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Hacienda San Jose Del Refugio",
     "wof:parent_id":101997931,
     "wof:placetype":"neighbourhood",

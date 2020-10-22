@@ -9,7 +9,6 @@
     "geom:bbox":"-106.077919,28.674182,-106.077919,28.674182",
     "geom:latitude":28.674182,
     "geom:longitude":-106.077919,
-    "gn:id":"",
     "gn:population":1512354,
     "iso:country":"MX",
     "lbl:bbox":"-106.082919,28.669182,-106.072919,28.679182",
@@ -362,10 +361,7 @@
         }
     ],
     "wof:id":85883483,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Paso Del Norte",
     "wof:parent_id":101994137,
     "wof:placetype":"neighbourhood",

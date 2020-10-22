@@ -9,7 +9,6 @@
     "geom:bbox":"-114.758494,32.473944,-114.758494,32.473944",
     "geom:latitude":32.473944,
     "geom:longitude":-114.758494,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-114.763494,32.468944,-114.753494,32.478944",
     "lbl:latitude":32.473944,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882727,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Residencias",
     "wof:parent_id":101994027,
     "wof:placetype":"neighbourhood",

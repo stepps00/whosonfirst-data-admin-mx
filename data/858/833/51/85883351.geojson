@@ -9,7 +9,6 @@
     "geom:bbox":"-106.467255,31.751403,-106.467255,31.751403",
     "geom:latitude":31.751403,
     "geom:longitude":-106.467255,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.472255,31.746403,-106.462255,31.756403",
     "lbl:latitude":31.751403,
@@ -171,10 +170,7 @@
         }
     ],
     "wof:id":85883351,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Hidalgo",
     "wof:parent_id":101994153,
     "wof:placetype":"neighbourhood",

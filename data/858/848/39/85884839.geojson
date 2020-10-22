@@ -9,7 +9,6 @@
     "geom:bbox":"-99.477264,21.200746,-99.477264,21.200746",
     "geom:latitude":21.200746,
     "geom:longitude":-99.477264,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.482264,21.195746,-99.472264,21.205746",
     "lbl:latitude":21.200746,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85884839,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Barrio Ortigas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

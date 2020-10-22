@@ -9,7 +9,6 @@
     "geom:bbox":"-101.272466,21.009135,-101.272466,21.009135",
     "geom:latitude":21.009135,
     "geom:longitude":-101.272466,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.277466,21.004135,-101.267466,21.014135",
     "lbl:latitude":21.009135,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884277,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242573,
     "wof:name":"San Gabriel de Barrera",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

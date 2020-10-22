@@ -9,7 +9,6 @@
     "geom:bbox":"-99.258728,19.562378,-99.258728,19.562378",
     "geom:latitude":19.562378,
     "geom:longitude":-99.258728,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.263728,19.557378,-99.253728,19.567378",
     "lbl:latitude":19.562378,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883007,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Atizapan Centro",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",

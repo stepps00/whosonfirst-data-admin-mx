@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1912583887,19.2800357553,-99.1843205713,19.2904056395",
     "geom:latitude":19.285403,
     "geom:longitude":-99.187512,
-    "gn:id":"",
     "gn:population":353534,
     "iso:country":"MX",
     "lbl:latitude":19.286332,
@@ -110,10 +109,7 @@
         }
     ],
     "wof:id":85883947,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619711,
+    "wof:lastmodified":1603242605,
     "wof:name":"Miguel Hidalgo",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

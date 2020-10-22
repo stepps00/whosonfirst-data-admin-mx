@@ -9,7 +9,6 @@
     "geom:bbox":"-99.774115,16.764585,-99.774115,16.764585",
     "geom:latitude":16.764585,
     "geom:longitude":-99.774115,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.779115,16.759585,-99.769115,16.769585",
     "lbl:latitude":16.764585,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85883305,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Barra Diamante",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.643253,20.249959,-99.643253,20.249959",
     "geom:latitude":20.249959,
     "geom:longitude":-99.643253,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.648253,20.244959,-99.638253,20.254959",
     "lbl:latitude":20.249959,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85885199,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242583,
     "wof:name":"Nopala de Villagran Centro",
     "wof:parent_id":102000469,
     "wof:placetype":"neighbourhood",

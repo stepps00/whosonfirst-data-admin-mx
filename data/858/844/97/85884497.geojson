@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1588647461,19.4733946992,-99.1186523438,19.4980080476",
     "geom:latitude":19.485929,
     "geom:longitude":-99.138827,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.488348,
     "lbl:longitude":-99.133688,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85884497,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242578,
     "wof:name":"Revolucion Imss",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

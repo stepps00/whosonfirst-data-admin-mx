@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1928100586,19.3441487226,-99.1839213417,19.3500194817",
     "geom:latitude":19.347147,
     "geom:longitude":-99.188488,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.346931,
     "lbl:longitude":-99.188733,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884049,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619665,
+    "wof:lastmodified":1603242595,
     "wof:name":"Chimalistac",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

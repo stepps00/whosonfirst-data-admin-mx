@@ -9,7 +9,6 @@
     "geom:bbox":"-96.636027,17.046859,-96.636027,17.046859",
     "geom:latitude":17.046859,
     "geom:longitude":-96.636027,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.641027,17.041859,-96.631027,17.051859",
     "lbl:latitude":17.046859,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885163,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242583,
     "wof:name":"Res El Tule",
     "wof:parent_id":101995853,
     "wof:placetype":"neighbourhood",

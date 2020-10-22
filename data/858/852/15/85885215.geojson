@@ -9,7 +9,6 @@
     "geom:bbox":"-92.636945,16.742638,-92.636945,16.742638",
     "geom:latitude":16.742638,
     "geom:longitude":-92.636945,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.641945,16.737638,-92.631945,16.747638",
     "lbl:latitude":16.742638,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885215,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147393,
+    "wof:lastmodified":1603242606,
     "wof:name":"Barrio de Mexicanos",
     "wof:parent_id":101994509,
     "wof:placetype":"neighbourhood",

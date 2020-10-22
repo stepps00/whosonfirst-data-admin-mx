@@ -9,7 +9,6 @@
     "geom:bbox":"-117.031088,32.515162,-117.031088,32.515162",
     "geom:latitude":32.515162,
     "geom:longitude":-117.031088,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.036088,32.510162,-117.026088,32.520162",
     "lbl:latitude":32.515162,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883407,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242585,
     "wof:name":"Madero sur",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

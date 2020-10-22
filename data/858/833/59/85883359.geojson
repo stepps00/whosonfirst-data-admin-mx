@@ -9,7 +9,6 @@
     "geom:bbox":"-100.373362,20.592407,-100.373362,20.592407",
     "geom:latitude":20.592407,
     "geom:longitude":-100.373362,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.378362,20.587407,-100.368362,20.597407",
     "lbl:latitude":20.592407,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883359,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Carretas",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

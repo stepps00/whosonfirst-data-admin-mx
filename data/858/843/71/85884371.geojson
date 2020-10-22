@@ -9,7 +9,6 @@
     "geom:bbox":"-98.990402,19.75474,-98.990402,19.75474",
     "geom:latitude":19.75474,
     "geom:longitude":-98.990402,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.995402,19.74974,-98.985402,19.75974",
     "lbl:latitude":19.75474,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85884371,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242577,
     "wof:name":"Santa Lucia Base Aerea Militar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

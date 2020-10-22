@@ -9,7 +9,6 @@
     "geom:bbox":"-105.245566,20.582918,-105.245566,20.582918",
     "geom:latitude":20.582918,
     "geom:longitude":-105.245566,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.250566,20.577918,-105.240566,20.587918",
     "lbl:latitude":20.582918,
@@ -78,10 +77,7 @@
         }
     ],
     "wof:id":85884635,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Fracc Conchas Chinas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-100.376213,20.602571,-100.376213,20.602571",
     "geom:latitude":20.602571,
     "geom:longitude":-100.376213,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.381213,20.597571,-100.371213,20.607571",
     "lbl:latitude":20.602571,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883297,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242582,
     "wof:name":"Res Viveros",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

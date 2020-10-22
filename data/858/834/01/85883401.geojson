@@ -9,7 +9,6 @@
     "geom:bbox":"-100.753393,20.902785,-100.753393,20.902785",
     "geom:latitude":20.902785,
     "geom:longitude":-100.753393,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.758393,20.897785,-100.748393,20.907785",
     "lbl:latitude":20.902785,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883401,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Villas de Allende",
     "wof:parent_id":101993059,
     "wof:placetype":"neighbourhood",

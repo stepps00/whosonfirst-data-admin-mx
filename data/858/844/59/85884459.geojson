@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1790771484,19.4186779932,-99.1667175293,19.4303341059",
     "geom:latitude":19.423993,
     "geom:longitude":-99.173256,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.424578,
     "lbl:longitude":-99.17263,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85884459,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242577,
     "wof:name":"Nva Anzures",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

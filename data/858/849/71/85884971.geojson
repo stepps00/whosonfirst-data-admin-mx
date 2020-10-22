@@ -9,7 +9,6 @@
     "geom:bbox":"-99.294118,19.552782,-99.294118,19.552782",
     "geom:latitude":19.552782,
     "geom:longitude":-99.294118,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.299118,19.547782,-99.289118,19.557782",
     "lbl:latitude":19.552782,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884971,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242592,
     "wof:name":"Condado Plaza Chiluca",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",

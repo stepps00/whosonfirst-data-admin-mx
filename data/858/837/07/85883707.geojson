@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1268920898,19.4772131063,-99.111862255,19.4924859262",
     "geom:latitude":19.485,
     "geom:longitude":-99.11904,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.485067,
     "lbl:longitude":-99.117602,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883707,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619694,
+    "wof:lastmodified":1603242602,
     "wof:name":"Tepeyac Insurgentes",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

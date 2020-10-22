@@ -9,7 +9,6 @@
     "geom:bbox":"-106.115431,28.626033,-106.115431,28.626033",
     "geom:latitude":28.626033,
     "geom:longitude":-106.115431,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.120431,28.621033,-106.110431,28.631033",
     "lbl:latitude":28.626033,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882669,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242574,
     "wof:name":"Fracc Las Aguilas",
     "wof:parent_id":101994137,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-112.255554,27.327245,-112.255554,27.327245",
     "geom:latitude":27.327245,
     "geom:longitude":-112.255554,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-112.260554,27.322245,-112.250554,27.332245",
     "lbl:latitude":27.327245,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85883539,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Nueva Santa Rosalia",
     "wof:parent_id":101993451,
     "wof:placetype":"neighbourhood",

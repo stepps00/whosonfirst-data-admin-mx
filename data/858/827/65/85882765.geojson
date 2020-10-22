@@ -9,7 +9,6 @@
     "geom:bbox":"-99.835022,16.798502,-99.835022,16.798502",
     "geom:latitude":16.798502,
     "geom:longitude":-99.835022,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.840022,16.793502,-99.830022,16.803502",
     "lbl:latitude":16.798502,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85882765,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242568,
     "wof:name":"Fracc Del Marques",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-101.576841,19.630183,-101.576841,19.630183",
     "geom:latitude":19.630183,
     "geom:longitude":-101.576841,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.581841,19.625183,-101.571841,19.635183",
     "lbl:latitude":19.630183,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885251,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242606,
     "wof:name":"Barrio El Rincon",
     "wof:parent_id":101997263,
     "wof:placetype":"neighbourhood",

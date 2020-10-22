@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1897589276,19.4484641744,-99.1845703125,19.4510540246",
     "geom:latitude":19.449626,
     "geom:longitude":-99.186617,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.449759,
     "lbl:longitude":-99.185944,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883973,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619707,
+    "wof:lastmodified":1603242604,
     "wof:name":"Manzanos",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

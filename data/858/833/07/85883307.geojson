@@ -9,7 +9,6 @@
     "geom:bbox":"-101.181335,20.390974,-101.181335,20.390974",
     "geom:latitude":20.390974,
     "geom:longitude":-101.181335,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.186335,20.385974,-101.176335,20.395974",
     "lbl:latitude":20.390974,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85883307,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242584,
     "wof:name":"Valle de Santiago Centro",
     "wof:parent_id":101996805,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-116.617008,31.846055,-116.617008,31.846055",
     "geom:latitude":31.846055,
     "geom:longitude":-116.617008,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.622008,31.841055,-116.612008,31.851055",
     "lbl:latitude":31.846055,
@@ -76,10 +75,7 @@
         }
     ],
     "wof:id":85884161,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Fracc Playa de Ensenada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

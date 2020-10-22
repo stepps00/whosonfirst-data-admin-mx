@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1076660156,19.4018399023,-99.0802001953,19.4277438327",
     "geom:latitude":19.414094,
     "geom:longitude":-99.092733,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.405681,
     "lbl:longitude":-99.094785,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884419,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619587,
+    "wof:lastmodified":1603242577,
     "wof:name":"Unidad Deportiva Magdalena Mixhuca",
     "wof:parent_id":890535761,
     "wof:placetype":"neighbourhood",

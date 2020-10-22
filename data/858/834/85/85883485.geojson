@@ -9,7 +9,6 @@
     "geom:bbox":"-98.249205,19.017531,-98.249205,19.017531",
     "geom:latitude":19.017531,
     "geom:longitude":-98.249205,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.254205,19.012531,-98.244205,19.022531",
     "lbl:latitude":19.017531,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883485,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Conjunto Hab Villas de Atlixco",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-105.254447,21.03707,-105.254447,21.03707",
     "geom:latitude":21.03707,
     "geom:longitude":-105.254447,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.259447,21.03207,-105.249447,21.04207",
     "lbl:latitude":21.03707,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884933,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242591,
     "wof:name":"Paraiso",
     "wof:parent_id":101997049,
     "wof:placetype":"neighbourhood",

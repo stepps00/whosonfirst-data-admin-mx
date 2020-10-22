@@ -9,7 +9,6 @@
     "geom:bbox":"-98.434759,18.910279,-98.434759,18.910279",
     "geom:latitude":18.910279,
     "geom:longitude":-98.434759,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.439759,18.905279,-98.429759,18.915279",
     "lbl:latitude":18.910279,
@@ -134,10 +133,7 @@
         }
     ],
     "wof:id":85884869,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Ricardo Trevi\u00f1o",
     "wof:parent_id":101999289,
     "wof:placetype":"neighbourhood",

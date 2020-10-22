@@ -9,7 +9,6 @@
     "geom:bbox":"-103.421214,20.662303,-103.421214,20.662303",
     "geom:latitude":20.662303,
     "geom:longitude":-103.421214,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.426214,20.657303,-103.416214,20.667303",
     "lbl:latitude":20.662303,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85884895,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Jardines Del Tepeyac",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

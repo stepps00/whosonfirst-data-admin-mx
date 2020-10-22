@@ -9,7 +9,6 @@
     "geom:bbox":"-102.989884,22.649225,-102.989884,22.649225",
     "geom:latitude":22.649225,
     "geom:longitude":-102.989884,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.994884,22.644225,-102.984884,22.654225",
     "lbl:latitude":22.649225,
@@ -69,10 +68,7 @@
         }
     ],
     "wof:id":85885167,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242582,
     "wof:name":"Jerez Centro",
     "wof:parent_id":101992283,
     "wof:placetype":"neighbourhood",

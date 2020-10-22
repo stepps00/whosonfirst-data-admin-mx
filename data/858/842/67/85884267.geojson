@@ -9,7 +9,6 @@
     "geom:bbox":"-101.265179,21.019755,-101.265179,21.019755",
     "geom:latitude":21.019755,
     "geom:longitude":-101.265179,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.270179,21.014755,-101.260179,21.024755",
     "lbl:latitude":21.019755,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884267,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Barrio Panteon",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

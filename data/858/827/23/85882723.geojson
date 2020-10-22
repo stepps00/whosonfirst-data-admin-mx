@@ -9,7 +9,6 @@
     "geom:bbox":"-92.938038,17.999108,-92.938038,17.999108",
     "geom:latitude":17.999108,
     "geom:longitude":-92.938038,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.943038,17.994108,-92.933038,18.004108",
     "lbl:latitude":17.999108,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882723,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Fracc la Hacienda",
     "wof:parent_id":101994837,
     "wof:placetype":"neighbourhood",

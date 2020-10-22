@@ -9,7 +9,6 @@
     "geom:bbox":"-98.232945,19.032119,-98.232945,19.032119",
     "geom:latitude":19.032119,
     "geom:longitude":-98.232945,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.237945,19.027119,-98.227945,19.037119",
     "lbl:latitude":19.032119,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883063,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Geo Villas la Hacienda",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

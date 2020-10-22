@@ -9,7 +9,6 @@
     "geom:bbox":"-102.282757,19.983473,-102.282757,19.983473",
     "geom:latitude":19.983473,
     "geom:longitude":-102.282757,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.287757,19.978473,-102.277757,19.988473",
     "lbl:latitude":19.983473,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882973,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242569,
     "wof:name":"Jardines de Catedral",
     "wof:parent_id":101997471,
     "wof:placetype":"neighbourhood",

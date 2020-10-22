@@ -9,7 +9,6 @@
     "geom:bbox":"-99.259247,19.480028,-99.259247,19.480028",
     "geom:latitude":19.480028,
     "geom:longitude":-99.259247,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.264247,19.475028,-99.254247,19.485028",
     "lbl:latitude":19.480028,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884405,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242577,
     "wof:name":"Lago de Occipaco",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

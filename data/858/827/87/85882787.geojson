@@ -9,7 +9,6 @@
     "geom:bbox":"-96.124443,19.140389,-96.124443,19.140389",
     "geom:latitude":19.140389,
     "geom:longitude":-96.124443,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.129443,19.135389,-96.119443,19.145389",
     "lbl:latitude":19.140389,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85882787,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Guillermo Lopez Portillo",
     "wof:parent_id":101998203,
     "wof:placetype":"neighbourhood",

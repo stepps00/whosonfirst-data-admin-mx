@@ -9,7 +9,6 @@
     "geom:bbox":"-100.329945,25.634083,-100.329945,25.634083",
     "geom:latitude":25.634083,
     "geom:longitude":-100.329945,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.334945,25.629083,-100.324945,25.639083",
     "lbl:latitude":25.634083,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85883739,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242602,
     "wof:name":"Valle Del Mirador",
     "wof:parent_id":102000745,
     "wof:placetype":"neighbourhood",

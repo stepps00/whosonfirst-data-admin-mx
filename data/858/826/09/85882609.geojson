@@ -9,7 +9,6 @@
     "geom:bbox":"-100.747779,20.908164,-100.747779,20.908164",
     "geom:latitude":20.908164,
     "geom:longitude":-100.747779,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.752779,20.903164,-100.742779,20.913164",
     "lbl:latitude":20.908164,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882609,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Fracc de la Aldea",
     "wof:parent_id":101993059,
     "wof:placetype":"neighbourhood",

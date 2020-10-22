@@ -9,7 +9,6 @@
     "geom:bbox":"-89.616826,20.9911,-89.616826,20.9911",
     "geom:latitude":20.9911,
     "geom:longitude":-89.616826,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.621826,20.9861,-89.611826,20.9961",
     "lbl:latitude":20.9911,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882465,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242591,
     "wof:name":"Fracc Montejo",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

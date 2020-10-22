@@ -9,7 +9,6 @@
     "geom:bbox":"-99.190849,19.691729,-99.190849,19.691729",
     "geom:latitude":19.691729,
     "geom:longitude":-99.190849,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.195849,19.686729,-99.185849,19.696729",
     "lbl:latitude":19.691729,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884433,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242577,
     "wof:name":"Zona Industrial Xhala",
     "wof:parent_id":101991533,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-101.736145,22.626688,-101.736145,22.626688",
     "geom:latitude":22.626688,
     "geom:longitude":-101.736145,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.741145,22.621688,-101.731145,22.631688",
     "lbl:latitude":22.626688,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85885089,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Barrio la Joya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-101.687448,21.174638,-101.687448,21.174638",
     "geom:latitude":21.174638,
     "geom:longitude":-101.687448,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.692448,21.169638,-101.682448,21.179638",
     "lbl:latitude":21.174638,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883313,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Granjas Del Rosario",
     "wof:parent_id":101996837,
     "wof:placetype":"neighbourhood",

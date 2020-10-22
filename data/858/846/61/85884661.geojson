@@ -9,7 +9,6 @@
     "geom:bbox":"-105.234146,20.630989,-105.234146,20.630989",
     "geom:latitude":20.630989,
     "geom:longitude":-105.234146,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.239146,20.625989,-105.229146,20.635989",
     "lbl:latitude":20.630989,
@@ -80,10 +79,7 @@
         }
     ],
     "wof:id":85884661,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Res Las Glorias",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

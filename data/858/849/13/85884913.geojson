@@ -9,7 +9,6 @@
     "geom:bbox":"-103.312587,20.639065,-103.312587,20.639065",
     "geom:latitude":20.639065,
     "geom:longitude":-103.312587,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.317587,20.634065,-103.307587,20.644065",
     "lbl:latitude":20.639065,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884913,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242592,
     "wof:name":"Barrio de Santa Maria",
     "wof:parent_id":101997863,
     "wof:placetype":"neighbourhood",

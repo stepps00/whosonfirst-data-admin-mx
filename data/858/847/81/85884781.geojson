@@ -9,7 +9,6 @@
     "geom:bbox":"-103.724993,20.838425,-103.724993,20.838425",
     "geom:latitude":20.838425,
     "geom:longitude":-103.724993,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.729993,20.833425,-103.719993,20.843425",
     "lbl:latitude":20.838425,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85884781,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Barrio El Cerrito",
     "wof:parent_id":101997931,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1328046165,19.4717713021,-99.1167832627,19.4847182469",
     "geom:latitude":19.478616,
     "geom:longitude":-99.124428,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.481456,
     "lbl:longitude":-99.125139,
@@ -110,10 +109,7 @@
         }
     ],
     "wof:id":85883871,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619677,
+    "wof:lastmodified":1603242598,
     "wof:name":"Industrial",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

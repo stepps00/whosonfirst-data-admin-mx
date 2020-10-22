@@ -9,7 +9,6 @@
     "geom:bbox":"-117.09762,32.429478,-117.09762,32.429478",
     "geom:latitude":32.429478,
     "geom:longitude":-117.09762,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.10262,32.424478,-117.09262,32.434478",
     "lbl:latitude":32.429478,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85882537,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Los Delfines",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

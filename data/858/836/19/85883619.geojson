@@ -9,7 +9,6 @@
     "geom:bbox":"-106.130496,28.653572,-106.130496,28.653572",
     "geom:latitude":28.653572,
     "geom:longitude":-106.130496,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.135496,28.648572,-106.125496,28.658572",
     "lbl:latitude":28.653572,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883619,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Colinas Del Sol Iii",
     "wof:parent_id":101994137,
     "wof:placetype":"neighbourhood",

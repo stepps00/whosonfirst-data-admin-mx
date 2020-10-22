@@ -9,7 +9,6 @@
     "geom:bbox":"-101.659065,19.570324,-101.659065,19.570324",
     "geom:latitude":19.570324,
     "geom:longitude":-101.659065,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.664065,19.565324,-101.654065,19.575324",
     "lbl:latitude":19.570324,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85885267,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242606,
     "wof:name":"Barrio Jaracuaro (san Francisco)",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

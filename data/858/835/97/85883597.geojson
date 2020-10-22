@@ -9,7 +9,6 @@
     "geom:bbox":"-98.953917,18.81634,-98.953917,18.81634",
     "geom:latitude":18.81634,
     "geom:longitude":-98.953917,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.958917,18.81134,-98.948917,18.82134",
     "lbl:latitude":18.81634,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883597,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242581,
     "wof:name":"Irrigacion",
     "wof:parent_id":101993313,
     "wof:placetype":"neighbourhood",

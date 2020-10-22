@@ -9,7 +9,6 @@
     "geom:bbox":"-115.448393,32.658145,-115.448393,32.658145",
     "geom:latitude":32.658145,
     "geom:longitude":-115.448393,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.453393,32.653145,-115.443393,32.663145",
     "lbl:latitude":32.658145,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85882539,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Nueva",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

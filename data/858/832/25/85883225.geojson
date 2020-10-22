@@ -9,7 +9,6 @@
     "geom:bbox":"-104.307998,19.08548,-104.307998,19.08548",
     "geom:latitude":19.08548,
     "geom:longitude":-104.307998,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.312998,19.08048,-104.302998,19.09048",
     "lbl:latitude":19.08548,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85883225,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242582,
     "wof:name":"Del Pacifico",
     "wof:parent_id":101996931,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-106.456057,23.251825,-106.456057,23.251825",
     "geom:latitude":23.251825,
     "geom:longitude":-106.456057,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.461057,23.246825,-106.451057,23.256825",
     "lbl:latitude":23.251825,
@@ -237,10 +236,7 @@
         }
     ],
     "wof:id":85884135,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242586,
     "wof:name":"El Dorado",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

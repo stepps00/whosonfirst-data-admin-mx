@@ -9,7 +9,6 @@
     "geom:bbox":"-116.625202,31.873359,-116.625202,31.873359",
     "geom:latitude":31.873359,
     "geom:longitude":-116.625202,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.630202,31.868359,-116.620202,31.878359",
     "lbl:latitude":31.873359,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85884153,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Camilo Flores",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

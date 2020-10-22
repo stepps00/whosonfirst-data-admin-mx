@@ -9,7 +9,6 @@
     "geom:bbox":"-99.058227539,19.2840446582,-99.0290014648,19.3185512639",
     "geom:latitude":19.302344,
     "geom:longitude":-99.041307,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.299842,
     "lbl:longitude":-99.042298,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884461,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619585,
+    "wof:lastmodified":1603242577,
     "wof:name":"Santa Ana Zapotitlan",
     "wof:parent_id":890535783,
     "wof:placetype":"neighbourhood",

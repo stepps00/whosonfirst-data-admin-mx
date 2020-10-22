@@ -9,7 +9,6 @@
     "geom:bbox":"-89.639829,20.968866,-89.639829,20.968866",
     "geom:latitude":20.968866,
     "geom:longitude":-89.639829,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.644829,20.963866,-89.634829,20.973866",
     "lbl:latitude":20.968866,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85883505,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Fracc San Lorenzo",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

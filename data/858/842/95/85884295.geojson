@@ -9,7 +9,6 @@
     "geom:bbox":"-97.10466,18.849231,-97.10466,18.849231",
     "geom:latitude":18.849231,
     "geom:longitude":-97.10466,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.10966,18.844231,-97.09966,18.854231",
     "lbl:latitude":18.849231,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884295,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242572,
     "wof:name":"Union Obrera",
     "wof:parent_id":101998551,
     "wof:placetype":"neighbourhood",

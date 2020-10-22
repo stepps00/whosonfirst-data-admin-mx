@@ -9,7 +9,6 @@
     "geom:bbox":"-110.883877,27.922412,-110.883877,27.922412",
     "geom:latitude":27.922412,
     "geom:longitude":-110.883877,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.888877,27.917412,-110.878877,27.927412",
     "lbl:latitude":27.922412,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85883537,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Golondrinas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

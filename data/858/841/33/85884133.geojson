@@ -9,7 +9,6 @@
     "geom:bbox":"-106.423896,23.205807,-106.423896,23.205807",
     "geom:latitude":23.205807,
     "geom:longitude":-106.423896,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.428896,23.200807,-106.418896,23.210807",
     "lbl:latitude":23.205807,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85884133,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Los Pinos",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

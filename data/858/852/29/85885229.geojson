@@ -9,7 +9,6 @@
     "geom:bbox":"-91.992779,17.523341,-91.992779,17.523341",
     "geom:latitude":17.523341,
     "geom:longitude":-91.992779,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-91.997779,17.518341,-91.987779,17.528341",
     "lbl:latitude":17.523341,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85885229,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242606,
     "wof:name":"Fracc Guayacan la Lomita",
     "wof:parent_id":101994537,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-100.98004,22.152189,-100.98004,22.152189",
     "geom:latitude":22.152189,
     "geom:longitude":-100.98004,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.98504,22.147189,-100.97504,22.157189",
     "lbl:latitude":22.152189,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85883557,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Moderna",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

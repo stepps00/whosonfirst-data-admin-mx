@@ -9,7 +9,6 @@
     "geom:bbox":"-104.302826,19.066011,-104.302826,19.066011",
     "geom:latitude":19.066011,
     "geom:longitude":-104.302826,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.307826,19.061011,-104.297826,19.071011",
     "lbl:latitude":19.066011,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85883239,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242582,
     "wof:name":"San Pedrito",
     "wof:parent_id":101996931,
     "wof:placetype":"neighbourhood",

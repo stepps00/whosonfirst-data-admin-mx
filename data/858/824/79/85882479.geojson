@@ -9,7 +9,6 @@
     "geom:bbox":"-102.276238,21.881707,-102.276238,21.881707",
     "geom:latitude":21.881707,
     "geom:longitude":-102.276238,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.281238,21.876707,-102.271238,21.886707",
     "lbl:latitude":21.881707,
@@ -179,10 +178,7 @@
         }
     ],
     "wof:id":85882479,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242591,
     "wof:name":"Heroes",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

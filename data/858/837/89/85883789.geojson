@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1415980866,19.4070210337,-99.1268920898,19.4147924324",
     "geom:latitude":19.410995,
     "geom:longitude":-99.134862,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.410608,
     "lbl:longitude":-99.133546,
@@ -131,10 +130,7 @@
         }
     ],
     "wof:id":85883789,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619693,
+    "wof:lastmodified":1603242601,
     "wof:name":"Vista Alegre",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

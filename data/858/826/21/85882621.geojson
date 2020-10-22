@@ -9,7 +9,6 @@
     "geom:bbox":"-101.000061,22.173841,-101.000061,22.173841",
     "geom:latitude":22.173841,
     "geom:longitude":-101.000061,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.005061,22.168841,-100.995061,22.178841",
     "lbl:latitude":22.173841,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882621,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Jacarandas",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-98.22283,19.052074,-98.22283,19.052074",
     "geom:latitude":19.052074,
     "geom:longitude":-98.22283,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.22783,19.047074,-98.21783,19.057074",
     "lbl:latitude":19.052074,
@@ -430,10 +429,7 @@
         }
     ],
     "wof:id":85882715,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"La Paz",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

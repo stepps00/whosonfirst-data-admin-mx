@@ -9,7 +9,6 @@
     "geom:bbox":"-96.74992,16.964861,-96.74992,16.964861",
     "geom:latitude":16.964861,
     "geom:longitude":-96.74992,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.75492,16.959861,-96.74492,16.969861",
     "lbl:latitude":16.964861,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85885121,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242583,
     "wof:name":"Barrio San Pedro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

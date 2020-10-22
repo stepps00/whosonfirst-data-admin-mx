@@ -9,7 +9,6 @@
     "geom:bbox":"-116.600397,31.821689,-116.600397,31.821689",
     "geom:latitude":31.821689,
     "geom:longitude":-116.600397,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.605397,31.816689,-116.595397,31.826689",
     "lbl:latitude":31.821689,
@@ -76,10 +75,7 @@
         }
     ],
     "wof:id":85884163,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Lomas Del Mar",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

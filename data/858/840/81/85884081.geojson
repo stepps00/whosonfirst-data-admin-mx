@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1763305664,19.2764832552,-99.1641572,19.2904056395",
     "geom:latitude":19.283453,
     "geom:longitude":-99.170009,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.287068,
     "lbl:longitude":-99.169654,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884081,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619663,
+    "wof:lastmodified":1603242594,
     "wof:name":"Tlalpan Centro",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

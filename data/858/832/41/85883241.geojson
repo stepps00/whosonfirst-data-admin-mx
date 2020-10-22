@@ -9,7 +9,6 @@
     "geom:bbox":"-97.786817,22.267936,-97.786817,22.267936",
     "geom:latitude":22.267936,
     "geom:longitude":-97.786817,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.791817,22.262936,-97.781817,22.272936",
     "lbl:latitude":22.267936,
@@ -125,10 +124,7 @@
         }
     ],
     "wof:id":85883241,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242582,
     "wof:name":"Emilio Carranza",
     "wof:parent_id":102001085,
     "wof:placetype":"neighbourhood",

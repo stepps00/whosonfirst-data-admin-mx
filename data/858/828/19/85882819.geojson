@@ -9,7 +9,6 @@
     "geom:bbox":"-103.46181,25.538929,-103.46181,25.538929",
     "geom:latitude":25.538929,
     "geom:longitude":-103.46181,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.46681,25.533929,-103.45681,25.543929",
     "lbl:latitude":25.538929,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882819,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242573,
     "wof:name":"Vencedora",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

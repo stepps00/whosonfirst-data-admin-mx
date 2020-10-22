@@ -9,7 +9,6 @@
     "geom:bbox":"-100.344794,25.713303,-100.344794,25.713303",
     "geom:latitude":25.713303,
     "geom:longitude":-100.344794,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.349794,25.708303,-100.339794,25.718303",
     "lbl:latitude":25.713303,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883941,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242605,
     "wof:name":"Nueva Morelos",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

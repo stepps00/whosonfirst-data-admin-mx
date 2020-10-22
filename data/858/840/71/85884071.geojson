@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1790771484,19.4070210383,-99.1732596223,19.4129758118",
     "geom:latitude":19.409793,
     "geom:longitude":-99.176228,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.40994,
     "lbl:longitude":-99.175994,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85884071,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619665,
+    "wof:lastmodified":1603242595,
     "wof:name":"Hipodromo de la Condesa",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

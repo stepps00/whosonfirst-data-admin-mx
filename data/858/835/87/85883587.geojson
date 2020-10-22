@@ -9,7 +9,6 @@
     "geom:bbox":"-102.31842,21.925211,-102.31842,21.925211",
     "geom:latitude":21.925211,
     "geom:longitude":-102.31842,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.32342,21.920211,-102.31342,21.930211",
     "lbl:latitude":21.925211,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883587,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Fracc Lomas Del Campestre",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

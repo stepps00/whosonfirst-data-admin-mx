@@ -9,7 +9,6 @@
     "geom:bbox":"-106.447632,31.606143,-106.447632,31.606143",
     "geom:latitude":31.606143,
     "geom:longitude":-106.447632,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.452632,31.601143,-106.442632,31.611143",
     "lbl:latitude":31.606143,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85882987,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242569,
     "wof:name":"Pablo Gomez",
     "wof:parent_id":101994153,
     "wof:placetype":"neighbourhood",

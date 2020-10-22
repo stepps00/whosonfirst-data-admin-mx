@@ -9,7 +9,6 @@
     "geom:bbox":"-112.269287,27.353229,-112.269287,27.353229",
     "geom:latitude":27.353229,
     "geom:longitude":-112.269287,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-112.274287,27.348229,-112.264287,27.358229",
     "lbl:latitude":27.353229,
@@ -80,10 +79,7 @@
         }
     ],
     "wof:id":85883375,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Mesa Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

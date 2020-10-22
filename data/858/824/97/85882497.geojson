@@ -9,7 +9,6 @@
     "geom:bbox":"-98.227568,19.316362,-98.227568,19.316362",
     "geom:latitude":19.316362,
     "geom:longitude":-98.227568,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.232568,19.311362,-98.222568,19.321362",
     "lbl:latitude":19.316362,
@@ -69,10 +68,7 @@
         }
     ],
     "wof:id":85882497,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242591,
     "wof:name":"Centro Tlaxcala",
     "wof:parent_id":101999049,
     "wof:placetype":"neighbourhood",

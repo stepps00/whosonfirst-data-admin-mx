@@ -9,7 +9,6 @@
     "geom:bbox":"-96.123996,19.175276,-96.123996,19.175276",
     "geom:latitude":19.175276,
     "geom:longitude":-96.123996,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.128996,19.170276,-96.118996,19.180276",
     "lbl:latitude":19.175276,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85883389,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Fracc Ignacio Zaragoza",
     "wof:parent_id":101998843,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-100.964349,25.415856,-100.964349,25.415856",
     "geom:latitude":25.415856,
     "geom:longitude":-100.964349,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.969349,25.410856,-100.959349,25.420856",
     "lbl:latitude":25.415856,
@@ -142,10 +141,7 @@
         }
     ],
     "wof:id":85883639,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Candelaria",
     "wof:parent_id":102000871,
     "wof:placetype":"neighbourhood",

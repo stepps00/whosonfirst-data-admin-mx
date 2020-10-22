@@ -9,7 +9,6 @@
     "geom:bbox":"-99.228515625,19.2981824882,-99.2072671621,19.3167508492",
     "geom:latitude":19.307585,
     "geom:longitude":-99.218742,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.310756,
     "lbl:longitude":-99.213401,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85883735,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619692,
+    "wof:lastmodified":1603242601,
     "wof:name":"Jardines en la Monta\u00f1a",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

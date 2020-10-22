@@ -9,7 +9,6 @@
     "geom:bbox":"-103.172607,20.290537,-103.172607,20.290537",
     "geom:latitude":20.290537,
     "geom:longitude":-103.172607,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.177607,20.285537,-103.167607,20.295537",
     "lbl:latitude":20.290537,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85884707,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Barrio Nuevo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-86.765198,21.102744,-86.765198,21.102744",
     "geom:latitude":21.102744,
     "geom:longitude":-86.765198,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-86.770198,21.097744,-86.760198,21.107744",
     "lbl:latitude":21.102744,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883057,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242602,
     "wof:name":"Zona Hotelera",
     "wof:parent_id":102001471,
     "wof:placetype":"neighbourhood",

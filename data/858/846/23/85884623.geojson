@@ -9,7 +9,6 @@
     "geom:bbox":"-105.218079,20.65386,-105.218079,20.65386",
     "geom:latitude":20.65386,
     "geom:longitude":-105.218079,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.223079,20.64886,-105.213079,20.65886",
     "lbl:latitude":20.65386,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884623,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Centro Pitillal",
     "wof:parent_id":101997965,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-96.92349,19.527393,-96.92349,19.527393",
     "geom:latitude":19.527393,
     "geom:longitude":-96.92349,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.92849,19.522393,-96.91849,19.532393",
     "lbl:latitude":19.527393,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85882849,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242574,
     "wof:name":"El Empleado",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

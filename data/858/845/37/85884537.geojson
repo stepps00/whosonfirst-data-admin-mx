@@ -9,7 +9,6 @@
     "geom:bbox":"-103.345952,20.700964,-103.345952,20.700964",
     "geom:latitude":20.700964,
     "geom:longitude":-103.345952,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.350952,20.695964,-103.340952,20.705964",
     "lbl:latitude":20.700964,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884537,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Colinas de la Normal",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

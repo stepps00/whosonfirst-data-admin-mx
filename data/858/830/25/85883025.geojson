@@ -9,7 +9,6 @@
     "geom:bbox":"-86.964,20.495483,-86.964,20.495483",
     "geom:latitude":20.495483,
     "geom:longitude":-86.964,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-86.969,20.490483,-86.959,20.500483",
     "lbl:latitude":20.495483,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883025,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242604,
     "wof:name":"Colonos Cuzamil",
     "wof:parent_id":102001507,
     "wof:placetype":"neighbourhood",

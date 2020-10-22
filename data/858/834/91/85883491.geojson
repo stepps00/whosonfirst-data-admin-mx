@@ -9,7 +9,6 @@
     "geom:bbox":"-115.438283,32.625446,-115.438283,32.625446",
     "geom:latitude":32.625446,
     "geom:longitude":-115.438283,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.443283,32.620446,-115.433283,32.630446",
     "lbl:latitude":32.625446,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85883491,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242585,
     "wof:name":"Ex Ejido de Coahuila",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

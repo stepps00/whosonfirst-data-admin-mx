@@ -9,7 +9,6 @@
     "geom:bbox":"-98.755147,19.209298,-98.755147,19.209298",
     "geom:latitude":19.209298,
     "geom:longitude":-98.755147,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.760147,19.204298,-98.750147,19.214298",
     "lbl:latitude":19.209298,
@@ -75,10 +74,7 @@
         }
     ],
     "wof:id":85884695,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Barrio de la Pe\u00f1a",
     "wof:parent_id":101991713,
     "wof:placetype":"neighbourhood",

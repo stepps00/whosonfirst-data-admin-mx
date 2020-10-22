@@ -9,7 +9,6 @@
     "geom:bbox":"-101.695633,21.178008,-101.695633,21.178008",
     "geom:latitude":21.178008,
     "geom:longitude":-101.695633,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.700633,21.173008,-101.690633,21.183008",
     "lbl:latitude":21.178008,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85883523,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242581,
     "wof:name":"Granjas El Palote",
     "wof:parent_id":101996837,
     "wof:placetype":"neighbourhood",

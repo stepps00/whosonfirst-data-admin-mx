@@ -9,7 +9,6 @@
     "geom:bbox":"-100.358917,25.685467,-100.358917,25.685467",
     "geom:latitude":25.685467,
     "geom:longitude":-100.358917,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.363917,25.680467,-100.353917,25.690467",
     "lbl:latitude":25.685467,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883817,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242597,
     "wof:name":"Residencial San Jeronimo",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

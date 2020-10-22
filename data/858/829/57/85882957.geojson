@@ -9,7 +9,6 @@
     "geom:bbox":"-102.022997,20.338418,-102.022997,20.338418",
     "geom:latitude":20.338418,
     "geom:longitude":-102.022997,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.027997,20.333418,-102.017997,20.343418",
     "lbl:latitude":20.338418,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882957,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"La Piedad de Cabadas Centro",
     "wof:parent_id":101997555,
     "wof:placetype":"neighbourhood",

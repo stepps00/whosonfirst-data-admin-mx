@@ -9,7 +9,6 @@
     "geom:bbox":"-103.388284,20.674616,-103.388284,20.674616",
     "geom:latitude":20.674616,
     "geom:longitude":-103.388284,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.393284,20.669616,-103.383284,20.679616",
     "lbl:latitude":20.674616,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884577,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Vallarta Poniente",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

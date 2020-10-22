@@ -9,7 +9,6 @@
     "geom:bbox":"-92.922262,17.996696,-92.922262,17.996696",
     "geom:latitude":17.996696,
     "geom:longitude":-92.922262,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.927262,17.991696,-92.917262,18.001696",
     "lbl:latitude":17.996696,
@@ -123,10 +122,7 @@
         }
     ],
     "wof:id":85882721,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Arboledas",
     "wof:parent_id":101994837,
     "wof:placetype":"neighbourhood",

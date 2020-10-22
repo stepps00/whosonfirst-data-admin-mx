@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2289246701,19.4251536777,-99.2092895508,19.4458742982",
     "geom:latitude":19.434408,
     "geom:longitude":-99.219722,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.437972,
     "lbl:longitude":-99.218884,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883747,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619698,
+    "wof:lastmodified":1603242602,
     "wof:name":"Residencial Militar",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

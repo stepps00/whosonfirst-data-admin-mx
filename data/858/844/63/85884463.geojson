@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2083032226,19.4950749643,-99.1718237304,19.5206090273",
     "geom:latitude":19.506454,
     "geom:longitude":-99.190325,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.50252,
     "lbl:longitude":-99.189262,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884463,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619589,
+    "wof:lastmodified":1603242578,
     "wof:name":"Unidad Hab Manuel Rivera Anaya",
     "wof:parent_id":890535755,
     "wof:placetype":"neighbourhood",

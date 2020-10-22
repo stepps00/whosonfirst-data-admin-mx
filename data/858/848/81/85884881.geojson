@@ -9,7 +9,6 @@
     "geom:bbox":"-103.413744,20.608506,-103.413744,20.608506",
     "geom:latitude":20.608506,
     "geom:longitude":-103.413744,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.418744,20.603506,-103.408744,20.613506",
     "lbl:latitude":20.608506,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884881,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242590,
     "wof:name":"Fracc Cerro Del Tesoro",
     "wof:parent_id":101997863,
     "wof:placetype":"neighbourhood",

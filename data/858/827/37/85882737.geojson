@@ -9,7 +9,6 @@
     "geom:bbox":"-96.721119,17.060225,-96.721119,17.060225",
     "geom:latitude":17.060225,
     "geom:longitude":-96.721119,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.726119,17.055225,-96.716119,17.065225",
     "lbl:latitude":17.060225,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882737,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242568,
     "wof:name":"Unidad Modelo",
     "wof:parent_id":101995147,
     "wof:placetype":"neighbourhood",

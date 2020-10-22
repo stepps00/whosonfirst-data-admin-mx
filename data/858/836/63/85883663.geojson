@@ -9,7 +9,6 @@
     "geom:bbox":"-100.379619,25.695152,-100.379619,25.695152",
     "geom:latitude":25.695152,
     "geom:longitude":-100.379619,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.384619,25.690152,-100.374619,25.700152",
     "lbl:latitude":25.695152,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883663,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Las Colinas Residencial",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

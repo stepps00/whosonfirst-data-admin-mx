@@ -9,7 +9,6 @@
     "geom:bbox":"-99.85042,16.842729,-99.85042,16.842729",
     "geom:latitude":16.842729,
     "geom:longitude":-99.85042,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.85542,16.837729,-99.84542,16.847729",
     "lbl:latitude":16.842729,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882997,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Balcones de Costa Azul",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

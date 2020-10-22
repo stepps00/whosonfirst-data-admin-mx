@@ -9,7 +9,6 @@
     "geom:bbox":"-103.393304,20.669099,-103.393304,20.669099",
     "geom:latitude":20.669099,
     "geom:longitude":-103.393304,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.398304,20.664099,-103.388304,20.674099",
     "lbl:latitude":20.669099,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85884977,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242592,
     "wof:name":"Jardines de Los Arcos",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

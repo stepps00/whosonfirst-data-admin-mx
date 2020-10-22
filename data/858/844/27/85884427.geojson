@@ -9,7 +9,6 @@
     "geom:bbox":"-99.0105493164,19.2211297331,-98.9850561523,19.2407700595",
     "geom:latitude":19.231235,
     "geom:longitude":-98.997913,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.230771,
     "lbl:longitude":-98.995789,
@@ -144,10 +143,7 @@
         }
     ],
     "wof:id":85884427,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619586,
+    "wof:lastmodified":1603242577,
     "wof:name":"Jaime Torres Bodet",
     "wof:parent_id":101991127,
     "wof:placetype":"neighbourhood",

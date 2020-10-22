@@ -9,7 +9,6 @@
     "geom:bbox":"-89.420129,20.302792,-89.420129,20.302792",
     "geom:latitude":20.302792,
     "geom:longitude":-89.420129,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.425129,20.297792,-89.415129,20.307792",
     "lbl:latitude":20.302792,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884823,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Oxkutzcab Centro",
     "wof:parent_id":102001353,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-106.430419,23.228615,-106.430419,23.228615",
     "geom:latitude":23.228615,
     "geom:longitude":-106.430419,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.435419,23.223615,-106.425419,23.233615",
     "lbl:latitude":23.228615,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85884121,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Telleria",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

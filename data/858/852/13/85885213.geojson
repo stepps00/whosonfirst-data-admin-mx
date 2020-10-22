@@ -9,7 +9,6 @@
     "geom:bbox":"-92.641363,16.731594,-92.641363,16.731594",
     "geom:latitude":16.731594,
     "geom:longitude":-92.641363,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.646363,16.726594,-92.636363,16.736594",
     "lbl:latitude":16.731594,
@@ -73,10 +72,7 @@
         }
     ],
     "wof:id":85885213,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147393,
+    "wof:lastmodified":1603242606,
     "wof:name":"Barrio San Antonio",
     "wof:parent_id":101994509,
     "wof:placetype":"neighbourhood",

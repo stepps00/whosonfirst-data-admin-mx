@@ -9,7 +9,6 @@
     "geom:bbox":"-115.507507,32.629661,-115.507507,32.629661",
     "geom:latitude":32.629661,
     "geom:longitude":-115.507507,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.512507,32.624661,-115.502507,32.634661",
     "lbl:latitude":32.629661,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85882533,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Infonavit",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

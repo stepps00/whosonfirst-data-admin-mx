@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1516113281,19.3012649057,-99.1314365017,19.3189192178",
     "geom:latitude":19.310838,
     "geom:longitude":-99.140486,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.307948,
     "lbl:longitude":-99.139411,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883853,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619675,
+    "wof:lastmodified":1603242598,
     "wof:name":"Santa Ursula Coapa",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

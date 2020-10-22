@@ -9,7 +9,6 @@
     "geom:bbox":"-100.371755,25.681253,-100.371755,25.681253",
     "geom:latitude":25.681253,
     "geom:longitude":-100.371755,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.376755,25.676253,-100.366755,25.686253",
     "lbl:latitude":25.681253,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884009,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242595,
     "wof:name":"Rincon de Las Colinas",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

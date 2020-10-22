@@ -9,7 +9,6 @@
     "geom:bbox":"-101.000374,22.132031,-101.000374,22.132031",
     "geom:latitude":22.132031,
     "geom:longitude":-101.000374,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.005374,22.127031,-100.995374,22.137031",
     "lbl:latitude":22.132031,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883601,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Prados de San Luis",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

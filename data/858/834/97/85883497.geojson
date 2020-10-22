@@ -9,7 +9,6 @@
     "geom:bbox":"-92.927726,17.983834,-92.927726,17.983834",
     "geom:latitude":17.983834,
     "geom:longitude":-92.927726,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.932726,17.978834,-92.922726,17.988834",
     "lbl:latitude":17.983834,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85883497,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Tulipanes",
     "wof:parent_id":101994837,
     "wof:placetype":"neighbourhood",

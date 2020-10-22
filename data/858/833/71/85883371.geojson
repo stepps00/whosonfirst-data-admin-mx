@@ -9,7 +9,6 @@
     "geom:bbox":"-86.959404,20.503984,-86.959404,20.503984",
     "geom:latitude":20.503984,
     "geom:longitude":-86.959404,
-    "gn:id":"",
     "gn:population":96,
     "iso:country":"MX",
     "lbl:bbox":"-86.964404,20.498984,-86.954404,20.508984",
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883371,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Andres Quintana Roo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

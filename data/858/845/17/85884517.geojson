@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1310119629,19.4237780487,-99.1118618846,19.4481904106",
     "geom:latitude":19.435642,
     "geom:longitude":-99.121727,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.431952,
     "lbl:longitude":-99.118112,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884517,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619557,
+    "wof:lastmodified":1603242571,
     "wof:name":"Unidad Candelaria Los Patos",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",

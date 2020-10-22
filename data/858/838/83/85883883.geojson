@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1955566406,19.4173828133,-99.1813372194,19.4303341116",
     "geom:latitude":19.423297,
     "geom:longitude":-99.188801,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.424917,
     "lbl:longitude":-99.187175,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883883,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619677,
+    "wof:lastmodified":1603242598,
     "wof:name":"1ra Secc Del Bosque de Chapultepec",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

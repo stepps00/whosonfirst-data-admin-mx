@@ -9,7 +9,6 @@
     "geom:bbox":"-115.471819,32.660503,-115.471819,32.660503",
     "geom:latitude":32.660503,
     "geom:longitude":-115.471819,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.476819,32.655503,-115.466819,32.665503",
     "lbl:latitude":32.660503,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85883465,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Segunda Secc",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

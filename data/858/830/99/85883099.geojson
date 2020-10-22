@@ -9,7 +9,6 @@
     "geom:bbox":"-103.417053,25.594471,-103.417053,25.594471",
     "geom:latitude":25.594471,
     "geom:longitude":-103.417053,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.422053,25.589471,-103.412053,25.599471",
     "lbl:latitude":25.594471,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883099,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Fracc Frondoso",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

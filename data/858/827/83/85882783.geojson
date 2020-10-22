@@ -9,7 +9,6 @@
     "geom:bbox":"-96.142838,19.18568,-96.142838,19.18568",
     "geom:latitude":19.18568,
     "geom:longitude":-96.142838,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.147838,19.18068,-96.137838,19.19068",
     "lbl:latitude":19.18568,
@@ -102,10 +101,7 @@
         }
     ],
     "wof:id":85882783,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Pino Suarez",
     "wof:parent_id":101998843,
     "wof:placetype":"neighbourhood",

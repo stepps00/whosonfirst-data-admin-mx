@@ -9,7 +9,6 @@
     "geom:bbox":"-101.670937,21.119282,-101.670937,21.119282",
     "geom:latitude":21.119282,
     "geom:longitude":-101.670937,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.675937,21.114282,-101.665937,21.124282",
     "lbl:latitude":21.119282,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883433,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Luz Maria Diaz Infante",
     "wof:parent_id":101996837,
     "wof:placetype":"neighbourhood",

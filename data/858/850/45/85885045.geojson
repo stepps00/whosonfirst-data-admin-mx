@@ -9,7 +9,6 @@
     "geom:bbox":"-110.945438,31.331486,-110.945438,31.331486",
     "geom:latitude":31.331486,
     "geom:longitude":-110.945438,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.950438,31.326486,-110.940438,31.336486",
     "lbl:latitude":31.331486,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885045,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Fundo Legal",
     "wof:parent_id":101993821,
     "wof:placetype":"neighbourhood",

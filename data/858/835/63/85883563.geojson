@@ -9,7 +9,6 @@
     "geom:bbox":"-117.034457,32.53779,-117.034457,32.53779",
     "geom:latitude":32.53779,
     "geom:longitude":-117.034457,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.039457,32.53279,-117.029457,32.54279",
     "lbl:latitude":32.53779,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883563,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242581,
     "wof:name":"Empleados Federales",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

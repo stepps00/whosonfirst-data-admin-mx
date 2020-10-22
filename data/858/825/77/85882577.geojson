@@ -9,7 +9,6 @@
     "geom:bbox":"-100.736389,20.917831,-100.736389,20.917831",
     "geom:latitude":20.917831,
     "geom:longitude":-100.736389,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.741389,20.912831,-100.731389,20.922831",
     "lbl:latitude":20.917831,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85882577,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242596,
     "wof:name":"Barrio de San Jose",
     "wof:parent_id":101993059,
     "wof:placetype":"neighbourhood",

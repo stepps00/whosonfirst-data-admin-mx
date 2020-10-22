@@ -9,7 +9,6 @@
     "geom:bbox":"-98.309748,19.022136,-98.309748,19.022136",
     "geom:latitude":19.022136,
     "geom:longitude":-98.309748,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.314748,19.017136,-98.304748,19.027136",
     "lbl:latitude":19.022136,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85884905,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242591,
     "wof:name":"Barrio la Purisima",
     "wof:parent_id":101999685,
     "wof:placetype":"neighbourhood",

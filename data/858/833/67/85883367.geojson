@@ -9,7 +9,6 @@
     "geom:bbox":"-98.205909,19.027876,-98.205909,19.027876",
     "geom:latitude":19.027876,
     "geom:longitude":-98.205909,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.210909,19.022876,-98.200909,19.032876",
     "lbl:latitude":19.027876,
@@ -69,10 +68,7 @@
         }
     ],
     "wof:id":85883367,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"El Carmen Huexotitla",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

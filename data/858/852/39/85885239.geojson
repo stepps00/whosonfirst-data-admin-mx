@@ -9,7 +9,6 @@
     "geom:bbox":"-92.508443,16.817688,-92.508443,16.817688",
     "geom:latitude":16.817688,
     "geom:longitude":-92.508443,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.513443,16.812688,-92.503443,16.822688",
     "lbl:latitude":16.817688,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885239,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242606,
     "wof:name":"Barrio Carmen Esperanza",
     "wof:parent_id":101994479,
     "wof:placetype":"neighbourhood",

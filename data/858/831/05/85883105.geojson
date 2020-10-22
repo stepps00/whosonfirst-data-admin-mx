@@ -9,7 +9,6 @@
     "geom:bbox":"-106.138306,28.671312,-106.138306,28.671312",
     "geom:latitude":28.671312,
     "geom:longitude":-106.138306,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.143306,28.666312,-106.133306,28.676312",
     "lbl:latitude":28.671312,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883105,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242598,
     "wof:name":"Parque Industrial",
     "wof:parent_id":101994137,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-103.425293,20.662341,-103.425293,20.662341",
     "geom:latitude":20.662341,
     "geom:longitude":-103.425293,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.430293,20.657341,-103.420293,20.667341",
     "lbl:latitude":20.662341,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884897,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Fracc Jardines de Guadalupe",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-98.198654,19.048296,-98.198654,19.048296",
     "geom:latitude":19.048296,
     "geom:longitude":-98.198654,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.203654,19.043296,-98.193654,19.053296",
     "lbl:latitude":19.048296,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884947,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242592,
     "wof:name":"Barrio Santa Monica",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

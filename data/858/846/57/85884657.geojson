@@ -9,7 +9,6 @@
     "geom:bbox":"-105.230183,20.628434,-105.230183,20.628434",
     "geom:latitude":20.628434,
     "geom:longitude":-105.230183,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.235183,20.623434,-105.225183,20.633434",
     "lbl:latitude":20.628434,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85884657,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Olimpica",
     "wof:parent_id":101997965,
     "wof:placetype":"neighbourhood",

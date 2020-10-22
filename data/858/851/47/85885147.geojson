@@ -9,7 +9,6 @@
     "geom:bbox":"-96.499258,15.663135,-96.499258,15.663135",
     "geom:latitude":15.663135,
     "geom:longitude":-96.499258,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.504258,15.658135,-96.494258,15.668135",
     "lbl:latitude":15.663135,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885147,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242583,
     "wof:name":"Barrio Centro",
     "wof:parent_id":101995733,
     "wof:placetype":"neighbourhood",

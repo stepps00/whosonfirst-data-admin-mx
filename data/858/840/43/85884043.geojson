@@ -9,7 +9,6 @@
     "geom:bbox":"-100.296936,25.61924,-100.296936,25.61924",
     "geom:latitude":25.61924,
     "geom:longitude":-100.296936,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.301936,25.61424,-100.291936,25.62424",
     "lbl:latitude":25.61924,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884043,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Lomas Del Paseo",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

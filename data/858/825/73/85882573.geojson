@@ -9,7 +9,6 @@
     "geom:bbox":"-101.699307,21.156395,-101.699307,21.156395",
     "geom:latitude":21.156395,
     "geom:longitude":-101.699307,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.704307,21.151395,-101.694307,21.161395",
     "lbl:latitude":21.156395,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882573,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Valle Del Campestre",
     "wof:parent_id":101996837,
     "wof:placetype":"neighbourhood",

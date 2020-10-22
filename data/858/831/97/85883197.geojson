@@ -9,7 +9,6 @@
     "geom:bbox":"-103.69861,19.247896,-103.69861,19.247896",
     "geom:latitude":19.247896,
     "geom:longitude":-103.69861,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.70361,19.242896,-103.69361,19.252896",
     "lbl:latitude":19.247896,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883197,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Pablo Silva Garcia",
     "wof:parent_id":101996911,
     "wof:placetype":"neighbourhood",

@@ -129,8 +129,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        102073759,
-        85686515
+        85686515,
+        102073759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -156,10 +156,7 @@
         }
     ],
     "wof:id":101991181,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1587428929,
+    "wof:lastmodified":1603242951,
     "wof:name":"Iztapalapa",
     "wof:parent_id":102073759,
     "wof:placetype":"locality",

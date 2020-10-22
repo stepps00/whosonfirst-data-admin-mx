@@ -9,7 +9,6 @@
     "geom:bbox":"-100.964747,22.155793,-100.964747,22.155793",
     "geom:latitude":22.155793,
     "geom:longitude":-100.964747,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.969747,22.150793,-100.959747,22.160793",
     "lbl:latitude":22.155793,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883365,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242584,
     "wof:name":"Fracc Librado Rivera",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

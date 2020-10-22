@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2247827148,19.2778132198,-99.2010498047,19.3007748259",
     "geom:latitude":19.289239,
     "geom:longitude":-99.213136,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.294825,
     "lbl:longitude":-99.209558,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884485,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619590,
+    "wof:lastmodified":1603242578,
     "wof:name":"Bosque de Tlalpan",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-104.078293,20.770239,-104.078293,20.770239",
     "geom:latitude":20.770239,
     "geom:longitude":-104.078293,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.083293,20.765239,-104.073293,20.775239",
     "lbl:latitude":20.770239,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85884603,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Fracc Revoluci\u00f3n",
     "wof:parent_id":101997941,
     "wof:placetype":"neighbourhood",

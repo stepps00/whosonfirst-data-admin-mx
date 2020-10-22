@@ -9,7 +9,6 @@
     "geom:bbox":"-99.947328,20.748972,-99.947328,20.748972",
     "geom:latitude":20.748972,
     "geom:longitude":-99.947328,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.952328,20.743972,-99.942328,20.753972",
     "lbl:latitude":20.748972,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85884845,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Barrio El Puerto",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

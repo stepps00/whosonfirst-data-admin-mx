@@ -9,7 +9,6 @@
     "geom:bbox":"-103.478867,20.798697,-103.478867,20.798697",
     "geom:latitude":20.798697,
     "geom:longitude":-103.478867,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.483867,20.793697,-103.473867,20.803697",
     "lbl:latitude":20.798697,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884949,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242592,
     "wof:name":"Fracc Villas de Tesistan",
     "wof:parent_id":101997653,
     "wof:placetype":"neighbourhood",

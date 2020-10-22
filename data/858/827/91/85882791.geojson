@@ -9,7 +9,6 @@
     "geom:bbox":"-98.175922,19.052124,-98.175922,19.052124",
     "geom:latitude":19.052124,
     "geom:longitude":-98.175922,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.180922,19.047124,-98.170922,19.057124",
     "lbl:latitude":19.052124,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882791,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242568,
     "wof:name":"Luz Del Alba",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

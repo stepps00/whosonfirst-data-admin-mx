@@ -9,7 +9,6 @@
     "geom:bbox":"-99.143371582,19.4484641778,-99.1344832639,19.4572885321",
     "geom:latitude":19.45293,
     "geom:longitude":-99.13881,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.451725,
     "lbl:longitude":-99.138121,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884061,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619660,
+    "wof:lastmodified":1603242594,
     "wof:name":"Unidad Hab Nonoalco Tlatelolco",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

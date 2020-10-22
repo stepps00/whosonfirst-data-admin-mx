@@ -9,7 +9,6 @@
     "geom:bbox":"-99.241262207,19.3113547717,-99.2162311855,19.3347890958",
     "geom:latitude":19.322711,
     "geom:longitude":-99.228458,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.321559,
     "lbl:longitude":-99.222584,
@@ -101,10 +100,7 @@
         }
     ],
     "wof:id":85884349,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619585,
+    "wof:lastmodified":1603242577,
     "wof:name":"San Jeronimo Aculco",
     "wof:parent_id":890535777,
     "wof:placetype":"neighbourhood",

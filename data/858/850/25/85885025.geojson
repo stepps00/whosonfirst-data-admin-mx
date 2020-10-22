@@ -9,7 +9,6 @@
     "geom:bbox":"-96.781311,18.913216,-96.781311,18.913216",
     "geom:latitude":18.913216,
     "geom:longitude":-96.781311,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.786311,18.908216,-96.776311,18.918216",
     "lbl:latitude":18.913216,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885025,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242580,
     "wof:name":"Atoyac Centro",
     "wof:parent_id":101998173,
     "wof:placetype":"neighbourhood",

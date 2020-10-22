@@ -9,7 +9,6 @@
     "geom:bbox":"-115.446823,32.629059,-115.446823,32.629059",
     "geom:latitude":32.629059,
     "geom:longitude":-115.446823,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.451823,32.624059,-115.441823,32.634059",
     "lbl:latitude":32.629059,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85882841,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242574,
     "wof:name":"Fracc Calafia",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

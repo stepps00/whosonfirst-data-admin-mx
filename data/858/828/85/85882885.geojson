@@ -9,7 +9,6 @@
     "geom:bbox":"-96.916809,19.512335,-96.916809,19.512335",
     "geom:latitude":19.512335,
     "geom:longitude":-96.916809,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.921809,19.507335,-96.911809,19.517335",
     "lbl:latitude":19.512335,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85882885,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242574,
     "wof:name":"Lomas Del Estadio",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

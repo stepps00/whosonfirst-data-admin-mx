@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1976690625,19.3723089753,-99.1816993069,19.3837046341",
     "geom:latitude":19.378719,
     "geom:longitude":-99.189501,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.378015,
     "lbl:longitude":-99.186604,
@@ -99,10 +98,7 @@
         }
     ],
     "wof:id":85883897,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619676,
+    "wof:lastmodified":1603242598,
     "wof:name":"Nonoalco",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

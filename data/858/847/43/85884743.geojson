@@ -9,7 +9,6 @@
     "geom:bbox":"-102.550129,20.275198,-102.550129,20.275198",
     "geom:latitude":20.275198,
     "geom:longitude":-102.550129,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.555129,20.270198,-102.545129,20.280198",
     "lbl:latitude":20.275198,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85884743,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Huerta de Las Flores",
     "wof:parent_id":101997557,
     "wof:placetype":"neighbourhood",

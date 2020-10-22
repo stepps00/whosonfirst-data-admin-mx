@@ -9,7 +9,6 @@
     "geom:bbox":"-103.299255,20.665397,-103.299255,20.665397",
     "geom:latitude":20.665397,
     "geom:longitude":-103.299255,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.304255,20.660397,-103.294255,20.670397",
     "lbl:latitude":20.665397,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884995,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242591,
     "wof:name":"Fracc San Andres",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

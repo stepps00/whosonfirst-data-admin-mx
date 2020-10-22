@@ -195,8 +195,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        102074353,
-        85686549
+        85686549,
+        102074353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -222,10 +222,7 @@
         }
     ],
     "wof:id":101993829,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1587163111,
+    "wof:lastmodified":1603243020,
     "wof:name":"Puerto Pe\u00f1asco",
     "wof:parent_id":102074353,
     "wof:placetype":"locality",

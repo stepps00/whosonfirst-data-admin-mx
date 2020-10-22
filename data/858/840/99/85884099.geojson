@@ -9,7 +9,6 @@
     "geom:bbox":"-93.111877,16.775616,-93.111877,16.775616",
     "geom:latitude":16.775616,
     "geom:longitude":-93.111877,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-93.116877,16.770616,-93.106877,16.780616",
     "lbl:latitude":16.775616,
@@ -73,10 +72,7 @@
         }
     ],
     "wof:id":85884099,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242595,
     "wof:name":"Fracc Pedregal San Antonio",
     "wof:parent_id":101994357,
     "wof:placetype":"neighbourhood",

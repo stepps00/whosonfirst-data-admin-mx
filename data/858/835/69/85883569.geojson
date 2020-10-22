@@ -9,7 +9,6 @@
     "geom:bbox":"-99.756527,16.742031,-99.756527,16.742031",
     "geom:latitude":16.742031,
     "geom:longitude":-99.756527,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.761527,16.737031,-99.751527,16.747031",
     "lbl:latitude":16.742031,
@@ -78,10 +77,7 @@
         }
     ],
     "wof:id":85883569,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Alfredo V Bonfil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

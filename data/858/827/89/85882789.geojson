@@ -9,7 +9,6 @@
     "geom:bbox":"-97.800102,22.285471,-97.800102,22.285471",
     "geom:latitude":22.285471,
     "geom:longitude":-97.800102,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.805102,22.280471,-97.795102,22.290471",
     "lbl:latitude":22.285471,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882789,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Res Pemex",
     "wof:parent_id":102001085,
     "wof:placetype":"neighbourhood",

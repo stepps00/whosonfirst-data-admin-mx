@@ -9,7 +9,6 @@
     "geom:bbox":"-106.465267,23.264026,-106.465267,23.264026",
     "geom:latitude":23.264026,
     "geom:longitude":-106.465267,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.470267,23.259026,-106.460267,23.269026",
     "lbl:latitude":23.264026,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884117,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Sabalo Country Club",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

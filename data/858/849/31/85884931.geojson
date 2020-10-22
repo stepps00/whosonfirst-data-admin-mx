@@ -9,7 +9,6 @@
     "geom:bbox":"-103.410776,20.711464,-103.410776,20.711464",
     "geom:latitude":20.711464,
     "geom:longitude":-103.410776,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.415776,20.706464,-103.405776,20.716464",
     "lbl:latitude":20.711464,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884931,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Lomas Del Bosque",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

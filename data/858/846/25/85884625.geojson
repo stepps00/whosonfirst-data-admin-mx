@@ -9,7 +9,6 @@
     "geom:bbox":"-105.244967,20.657332,-105.244967,20.657332",
     "geom:latitude":20.657332,
     "geom:longitude":-105.244967,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.249967,20.652332,-105.239967,20.662332",
     "lbl:latitude":20.657332,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884625,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Cond Isla Iguana",
     "wof:parent_id":101997965,
     "wof:placetype":"neighbourhood",

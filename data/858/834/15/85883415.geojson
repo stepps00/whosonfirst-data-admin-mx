@@ -9,7 +9,6 @@
     "geom:bbox":"-89.624933,20.974258,-89.624933,20.974258",
     "geom:latitude":20.974258,
     "geom:longitude":-89.624933,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.629933,20.969258,-89.619933,20.979258",
     "lbl:latitude":20.974258,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883415,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Inalambrica",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

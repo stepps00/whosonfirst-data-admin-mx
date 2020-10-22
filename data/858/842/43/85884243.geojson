@@ -9,7 +9,6 @@
     "geom:bbox":"-101.345654,20.673365,-101.345654,20.673365",
     "geom:latitude":20.673365,
     "geom:longitude":-101.345654,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.350654,20.668365,-101.340654,20.678365",
     "lbl:latitude":20.673365,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884243,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Irapuato Centro",
     "wof:parent_id":101996617,
     "wof:placetype":"neighbourhood",

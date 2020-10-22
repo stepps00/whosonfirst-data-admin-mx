@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1914367676,19.3292866926,-99.1873168945,19.3370618011",
     "geom:latitude":19.333174,
     "geom:longitude":-99.189061,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.33249,
     "lbl:longitude":-99.188499,
@@ -101,10 +100,7 @@
         }
     ],
     "wof:id":85884331,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242576,
     "wof:name":"Conjunto Res Insurgentes San Angel",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

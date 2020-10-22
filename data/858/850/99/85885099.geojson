@@ -9,7 +9,6 @@
     "geom:bbox":"-96.475502,16.958555,-96.475502,16.958555",
     "geom:latitude":16.958555,
     "geom:longitude":-96.475502,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.480502,16.953555,-96.470502,16.963555",
     "lbl:latitude":16.958555,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885099,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"El Tepeyac",
     "wof:parent_id":101996185,
     "wof:placetype":"neighbourhood",

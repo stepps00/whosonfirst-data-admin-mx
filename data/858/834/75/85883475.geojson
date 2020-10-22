@@ -9,7 +9,6 @@
     "geom:bbox":"-99.172037,19.552025,-99.172037,19.552025",
     "geom:latitude":19.552025,
     "geom:longitude":-99.172037,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.177037,19.547025,-99.167037,19.557025",
     "lbl:latitude":19.552025,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883475,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242585,
     "wof:name":"Hugo Cervantes Del Rio",
     "wof:parent_id":101991513,
     "wof:placetype":"neighbourhood",

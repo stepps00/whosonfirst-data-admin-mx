@@ -9,7 +9,6 @@
     "geom:bbox":"-110.951985,29.142968,-110.951985,29.142968",
     "geom:latitude":29.142968,
     "geom:longitude":-110.951985,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.956985,29.137968,-110.946985,29.147968",
     "lbl:latitude":29.142968,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883141,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Res Cumbres",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

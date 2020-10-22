@@ -9,7 +9,6 @@
     "geom:bbox":"-96.707702,16.956303,-96.707702,16.956303",
     "geom:latitude":16.956303,
     "geom:longitude":-96.707702,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.712702,16.951303,-96.702702,16.961303",
     "lbl:latitude":16.956303,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85885123,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242583,
     "wof:name":"Unidad Hab Zapoteca",
     "wof:parent_id":101995251,
     "wof:placetype":"neighbourhood",

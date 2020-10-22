@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2739606324,19.324470121,-99.2498532991,19.3474278221",
     "geom:latitude":19.335784,
     "geom:longitude":-99.262516,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.336692,
     "lbl:longitude":-99.259512,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883971,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619711,
+    "wof:lastmodified":1603242605,
     "wof:name":"Villa Verdum",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

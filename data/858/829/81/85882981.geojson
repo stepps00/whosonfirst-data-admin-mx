@@ -9,7 +9,6 @@
     "geom:bbox":"-92.271423,14.899668,-92.271423,14.899668",
     "geom:latitude":14.899668,
     "geom:longitude":-92.271423,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.276423,14.894668,-92.266423,14.904668",
     "lbl:latitude":14.899668,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882981,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242569,
     "wof:name":"Barrio San Sebastian",
     "wof:parent_id":101994355,
     "wof:placetype":"neighbourhood",

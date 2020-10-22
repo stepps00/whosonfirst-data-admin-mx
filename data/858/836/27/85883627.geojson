@@ -9,7 +9,6 @@
     "geom:bbox":"-116.626858,32.573201,-116.626858,32.573201",
     "geom:latitude":32.573201,
     "geom:longitude":-116.626858,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.631858,32.568201,-116.621858,32.578201",
     "lbl:latitude":32.573201,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883627,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Tecate Centro",
     "wof:parent_id":101993543,
     "wof:placetype":"neighbourhood",

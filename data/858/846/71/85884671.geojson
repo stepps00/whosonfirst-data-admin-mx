@@ -9,7 +9,6 @@
     "geom:bbox":"-100.331676,20.60548,-100.331676,20.60548",
     "geom:latitude":20.60548,
     "geom:longitude":-100.331676,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.336676,20.60048,-100.326676,20.61048",
     "lbl:latitude":20.60548,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85884671,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Barrio Jardin",
     "wof:parent_id":101996313,
     "wof:placetype":"neighbourhood",

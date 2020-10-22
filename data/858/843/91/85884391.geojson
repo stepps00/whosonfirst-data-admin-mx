@@ -9,7 +9,6 @@
     "geom:bbox":"-99.259597,19.509716,-99.259597,19.509716",
     "geom:latitude":19.509716,
     "geom:longitude":-99.259597,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.264597,19.504716,-99.254597,19.514716",
     "lbl:latitude":19.509716,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85884391,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242576,
     "wof:name":"Alte\u00f1a 3ra",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

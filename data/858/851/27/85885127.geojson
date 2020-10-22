@@ -9,7 +9,6 @@
     "geom:bbox":"-97.060009,15.857359,-97.060009,15.857359",
     "geom:latitude":15.857359,
     "geom:longitude":-97.060009,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.065009,15.852359,-97.055009,15.862359",
     "lbl:latitude":15.857359,
@@ -80,10 +79,7 @@
         }
     ],
     "wof:id":85885127,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242583,
     "wof:name":"Sect Reforma",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

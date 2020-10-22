@@ -9,7 +9,6 @@
     "geom:bbox":"-96.121355,15.761253,-96.121355,15.761253",
     "geom:latitude":15.761253,
     "geom:longitude":-96.121355,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.126355,15.756253,-96.116355,15.766253",
     "lbl:latitude":15.761253,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85885153,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242583,
     "wof:name":"Sect P Chahue",
     "wof:parent_id":101995865,
     "wof:placetype":"neighbourhood",

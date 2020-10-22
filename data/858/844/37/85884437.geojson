@@ -9,7 +9,6 @@
     "geom:bbox":"-103.425522,20.63,-103.425522,20.63",
     "geom:latitude":20.63,
     "geom:longitude":-103.425522,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.430522,20.625,-103.420522,20.635",
     "lbl:latitude":20.63,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85884437,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242578,
     "wof:name":"Res Arboledas",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1643579101,19.2333631765,-99.1388647461,19.251687186",
     "geom:latitude":19.243681,
     "geom:longitude":-99.149774,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.242044,
     "lbl:longitude":-99.149344,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883699,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619688,
+    "wof:lastmodified":1603242600,
     "wof:name":"Dolores Tlali",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

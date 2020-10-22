@@ -9,7 +9,6 @@
     "geom:bbox":"-110.330929,24.152745,-110.330929,24.152745",
     "geom:latitude":24.152745,
     "geom:longitude":-110.330929,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.335929,24.147745,-110.325929,24.157745",
     "lbl:latitude":24.152745,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85884089,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Barrio la Inalambrica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

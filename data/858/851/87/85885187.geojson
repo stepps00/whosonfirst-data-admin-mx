@@ -9,7 +9,6 @@
     "geom:bbox":"-99.649974,20.374956,-99.649974,20.374956",
     "geom:latitude":20.374956,
     "geom:longitude":-99.649974,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.654974,20.369956,-99.644974,20.379956",
     "lbl:latitude":20.374956,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85885187,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242583,
     "wof:name":"Centro Historico",
     "wof:parent_id":102000513,
     "wof:placetype":"neighbourhood",

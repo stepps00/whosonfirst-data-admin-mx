@@ -9,7 +9,6 @@
     "geom:bbox":"-99.90479,16.849071,-99.90479,16.849071",
     "geom:latitude":16.849071,
     "geom:longitude":-99.90479,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.90979,16.844071,-99.89979,16.854071",
     "lbl:latitude":16.849071,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883321,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Barrio Capire",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

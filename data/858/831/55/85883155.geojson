@@ -9,7 +9,6 @@
     "geom:bbox":"-115.491325,32.663548,-115.491325,32.663548",
     "geom:latitude":32.663548,
     "geom:longitude":-115.491325,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.496325,32.658548,-115.486325,32.668548",
     "lbl:latitude":32.663548,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85883155,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Fracc Rio Nuevo",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

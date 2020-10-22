@@ -9,7 +9,6 @@
     "geom:bbox":"-103.406525,20.615218,-103.406525,20.615218",
     "geom:latitude":20.615218,
     "geom:longitude":-103.406525,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.411525,20.610218,-103.401525,20.620218",
     "lbl:latitude":20.615218,
@@ -79,10 +78,7 @@
         }
     ],
     "wof:id":85884887,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Colinas de Las Aguilas",
     "wof:parent_id":101997863,
     "wof:placetype":"neighbourhood",

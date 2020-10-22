@@ -9,7 +9,6 @@
     "geom:bbox":"-107.39482,24.789879,-107.39482,24.789879",
     "geom:latitude":24.789879,
     "geom:longitude":-107.39482,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-107.39982,24.784879,-107.38982,24.794879",
     "lbl:latitude":24.789879,
@@ -196,10 +195,7 @@
         }
     ],
     "wof:id":85884355,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242577,
     "wof:name":"Guadalupe",
     "wof:parent_id":101993731,
     "wof:placetype":"neighbourhood",

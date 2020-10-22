@@ -9,7 +9,6 @@
     "geom:bbox":"-97.281189,16.233135,-97.281189,16.233135",
     "geom:latitude":16.233135,
     "geom:longitude":-97.281189,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.286189,16.228135,-97.276189,16.238135",
     "lbl:latitude":16.233135,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85885149,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242583,
     "wof:name":"Barrio la Asuncion",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

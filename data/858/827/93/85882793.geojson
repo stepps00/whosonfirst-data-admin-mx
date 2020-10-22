@@ -9,7 +9,6 @@
     "geom:bbox":"-99.005781,19.59799,-99.005781,19.59799",
     "geom:latitude":19.59799,
     "geom:longitude":-99.005781,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.010781,19.59299,-99.000781,19.60299",
     "lbl:latitude":19.59799,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85882793,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Jardines de Morelos",
     "wof:parent_id":101992735,
     "wof:placetype":"neighbourhood",

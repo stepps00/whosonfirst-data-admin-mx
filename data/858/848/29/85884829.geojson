@@ -9,7 +9,6 @@
     "geom:bbox":"-89.658055,21.288358,-89.658055,21.288358",
     "geom:latitude":21.288358,
     "geom:longitude":-89.658055,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.663055,21.283358,-89.653055,21.293358",
     "lbl:latitude":21.288358,
@@ -114,10 +113,7 @@
         }
     ],
     "wof:id":85884829,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Ismael Garcia",
     "wof:parent_id":102001367,
     "wof:placetype":"neighbourhood",

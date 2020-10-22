@@ -9,7 +9,6 @@
     "geom:bbox":"-99.246753,19.483972,-99.246753,19.483972",
     "geom:latitude":19.483972,
     "geom:longitude":-99.246753,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.251753,19.478972,-99.241753,19.488972",
     "lbl:latitude":19.483972,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884397,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242577,
     "wof:name":"Bosques de Moctezuma",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

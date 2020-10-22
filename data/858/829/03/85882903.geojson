@@ -9,7 +9,6 @@
     "geom:bbox":"-116.979653,32.501674,-116.979653,32.501674",
     "geom:latitude":32.501674,
     "geom:longitude":-116.979653,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.984653,32.496674,-116.974653,32.506674",
     "lbl:latitude":32.501674,
@@ -113,10 +112,7 @@
         }
     ],
     "wof:id":85882903,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Alcala",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-100.121711,19.177187,-100.121711,19.177187",
     "geom:latitude":19.177187,
     "geom:longitude":-100.121711,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.126711,19.172187,-100.116711,19.182187",
     "lbl:latitude":19.177187,
@@ -109,10 +108,7 @@
         }
     ],
     "wof:id":85884767,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Monte Alto",
     "wof:parent_id":101991621,
     "wof:placetype":"neighbourhood",

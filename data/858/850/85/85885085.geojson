@@ -9,7 +9,6 @@
     "geom:bbox":"-96.36026,16.924014,-96.36026,16.924014",
     "geom:latitude":16.924014,
     "geom:longitude":-96.36026,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.36526,16.919014,-96.35526,16.929014",
     "lbl:latitude":16.924014,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885085,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Los Presidentes",
     "wof:parent_id":101995673,
     "wof:placetype":"neighbourhood",

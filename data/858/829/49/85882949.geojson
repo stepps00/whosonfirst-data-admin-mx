@@ -9,7 +9,6 @@
     "geom:bbox":"-99.901445,16.840568,-99.901445,16.840568",
     "geom:latitude":16.840568,
     "geom:longitude":-99.901445,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.906445,16.835568,-99.896445,16.845568",
     "lbl:latitude":16.840568,
@@ -109,10 +108,7 @@
         }
     ],
     "wof:id":85882949,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"La Candelaria",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

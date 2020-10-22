@@ -9,7 +9,6 @@
     "geom:bbox":"-100.370178,20.623358,-100.370178,20.623358",
     "geom:latitude":20.623358,
     "geom:longitude":-100.370178,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.375178,20.618358,-100.365178,20.628358",
     "lbl:latitude":20.623358,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85882477,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242591,
     "wof:name":"Ejido Puerta Del Cielo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

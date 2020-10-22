@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2065429688,19.4374165575,-99.1966056289,19.4500285509",
     "geom:latitude":19.443381,
     "geom:longitude":-99.20118,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.441388,
     "lbl:longitude":-99.202775,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883927,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619706,
+    "wof:lastmodified":1603242604,
     "wof:name":"Ampl Granada",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

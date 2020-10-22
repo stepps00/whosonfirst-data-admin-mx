@@ -9,7 +9,6 @@
     "geom:bbox":"-99.866022,16.856405,-99.866022,16.856405",
     "geom:latitude":16.856405,
     "geom:longitude":-99.866022,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.871022,16.851405,-99.861022,16.861405",
     "lbl:latitude":16.856405,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882697,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Fracc Farallon",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

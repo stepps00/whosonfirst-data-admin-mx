@@ -9,7 +9,6 @@
     "geom:bbox":"-98.734904,20.122337,-98.734904,20.122337",
     "geom:latitude":20.122337,
     "geom:longitude":-98.734904,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.739904,20.117337,-98.729904,20.127337",
     "lbl:latitude":20.122337,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883317,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Pachuca de Soto Centro",
     "wof:parent_id":102000455,
     "wof:placetype":"neighbourhood",

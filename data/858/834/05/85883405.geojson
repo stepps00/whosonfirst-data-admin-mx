@@ -9,7 +9,6 @@
     "geom:bbox":"-117.023621,32.465744,-117.023621,32.465744",
     "geom:latitude":32.465744,
     "geom:longitude":-117.023621,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.028621,32.460744,-117.018621,32.470744",
     "lbl:latitude":32.465744,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883405,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Valle Del sur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-101.005554,22.148573,-101.005554,22.148573",
     "geom:latitude":22.148573,
     "geom:longitude":-101.005554,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.010554,22.143573,-101.000554,22.153573",
     "lbl:latitude":22.148573,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883551,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Fundadores",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

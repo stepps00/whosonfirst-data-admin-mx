@@ -9,7 +9,6 @@
     "geom:bbox":"-110.947376,29.073926,-110.947376,29.073926",
     "geom:latitude":29.073926,
     "geom:longitude":-110.947376,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.952376,29.068926,-110.942376,29.078926",
     "lbl:latitude":29.073926,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883299,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242582,
     "wof:name":"Cerro la Campana",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

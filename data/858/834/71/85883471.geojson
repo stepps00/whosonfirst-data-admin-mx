@@ -9,7 +9,6 @@
     "geom:bbox":"-96.922028,19.546175,-96.922028,19.546175",
     "geom:latitude":19.546175,
     "geom:longitude":-96.922028,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.927028,19.541175,-96.917028,19.551175",
     "lbl:latitude":19.546175,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883471,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Burocratas O E Federales",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

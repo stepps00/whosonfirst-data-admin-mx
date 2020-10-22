@@ -9,7 +9,6 @@
     "geom:bbox":"-103.3826,20.675987,-103.3826,20.675987",
     "geom:latitude":20.675987,
     "geom:longitude":-103.3826,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.3876,20.670987,-103.3776,20.680987",
     "lbl:latitude":20.675987,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884523,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Arcos Vallarta",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

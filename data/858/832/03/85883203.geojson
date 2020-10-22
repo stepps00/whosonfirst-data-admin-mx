@@ -9,7 +9,6 @@
     "geom:bbox":"-102.581314,22.759032,-102.581314,22.759032",
     "geom:latitude":22.759032,
     "geom:longitude":-102.581314,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.586314,22.754032,-102.576314,22.764032",
     "lbl:latitude":22.759032,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883203,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Fracc Dif",
     "wof:parent_id":101994047,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1680908203,19.3629761265,-99.1625976562,19.3681585006",
     "geom:latitude":19.365999,
     "geom:longitude":-99.165802,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.365947,
     "lbl:longitude":-99.166301,
@@ -102,10 +101,7 @@
         }
     ],
     "wof:id":85883899,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619676,
+    "wof:lastmodified":1603242598,
     "wof:name":"Xoco",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-110.216217,30.008463,-110.216217,30.008463",
     "geom:latitude":30.008463,
     "geom:longitude":-110.216217,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.221217,30.003463,-110.211217,30.013463",
     "lbl:latitude":30.008463,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885037,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Banamichi Centro",
     "wof:parent_id":101993839,
     "wof:placetype":"neighbourhood",

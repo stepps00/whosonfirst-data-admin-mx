@@ -9,7 +9,6 @@
     "geom:bbox":"-94.912415,17.948687,-94.912415,17.948687",
     "geom:latitude":17.948687,
     "geom:longitude":-94.912415,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-94.917415,17.943687,-94.907415,17.953687",
     "lbl:latitude":17.948687,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884999,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Acayucan Centro",
     "wof:parent_id":101998113,
     "wof:placetype":"neighbourhood",

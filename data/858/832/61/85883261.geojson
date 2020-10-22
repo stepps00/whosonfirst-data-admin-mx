@@ -9,7 +9,6 @@
     "geom:bbox":"-116.924493,32.479435,-116.924493,32.479435",
     "geom:latitude":32.479435,
     "geom:longitude":-116.924493,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.929493,32.474435,-116.919493,32.484435",
     "lbl:latitude":32.479435,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883261,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Los Saucillos",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

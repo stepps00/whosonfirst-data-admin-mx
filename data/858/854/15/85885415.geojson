@@ -9,7 +9,6 @@
     "geom:bbox":"-88.305357,18.503326,-88.305357,18.503326",
     "geom:latitude":18.503326,
     "geom:longitude":-88.305357,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-88.310357,18.498326,-88.300357,18.508326",
     "lbl:latitude":18.503326,
@@ -196,10 +195,7 @@
         }
     ],
     "wof:id":85885415,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242601,
     "wof:name":"Chetumal",
     "wof:parent_id":102001489,
     "wof:placetype":"neighbourhood",

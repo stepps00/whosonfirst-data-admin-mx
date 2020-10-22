@@ -9,7 +9,6 @@
     "geom:bbox":"-100.422613,20.552824,-100.422613,20.552824",
     "geom:latitude":20.552824,
     "geom:longitude":-100.422613,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.427613,20.547824,-100.417613,20.557824",
     "lbl:latitude":20.552824,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85897727,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"El Pueblito Centro",
     "wof:parent_id":101996265,
     "wof:placetype":"neighbourhood",

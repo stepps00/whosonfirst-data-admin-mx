@@ -9,7 +9,6 @@
     "geom:bbox":"-98.774872,19.125798,-98.774872,19.125798",
     "geom:latitude":19.125798,
     "geom:longitude":-98.774872,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.779872,19.120798,-98.769872,19.130798",
     "lbl:latitude":19.125798,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884663,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242589,
     "wof:name":"Barrio San Juan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

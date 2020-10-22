@@ -9,7 +9,6 @@
     "geom:bbox":"-103.366585,20.71007,-103.366585,20.71007",
     "geom:latitude":20.71007,
     "geom:longitude":-103.366585,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.371585,20.70507,-103.361585,20.71507",
     "lbl:latitude":20.71007,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85884549,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Jardines Del Country",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

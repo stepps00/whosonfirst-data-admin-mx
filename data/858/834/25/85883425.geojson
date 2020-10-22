@@ -9,7 +9,6 @@
     "geom:bbox":"-99.19281,19.577906,-99.19281,19.577906",
     "geom:latitude":19.577906,
     "geom:longitude":-99.19281,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.19781,19.572906,-99.18781,19.582906",
     "lbl:latitude":19.577906,
@@ -113,10 +112,7 @@
         }
     ],
     "wof:id":85883425,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"San Pedro Barrientos",
     "wof:parent_id":101991513,
     "wof:placetype":"neighbourhood",

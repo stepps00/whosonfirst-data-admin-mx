@@ -9,7 +9,6 @@
     "geom:bbox":"-101.296967,17.551344,-101.296967,17.551344",
     "geom:latitude":17.551344,
     "geom:longitude":-101.296967,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.301967,17.546344,-101.291967,17.556344",
     "lbl:latitude":17.551344,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883309,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242584,
     "wof:name":"Unidad Magisterial Petatlan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

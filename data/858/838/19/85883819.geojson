@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1739894327,19.407021038,-99.1625976562,19.4186779943",
     "geom:latitude":19.412909,
     "geom:longitude":-99.168642,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.41341,
     "lbl:longitude":-99.169191,
@@ -96,10 +95,7 @@
         }
     ],
     "wof:id":85883819,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619674,
+    "wof:lastmodified":1603242597,
     "wof:name":"Hipodromo",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

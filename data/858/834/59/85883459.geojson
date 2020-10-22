@@ -9,7 +9,6 @@
     "geom:bbox":"-116.923805,32.225082,-116.923805,32.225082",
     "geom:latitude":32.225082,
     "geom:longitude":-116.923805,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.928805,32.220082,-116.918805,32.230082",
     "lbl:latitude":32.225082,
@@ -77,10 +76,7 @@
         }
     ],
     "wof:id":85883459,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Campo Reynoso",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

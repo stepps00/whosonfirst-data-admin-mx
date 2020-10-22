@@ -9,7 +9,6 @@
     "geom:bbox":"-104.04364,20.547252,-104.04364,20.547252",
     "geom:latitude":20.547252,
     "geom:longitude":-104.04364,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.04864,20.542252,-104.03864,20.552252",
     "lbl:latitude":20.547252,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884601,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Ameca Centro",
     "wof:parent_id":101997879,
     "wof:placetype":"neighbourhood",

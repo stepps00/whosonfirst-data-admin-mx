@@ -9,7 +9,6 @@
     "geom:bbox":"-99.0856933594,19.4458742569,-99.0798758984,19.4543315474",
     "geom:latitude":19.449576,
     "geom:longitude":-99.083181,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.448463,
     "lbl:longitude":-99.082947,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884491,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619588,
+    "wof:lastmodified":1603242578,
     "wof:name":"U H San Juan de Aragon 2a Secc",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",

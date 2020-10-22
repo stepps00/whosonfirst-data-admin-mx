@@ -9,7 +9,6 @@
     "geom:bbox":"-100.262263,25.606395,-100.262263,25.606395",
     "geom:latitude":25.606395,
     "geom:longitude":-100.262263,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.267263,25.601395,-100.257263,25.611395",
     "lbl:latitude":25.606395,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883893,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242597,
     "wof:name":"Villas de la Hacienda",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1735839844,19.3318783997,-99.1680908203,19.3370618011",
     "geom:latitude":19.33447,
     "geom:longitude":-99.170837,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.334471,
     "lbl:longitude":-99.170837,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85884333,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242576,
     "wof:name":"Fracc Copilco Universidad",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

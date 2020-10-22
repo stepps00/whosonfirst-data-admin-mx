@@ -9,7 +9,6 @@
     "geom:bbox":"-98.868713,19.660694,-98.868713,19.660694",
     "geom:latitude":19.660694,
     "geom:longitude":-98.868713,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.873713,19.655694,-98.863713,19.665694",
     "lbl:latitude":19.660694,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883009,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Del Valle",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

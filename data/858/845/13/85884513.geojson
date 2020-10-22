@@ -9,7 +9,6 @@
     "geom:bbox":"-99.0719604492,19.3680302361,-99.0390014649,19.4149209573",
     "geom:latitude":19.392455,
     "geom:longitude":-99.056136,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.392578,
     "lbl:longitude":-99.058983,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85884513,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619561,
+    "wof:lastmodified":1603242572,
     "wof:name":"Sur 12 C Fovissste",
     "wof:parent_id":890535765,
     "wof:placetype":"neighbourhood",

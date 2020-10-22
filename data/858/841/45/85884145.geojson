@@ -9,7 +9,6 @@
     "geom:bbox":"-116.664609,31.864417,-116.664609,31.864417",
     "geom:latitude":31.864417,
     "geom:longitude":-116.664609,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.669609,31.859417,-116.659609,31.869417",
     "lbl:latitude":31.864417,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85884145,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Univ Autonoma de Baja California",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

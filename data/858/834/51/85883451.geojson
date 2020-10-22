@@ -9,7 +9,6 @@
     "geom:bbox":"-98.139494,19.417145,-98.139494,19.417145",
     "geom:latitude":19.417145,
     "geom:longitude":-98.139494,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.144494,19.412145,-98.134494,19.422145",
     "lbl:latitude":19.417145,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883451,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Apizaco Centro",
     "wof:parent_id":101999197,
     "wof:placetype":"neighbourhood",

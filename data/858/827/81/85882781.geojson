@@ -9,7 +9,6 @@
     "geom:bbox":"-96.895901,19.520483,-96.895901,19.520483",
     "geom:latitude":19.520483,
     "geom:longitude":-96.895901,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.900901,19.515483,-96.890901,19.525483",
     "lbl:latitude":19.520483,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882781,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242568,
     "wof:name":"La Herradura",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.961853,20.383251,-99.961853,20.383251",
     "geom:latitude":20.383251,
     "geom:longitude":-99.961853,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.966853,20.378251,-99.956853,20.388251",
     "lbl:latitude":20.383251,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884865,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242590,
     "wof:name":"Fracc Loma de San Juan Secc Camp",
     "wof:parent_id":101996407,
     "wof:placetype":"neighbourhood",

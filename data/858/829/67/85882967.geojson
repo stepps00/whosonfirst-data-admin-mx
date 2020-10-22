@@ -9,7 +9,6 @@
     "geom:bbox":"-94.452057,18.148091,-94.452057,18.148091",
     "geom:latitude":18.148091,
     "geom:longitude":-94.452057,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-94.457057,18.143091,-94.447057,18.153091",
     "lbl:latitude":18.148091,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882967,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Playa de Oro",
     "wof:parent_id":101998237,
     "wof:placetype":"neighbourhood",

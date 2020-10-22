@@ -9,7 +9,6 @@
     "geom:bbox":"-88.294722,18.497769,-88.294722,18.497769",
     "geom:latitude":18.497769,
     "geom:longitude":-88.294722,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-88.299722,18.492769,-88.289722,18.502769",
     "lbl:latitude":18.497769,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883081,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Plutarco Elias Calles",
     "wof:parent_id":102001489,
     "wof:placetype":"neighbourhood",

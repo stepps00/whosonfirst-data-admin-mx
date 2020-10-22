@@ -9,7 +9,6 @@
     "geom:bbox":"-106.454424,23.268782,-106.454424,23.268782",
     "geom:latitude":23.268782,
     "geom:longitude":-106.454424,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.459424,23.263782,-106.449424,23.273782",
     "lbl:latitude":23.268782,
@@ -268,10 +267,7 @@
         }
     ],
     "wof:id":85884107,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"El Cid",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

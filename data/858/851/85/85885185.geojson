@@ -9,7 +9,6 @@
     "geom:bbox":"-92.691916,16.77918,-92.691916,16.77918",
     "geom:latitude":16.77918,
     "geom:longitude":-92.691916,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.696916,16.77418,-92.686916,16.78418",
     "lbl:latitude":16.77918,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85885185,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242583,
     "wof:name":"Barrio Calvario San Juan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

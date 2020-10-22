@@ -9,7 +9,6 @@
     "geom:bbox":"-97.925555,19.315774,-97.925555,19.315774",
     "geom:latitude":19.315774,
     "geom:longitude":-97.925555,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.930555,19.310774,-97.920555,19.320774",
     "lbl:latitude":19.315774,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885247,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147393,
+    "wof:lastmodified":1603242606,
     "wof:name":"Huamantla Centro",
     "wof:parent_id":101999157,
     "wof:placetype":"neighbourhood",

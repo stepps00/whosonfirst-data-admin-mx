@@ -9,7 +9,6 @@
     "geom:bbox":"-97.054871,15.859372,-97.054871,15.859372",
     "geom:latitude":15.859372,
     "geom:longitude":-97.054871,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.059871,15.854372,-97.049871,15.864372",
     "lbl:latitude":15.859372,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85885133,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242582,
     "wof:name":"Playa Zicatela",
     "wof:parent_id":101996233,
     "wof:placetype":"neighbourhood",

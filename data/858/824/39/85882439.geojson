@@ -9,7 +9,6 @@
     "geom:bbox":"-97.803278,22.258928,-97.803278,22.258928",
     "geom:latitude":22.258928,
     "geom:longitude":-97.803278,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.808278,22.253928,-97.798278,22.263928",
     "lbl:latitude":22.258928,
@@ -75,10 +74,7 @@
         }
     ],
     "wof:id":85882439,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242591,
     "wof:name":"Hermenegildo Galeana",
     "wof:parent_id":102001085,
     "wof:placetype":"neighbourhood",

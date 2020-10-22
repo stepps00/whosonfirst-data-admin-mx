@@ -9,7 +9,6 @@
     "geom:bbox":"-103.681274,19.235904,-103.681274,19.235904",
     "geom:latitude":19.235904,
     "geom:longitude":-103.681274,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.686274,19.230904,-103.676274,19.240904",
     "lbl:latitude":19.235904,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882933,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Francisco I Madero",
     "wof:parent_id":101996911,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.282843,19.408514,-99.282843,19.408514",
     "geom:latitude":19.408514,
     "geom:longitude":-99.282843,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.287843,19.403514,-99.277843,19.413514",
     "lbl:latitude":19.408514,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85884385,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242577,
     "wof:name":"Lomas Country Club",
     "wof:parent_id":101992673,
     "wof:placetype":"neighbourhood",

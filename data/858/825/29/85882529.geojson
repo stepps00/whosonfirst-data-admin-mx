@@ -9,7 +9,6 @@
     "geom:bbox":"-89.627238,21.030806,-89.627238,21.030806",
     "geom:latitude":21.030806,
     "geom:longitude":-89.627238,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.632238,21.025806,-89.622238,21.035806",
     "lbl:latitude":21.030806,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882529,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Fracc Montejo Norte",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

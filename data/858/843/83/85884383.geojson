@@ -9,7 +9,6 @@
     "geom:bbox":"-99.262549,19.403135,-99.262549,19.403135",
     "geom:latitude":19.403135,
     "geom:longitude":-99.262549,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.267549,19.398135,-99.257549,19.408135",
     "lbl:latitude":19.403135,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85884383,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242577,
     "wof:name":"Lomas Anahuac",
     "wof:parent_id":101992673,
     "wof:placetype":"neighbourhood",

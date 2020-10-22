@@ -9,7 +9,6 @@
     "geom:bbox":"-101.24573,21.002923,-101.24573,21.002923",
     "geom:latitude":21.002923,
     "geom:longitude":-101.24573,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.25073,20.997923,-101.24073,21.007923",
     "lbl:latitude":21.002923,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85884271,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242573,
     "wof:name":"Bufa",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

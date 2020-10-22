@@ -9,7 +9,6 @@
     "geom:bbox":"-96.927292,19.530024,-96.927292,19.530024",
     "geom:latitude":19.530024,
     "geom:longitude":-96.927292,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.932292,19.525024,-96.922292,19.535024",
     "lbl:latitude":19.530024,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85882965,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Jardines de Bambu",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

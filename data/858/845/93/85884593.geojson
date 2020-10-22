@@ -9,7 +9,6 @@
     "geom:bbox":"-103.835603,20.883932,-103.835603,20.883932",
     "geom:latitude":20.883932,
     "geom:longitude":-103.835603,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.840603,20.878932,-103.830603,20.888932",
     "lbl:latitude":20.883932,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884593,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242570,
     "wof:name":"La Muralla",
     "wof:parent_id":101997951,
     "wof:placetype":"neighbourhood",

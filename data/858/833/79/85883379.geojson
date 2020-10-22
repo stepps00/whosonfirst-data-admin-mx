@@ -9,7 +9,6 @@
     "geom:bbox":"-99.044842,19.474685,-99.044842,19.474685",
     "geom:latitude":19.474685,
     "geom:longitude":-99.044842,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.049842,19.469685,-99.039842,19.479685",
     "lbl:latitude":19.474685,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883379,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242584,
     "wof:name":"Impulsora",
     "wof:parent_id":101992489,
     "wof:placetype":"neighbourhood",

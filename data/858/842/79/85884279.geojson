@@ -9,7 +9,6 @@
     "geom:bbox":"-99.509453,27.481472,-99.509453,27.481472",
     "geom:latitude":27.481472,
     "geom:longitude":-99.509453,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.514453,27.476472,-99.504453,27.486472",
     "lbl:latitude":27.481472,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884279,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242573,
     "wof:name":"Ferrocarrilera Ii",
     "wof:parent_id":102000965,
     "wof:placetype":"neighbourhood",

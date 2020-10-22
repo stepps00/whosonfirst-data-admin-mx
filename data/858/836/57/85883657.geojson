@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1738272818,19.3907893201,-99.1616244821,19.3992492729",
     "geom:latitude":19.394566,
     "geom:longitude":-99.167913,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.394029,
     "lbl:longitude":-99.169917,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85883657,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619685,
+    "wof:lastmodified":1603242599,
     "wof:name":"Del Valle Norte",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

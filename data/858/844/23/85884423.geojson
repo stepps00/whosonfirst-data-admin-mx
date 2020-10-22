@@ -9,7 +9,6 @@
     "geom:bbox":"-98.977590332,19.2103964452,-98.9520971679,19.2368800462",
     "geom:latitude":19.22322,
     "geom:longitude":-98.964844,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.224381,
     "lbl:longitude":-98.963975,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85884423,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619590,
+    "wof:lastmodified":1603242578,
     "wof:name":"San Agustin Mixquic",
     "wof:parent_id":101991129,
     "wof:placetype":"neighbourhood",

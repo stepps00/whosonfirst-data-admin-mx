@@ -9,7 +9,6 @@
     "geom:bbox":"-97.806326,22.294133,-97.806326,22.294133",
     "geom:latitude":22.294133,
     "geom:longitude":-97.806326,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.811326,22.289133,-97.801326,22.299133",
     "lbl:latitude":22.294133,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883255,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242582,
     "wof:name":"Porticos de Miramar",
     "wof:parent_id":102001085,
     "wof:placetype":"neighbourhood",

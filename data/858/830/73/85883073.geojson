@@ -9,7 +9,6 @@
     "geom:bbox":"-100.450747,20.733883,-100.450747,20.733883",
     "geom:latitude":20.733883,
     "geom:longitude":-100.450747,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.455747,20.728883,-100.445747,20.738883",
     "lbl:latitude":20.733883,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883073,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Lomas Del Pedregal",
     "wof:parent_id":101996395,
     "wof:placetype":"neighbourhood",

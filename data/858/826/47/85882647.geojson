@@ -9,7 +9,6 @@
     "geom:bbox":"-93.050206,16.771074,-93.050206,16.771074",
     "geom:latitude":16.771074,
     "geom:longitude":-93.050206,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-93.055206,16.766074,-93.045206,16.776074",
     "lbl:latitude":16.771074,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85882647,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242575,
     "wof:name":"Revolucion Politica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

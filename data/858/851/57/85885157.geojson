@@ -9,7 +9,6 @@
     "geom:bbox":"-96.09738,15.771288,-96.09738,15.771288",
     "geom:latitude":15.771288,
     "geom:longitude":-96.09738,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.10238,15.766288,-96.09238,15.776288",
     "lbl:latitude":15.771288,
@@ -81,10 +80,7 @@
         }
     ],
     "wof:id":85885157,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242582,
     "wof:name":"Res Tangolunda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

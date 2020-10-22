@@ -9,7 +9,6 @@
     "geom:bbox":"-96.104173,19.140937,-96.104173,19.140937",
     "geom:latitude":19.140937,
     "geom:longitude":-96.104173,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.109173,19.135937,-96.099173,19.145937",
     "lbl:latitude":19.140937,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884315,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242577,
     "wof:name":"Fracc Zona Hotelera",
     "wof:parent_id":101998203,
     "wof:placetype":"neighbourhood",

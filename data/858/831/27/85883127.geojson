@@ -9,7 +9,6 @@
     "geom:bbox":"-97.864937,22.253967,-97.864937,22.253967",
     "geom:latitude":22.253967,
     "geom:longitude":-97.864937,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.869937,22.248967,-97.859937,22.258967",
     "lbl:latitude":22.253967,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883127,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242598,
     "wof:name":"Petrolera",
     "wof:parent_id":102001087,
     "wof:placetype":"neighbourhood",

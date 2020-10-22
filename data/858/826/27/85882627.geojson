@@ -9,7 +9,6 @@
     "geom:bbox":"-102.572042,22.776874,-102.572042,22.776874",
     "geom:latitude":22.776874,
     "geom:longitude":-102.572042,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.577042,22.771874,-102.567042,22.781874",
     "lbl:latitude":22.776874,
@@ -69,10 +68,7 @@
         }
     ],
     "wof:id":85882627,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Barrio de la Palma",
     "wof:parent_id":101994047,
     "wof:placetype":"neighbourhood",

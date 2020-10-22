@@ -9,7 +9,6 @@
     "geom:bbox":"-103.376294,20.700744,-103.376294,20.700744",
     "geom:latitude":20.700744,
     "geom:longitude":-103.376294,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.381294,20.695744,-103.371294,20.705744",
     "lbl:latitude":20.700744,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884535,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Circunvalacion Americas",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

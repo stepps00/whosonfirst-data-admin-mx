@@ -9,7 +9,6 @@
     "geom:bbox":"-96.763655,17.046783,-96.763655,17.046783",
     "geom:latitude":17.046783,
     "geom:longitude":-96.763655,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.768655,17.041783,-96.758655,17.051783",
     "lbl:latitude":17.046783,
@@ -209,10 +208,7 @@
         }
     ],
     "wof:id":85882749,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Monte Alban",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

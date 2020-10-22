@@ -9,7 +9,6 @@
     "geom:bbox":"-108.937708,27.023403,-108.937708,27.023403",
     "geom:latitude":27.023403,
     "geom:longitude":-108.937708,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-108.942708,27.018403,-108.932708,27.028403",
     "lbl:latitude":27.023403,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885039,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Barrio Loma de Guadalupe",
     "wof:parent_id":101993865,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-98.984509,18.884665,-98.984509,18.884665",
     "geom:latitude":18.884665,
     "geom:longitude":-98.984509,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.989509,18.879665,-98.979509,18.889665",
     "lbl:latitude":18.884665,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882651,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242574,
     "wof:name":"Ex Hacienda Cocoyoc",
     "wof:parent_id":101993271,
     "wof:placetype":"neighbourhood",

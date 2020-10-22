@@ -9,7 +9,6 @@
     "geom:bbox":"-101.351166,20.712445,-101.351166,20.712445",
     "geom:latitude":20.712445,
     "geom:longitude":-101.351166,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.356166,20.707445,-101.346166,20.717445",
     "lbl:latitude":20.712445,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884241,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242573,
     "wof:name":"Fracc Bellas Artes",
     "wof:parent_id":101996617,
     "wof:placetype":"neighbourhood",

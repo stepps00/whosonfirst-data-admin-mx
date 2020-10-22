@@ -9,7 +9,6 @@
     "geom:bbox":"-99.897255,16.858383,-99.897255,16.858383",
     "geom:latitude":16.858383,
     "geom:longitude":-99.897255,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.902255,16.853383,-99.892255,16.863383",
     "lbl:latitude":16.858383,
@@ -109,10 +108,7 @@
         }
     ],
     "wof:id":85883487,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"La Fabrica",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

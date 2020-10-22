@@ -9,7 +9,6 @@
     "geom:bbox":"-99.089106,18.984568,-99.089106,18.984568",
     "geom:latitude":18.984568,
     "geom:longitude":-99.089106,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.094106,18.979568,-99.084106,18.989568",
     "lbl:latitude":18.984568,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882937,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Barrio de Los Reyes",
     "wof:parent_id":101993257,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-96.874472,19.654902,-96.874472,19.654902",
     "geom:latitude":19.654902,
     "geom:longitude":-96.874472,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.879472,19.649902,-96.869472,19.659902",
     "lbl:latitude":19.654902,
@@ -74,10 +73,7 @@
         }
     ],
     "wof:id":85885003,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242578,
     "wof:name":"Naolinco de Victoria Centro",
     "wof:parent_id":101998533,
     "wof:placetype":"neighbourhood",

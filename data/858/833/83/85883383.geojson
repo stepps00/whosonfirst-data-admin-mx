@@ -9,7 +9,6 @@
     "geom:bbox":"-99.16392,19.533044,-99.16392,19.533044",
     "geom:latitude":19.533044,
     "geom:longitude":-99.16392,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.16892,19.528044,-99.15892,19.538044",
     "lbl:latitude":19.533044,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883383,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242584,
     "wof:name":"San Lucas Patoni",
     "wof:parent_id":101991513,
     "wof:placetype":"neighbourhood",

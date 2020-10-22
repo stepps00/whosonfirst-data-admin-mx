@@ -9,7 +9,6 @@
     "geom:bbox":"-103.36524,20.687726,-103.36524,20.687726",
     "geom:latitude":20.687726,
     "geom:longitude":-103.36524,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.37024,20.682726,-103.36024,20.692726",
     "lbl:latitude":20.687726,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884445,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242577,
     "wof:name":"Villasejor",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

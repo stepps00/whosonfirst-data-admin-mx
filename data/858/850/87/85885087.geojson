@@ -9,7 +9,6 @@
     "geom:bbox":"-101.719666,22.646967,-101.719666,22.646967",
     "geom:latitude":22.646967,
     "geom:longitude":-101.719666,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.724666,22.641967,-101.714666,22.651967",
     "lbl:latitude":22.646967,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85885087,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Barrio San Agustin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

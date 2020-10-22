@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2120361328,19.2904055882,-99.1928100586,19.3132863035",
     "geom:latitude":19.301584,
     "geom:longitude":-99.201957,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.301498,
     "lbl:longitude":-99.202239,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85884989,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619650,
+    "wof:lastmodified":1603242591,
     "wof:name":"Jardines en la Montana",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

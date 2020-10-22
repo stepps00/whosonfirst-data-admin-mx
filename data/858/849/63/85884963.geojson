@@ -9,7 +9,6 @@
     "geom:bbox":"-103.406067,20.727859,-103.406067,20.727859",
     "geom:latitude":20.727859,
     "geom:longitude":-103.406067,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.411067,20.722859,-103.401067,20.732859",
     "lbl:latitude":20.727859,
@@ -104,10 +103,7 @@
         }
     ],
     "wof:id":85884963,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Lindavista",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

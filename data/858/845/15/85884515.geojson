@@ -9,7 +9,6 @@
     "geom:bbox":"-99.0818219008,19.4168779718,-99.0765806402,19.4232512801",
     "geom:latitude":19.420226,
     "geom:longitude":-99.079321,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.421567,
     "lbl:longitude":-99.07865,
@@ -96,10 +95,7 @@
         }
     ],
     "wof:id":85884515,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619560,
+    "wof:lastmodified":1603242571,
     "wof:name":"Aviacion Civil",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",

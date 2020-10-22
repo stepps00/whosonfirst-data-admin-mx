@@ -9,7 +9,6 @@
     "geom:bbox":"-103.718206,19.249176,-103.718206,19.249176",
     "geom:latitude":19.249176,
     "geom:longitude":-103.718206,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.723206,19.244176,-103.713206,19.254176",
     "lbl:latitude":19.249176,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883519,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Guadalajarita",
     "wof:parent_id":101996911,
     "wof:placetype":"neighbourhood",

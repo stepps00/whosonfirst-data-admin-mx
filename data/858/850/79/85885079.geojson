@@ -9,7 +9,6 @@
     "geom:bbox":"-101.113788,23.129467,-101.113788,23.129467",
     "geom:latitude":23.129467,
     "geom:longitude":-101.113788,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.118788,23.124467,-101.108788,23.134467",
     "lbl:latitude":23.129467,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885079,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Charcas Centro",
     "wof:parent_id":101996459,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1824725588,19.3804258966,-99.1785905272,19.3862955056",
     "geom:latitude":19.383574,
     "geom:longitude":-99.180437,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.383537,
     "lbl:longitude":-99.180216,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85883729,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619693,
+    "wof:lastmodified":1603242601,
     "wof:name":"Ciudad de Los Deportes",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

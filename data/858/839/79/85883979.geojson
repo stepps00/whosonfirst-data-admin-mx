@@ -9,7 +9,6 @@
     "geom:bbox":"-99.0215356445,19.184459545,-98.9960424804,19.2083503561",
     "geom:latitude":19.195698,
     "geom:longitude":-99.009051,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.198092,
     "lbl:longitude":-99.010034,
@@ -79,10 +78,7 @@
         }
     ],
     "wof:id":85883979,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619710,
+    "wof:lastmodified":1603242605,
     "wof:name":"Pueblo San Agustin Ohtenco",
     "wof:parent_id":101991145,
     "wof:placetype":"neighbourhood",

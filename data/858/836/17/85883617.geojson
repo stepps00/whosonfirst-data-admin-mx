@@ -9,7 +9,6 @@
     "geom:bbox":"-110.953532,29.086949,-110.953532,29.086949",
     "geom:latitude":29.086949,
     "geom:longitude":-110.953532,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.958532,29.081949,-110.948532,29.091949",
     "lbl:latitude":29.086949,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85883617,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Hermosillo Centro",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

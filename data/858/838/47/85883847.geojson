@@ -9,7 +9,6 @@
     "geom:bbox":"-100.366446,25.728159,-100.366446,25.728159",
     "geom:latitude":25.728159,
     "geom:longitude":-100.366446,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.371446,25.723159,-100.361446,25.733159",
     "lbl:latitude":25.728159,
@@ -169,10 +168,7 @@
         }
     ],
     "wof:id":85883847,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242598,
     "wof:name":"Santa Cecilia",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

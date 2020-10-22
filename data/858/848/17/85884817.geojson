@@ -9,7 +9,6 @@
     "geom:bbox":"-109.716935,23.159116,-109.716935,23.159116",
     "geom:latitude":23.159116,
     "geom:longitude":-109.716935,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.721935,23.154116,-109.711935,23.164116",
     "lbl:latitude":23.159116,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884817,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Fracc Las Veredas Vivah",
     "wof:parent_id":101993431,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-109.930779,22.87878,-109.930779,22.87878",
     "geom:latitude":22.87878,
     "geom:longitude":-109.930779,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.935779,22.87378,-109.925779,22.88378",
     "lbl:latitude":22.87878,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85884791,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Fracc Nuevo Arco Iris",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

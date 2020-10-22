@@ -9,7 +9,6 @@
     "geom:bbox":"-106.426374,23.183875,-106.426374,23.183875",
     "geom:latitude":23.183875,
     "geom:longitude":-106.426374,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.431374,23.178875,-106.421374,23.188875",
     "lbl:latitude":23.183875,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884115,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Playas Del sur",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

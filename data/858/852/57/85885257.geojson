@@ -9,7 +9,6 @@
     "geom:bbox":"-101.524651,19.665773,-101.524651,19.665773",
     "geom:latitude":19.665773,
     "geom:longitude":-101.524651,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.529651,19.660773,-101.519651,19.670773",
     "lbl:latitude":19.665773,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885257,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242605,
     "wof:name":"Quiroga Centro",
     "wof:parent_id":101997277,
     "wof:placetype":"neighbourhood",

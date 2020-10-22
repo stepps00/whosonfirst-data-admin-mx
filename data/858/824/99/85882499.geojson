@@ -9,7 +9,6 @@
     "geom:bbox":"-98.238622,19.315674,-98.238622,19.315674",
     "geom:latitude":19.315674,
     "geom:longitude":-98.238622,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.243622,19.310674,-98.233622,19.320674",
     "lbl:latitude":19.315674,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882499,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242591,
     "wof:name":"Fracc Huertas de San Francisco",
     "wof:parent_id":101999051,
     "wof:placetype":"neighbourhood",

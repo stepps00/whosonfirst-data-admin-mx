@@ -9,7 +9,6 @@
     "geom:bbox":"-105.285948,21.540877,-105.285948,21.540877",
     "geom:latitude":21.540877,
     "geom:longitude":-105.285948,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.290948,21.535877,-105.280948,21.545877",
     "lbl:latitude":21.540877,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885033,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"San Blas Centro",
     "wof:parent_id":101997019,
     "wof:placetype":"neighbourhood",

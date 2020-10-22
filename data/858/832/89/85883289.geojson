@@ -9,7 +9,6 @@
     "geom:bbox":"-98.739548,20.118484,-98.739548,20.118484",
     "geom:latitude":20.118484,
     "geom:longitude":-98.739548,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.744548,20.113484,-98.734548,20.123484",
     "lbl:latitude":20.118484,
@@ -110,10 +109,7 @@
         }
     ],
     "wof:id":85883289,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Jardin",
     "wof:parent_id":102000455,
     "wof:placetype":"neighbourhood",

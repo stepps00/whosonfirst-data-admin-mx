@@ -9,7 +9,6 @@
     "geom:bbox":"-116.621603,31.85866,-116.621603,31.85866",
     "geom:latitude":31.85866,
     "geom:longitude":-116.621603,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.626603,31.85366,-116.616603,31.86366",
     "lbl:latitude":31.85866,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85884151,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242586,
     "wof:name":"Bahia Ensenada",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-104.636536,24.030411,-104.636536,24.030411",
     "geom:latitude":24.030411,
     "geom:longitude":-104.636536,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.641536,24.025411,-104.631536,24.035411",
     "lbl:latitude":24.030411,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884225,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242573,
     "wof:name":"Del Maestro",
     "wof:parent_id":101994335,
     "wof:placetype":"neighbourhood",

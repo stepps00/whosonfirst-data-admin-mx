@@ -9,7 +9,6 @@
     "geom:bbox":"-101.686488,21.186343,-101.686488,21.186343",
     "geom:latitude":21.186343,
     "geom:longitude":-101.686488,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.691488,21.181343,-101.681488,21.191343",
     "lbl:latitude":21.186343,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882607,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Valle Hermoso I Y V",
     "wof:parent_id":101996837,
     "wof:placetype":"neighbourhood",

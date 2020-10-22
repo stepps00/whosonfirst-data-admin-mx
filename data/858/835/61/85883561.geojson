@@ -9,7 +9,6 @@
     "geom:bbox":"-116.956903,32.502086,-116.956903,32.502086",
     "geom:latitude":32.502086,
     "geom:longitude":-116.956903,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.961903,32.497086,-116.951903,32.507086",
     "lbl:latitude":32.502086,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85883561,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242580,
     "wof:name":"Infonavit la Mesa",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

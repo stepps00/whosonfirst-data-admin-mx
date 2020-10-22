@@ -9,7 +9,6 @@
     "geom:bbox":"-102.260902,21.870645,-102.260902,21.870645",
     "geom:latitude":21.870645,
     "geom:longitude":-102.260902,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.265902,21.865645,-102.255902,21.875645",
     "lbl:latitude":21.870645,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85882555,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Fovissste Ojocaliente",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

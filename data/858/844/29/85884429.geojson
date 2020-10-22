@@ -9,7 +9,6 @@
     "geom:bbox":"-99.059987793,19.2726282982,-99.0344946289,19.2929978951",
     "geom:latitude":19.282418,
     "geom:longitude":-99.04774,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.283101,
     "lbl:longitude":-99.04799,
@@ -77,10 +76,7 @@
         }
     ],
     "wof:id":85884429,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619587,
+    "wof:lastmodified":1603242577,
     "wof:name":"Villas la Draga",
     "wof:parent_id":857683023,
     "wof:placetype":"neighbourhood",

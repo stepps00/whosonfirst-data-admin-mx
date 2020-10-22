@@ -9,7 +9,6 @@
     "geom:bbox":"-105.234659,20.611834,-105.234659,20.611834",
     "geom:latitude":20.611834,
     "geom:longitude":-105.234659,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.239659,20.606834,-105.229659,20.616834",
     "lbl:latitude":20.611834,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85884659,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Puerto Vallarta Centro",
     "wof:parent_id":101997965,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-107.405092,24.819363,-107.405092,24.819363",
     "geom:latitude":24.819363,
     "geom:longitude":-107.405092,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-107.410092,24.814363,-107.400092,24.824363",
     "lbl:latitude":24.819363,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85884359,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242576,
     "wof:name":"Desarrollo Urbano Tres Rios",
     "wof:parent_id":101993731,
     "wof:placetype":"neighbourhood",

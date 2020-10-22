@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1361046596,19.4458847852,-99.1241455078,19.4588233102",
     "geom:latitude":19.453272,
     "geom:longitude":-99.129954,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.454038,
     "lbl:longitude":-99.132163,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884467,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619586,
+    "wof:lastmodified":1603242577,
     "wof:name":"U H Nonoalco Tlatelolco",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

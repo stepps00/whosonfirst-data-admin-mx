@@ -9,7 +9,6 @@
     "geom:bbox":"-103.458359,20.688925,-103.458359,20.688925",
     "geom:latitude":20.688925,
     "geom:longitude":-103.458359,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.463359,20.683925,-103.453359,20.693925",
     "lbl:latitude":20.688925,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884919,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Puertas Del Tule",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

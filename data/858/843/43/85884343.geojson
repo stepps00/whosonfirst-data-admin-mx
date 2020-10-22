@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2147827148,19.326694875,-99.2010498047,19.3396533167",
     "geom:latitude":19.333909,
     "geom:longitude":-99.20776,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.333672,
     "lbl:longitude":-99.206425,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884343,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619582,
+    "wof:lastmodified":1603242576,
     "wof:name":"Puente Sierra",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.19071212,19.4296462802,-99.1839216625,19.4355143334",
     "geom:latitude":19.43264,
     "geom:longitude":-99.187269,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.432626,
     "lbl:longitude":-99.186209,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883845,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619674,
+    "wof:lastmodified":1603242597,
     "wof:name":"Chapultepec Morales",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

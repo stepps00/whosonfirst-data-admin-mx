@@ -9,7 +9,6 @@
     "geom:bbox":"-103.203735,20.292541,-103.203735,20.292541",
     "geom:latitude":20.292541,
     "geom:longitude":-103.203735,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.208735,20.287541,-103.198735,20.297541",
     "lbl:latitude":20.292541,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884709,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Barrio Lourdes",
     "wof:parent_id":101998069,
     "wof:placetype":"neighbourhood",

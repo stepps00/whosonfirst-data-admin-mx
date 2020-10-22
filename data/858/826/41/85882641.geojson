@@ -9,7 +9,6 @@
     "geom:bbox":"-98.190127,19.047508,-98.190127,19.047508",
     "geom:latitude":19.047508,
     "geom:longitude":-98.190127,
-    "gn:id":"",
     "gn:population":5785,
     "iso:country":"MX",
     "lbl:bbox":"-98.195127,19.042508,-98.185127,19.052508",
@@ -127,10 +126,7 @@
         }
     ],
     "wof:id":85882641,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242575,
     "wof:name":"San Francisco",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

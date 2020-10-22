@@ -9,7 +9,6 @@
     "geom:bbox":"-103.726475,19.241853,-103.726475,19.241853",
     "geom:latitude":19.241853,
     "geom:longitude":-103.726475,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.731475,19.236853,-103.721475,19.246853",
     "lbl:latitude":19.241853,
@@ -170,10 +169,7 @@
         }
     ],
     "wof:id":85884171,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Fatima",
     "wof:parent_id":101996911,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-103.228172,20.29265,-103.228172,20.29265",
     "geom:latitude":20.29265,
     "geom:longitude":-103.228172,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.233172,20.28765,-103.223172,20.29765",
     "lbl:latitude":20.29265,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85884703,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242592,
     "wof:name":"Riveras Del Pilar",
     "wof:parent_id":101998067,
     "wof:placetype":"neighbourhood",

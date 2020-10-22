@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1800500598,19.4406943953,-99.1726110847,19.4495766486",
     "geom:latitude":19.444774,
     "geom:longitude":-99.17649,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.446778,
     "lbl:longitude":-99.177667,
@@ -115,10 +114,7 @@
         }
     ],
     "wof:id":85883921,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242604,
     "wof:name":"Anahuac",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

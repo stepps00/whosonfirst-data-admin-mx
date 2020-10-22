@@ -9,7 +9,6 @@
     "geom:bbox":"-105.667191,26.932172,-105.667191,26.932172",
     "geom:latitude":26.932172,
     "geom:longitude":-105.667191,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.672191,26.927172,-105.662191,26.937172",
     "lbl:latitude":26.932172,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884287,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Alfare\u00f1a",
     "wof:parent_id":101994143,
     "wof:placetype":"neighbourhood",

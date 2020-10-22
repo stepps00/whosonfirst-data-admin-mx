@@ -9,7 +9,6 @@
     "geom:bbox":"-101.708789,21.153184,-101.708789,21.153184",
     "geom:latitude":21.153184,
     "geom:longitude":-101.708789,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.713789,21.148184,-101.703789,21.158184",
     "lbl:latitude":21.153184,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882585,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242596,
     "wof:name":"Lomas Del Campestre",
     "wof:parent_id":101996837,
     "wof:placetype":"neighbourhood",

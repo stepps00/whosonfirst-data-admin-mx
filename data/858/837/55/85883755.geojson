@@ -9,7 +9,6 @@
     "geom:bbox":"-99.233707605,19.3307320591,-99.2147827148,19.3422449968",
     "geom:latitude":19.337135,
     "geom:longitude":-99.2235,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.3363,
     "lbl:longitude":-99.22286,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883755,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619696,
+    "wof:lastmodified":1603242602,
     "wof:name":"San Jose Del Olivar",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

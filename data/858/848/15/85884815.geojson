@@ -9,7 +9,6 @@
     "geom:bbox":"-109.708363,23.050703,-109.708363,23.050703",
     "geom:latitude":23.050703,
     "geom:longitude":-109.708363,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.713363,23.045703,-109.703363,23.055703",
     "lbl:latitude":23.050703,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884815,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Jesus Castro Agundes",
     "wof:parent_id":101993435,
     "wof:placetype":"neighbourhood",

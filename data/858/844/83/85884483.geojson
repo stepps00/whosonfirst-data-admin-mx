@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1140060878,19.2826282161,-99.0953813047,19.2917812038",
     "geom:latitude":19.287116,
     "geom:longitude":-99.10352,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.287387,
     "lbl:longitude":-99.10121,
@@ -77,10 +76,7 @@
         }
     ],
     "wof:id":85884483,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619590,
+    "wof:lastmodified":1603242578,
     "wof:name":"Conjunto Infonavit Cuemanco",
     "wof:parent_id":857683023,
     "wof:placetype":"neighbourhood",

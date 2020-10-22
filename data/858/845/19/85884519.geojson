@@ -9,7 +9,6 @@
     "geom:bbox":"-103.413481,20.635633,-103.413481,20.635633",
     "geom:latitude":20.635633,
     "geom:longitude":-103.413481,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.418481,20.630633,-103.408481,20.640633",
     "lbl:latitude":20.635633,
@@ -167,10 +166,7 @@
         }
     ],
     "wof:id":85884519,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"La Giralda",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

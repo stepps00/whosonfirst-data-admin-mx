@@ -9,7 +9,6 @@
     "geom:bbox":"-99.860361,16.826281,-99.860361,16.826281",
     "geom:latitude":16.826281,
     "geom:longitude":-99.860361,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.865361,16.821281,-99.855361,16.831281",
     "lbl:latitude":16.826281,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882695,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242574,
     "wof:name":"Club Res Las Brisas",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

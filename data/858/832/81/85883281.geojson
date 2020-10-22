@@ -9,7 +9,6 @@
     "geom:bbox":"-100.40133,20.618338,-100.40133,20.618338",
     "geom:latitude":20.618338,
     "geom:longitude":-100.40133,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.40633,20.613338,-100.39633,20.623338",
     "lbl:latitude":20.618338,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85883281,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Terrazas de San Pablo",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

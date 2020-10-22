@@ -9,7 +9,6 @@
     "geom:bbox":"-99.207191589,19.432236414,-99.1983032227,19.4393993998",
     "geom:latitude":19.43584,
     "geom:longitude":-99.202783,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.435857,
     "lbl:longitude":-99.202467,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883917,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619707,
+    "wof:lastmodified":1603242604,
     "wof:name":"Los Morales Secc Palmas",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

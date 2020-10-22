@@ -9,7 +9,6 @@
     "geom:bbox":"-103.736977,20.664757,-103.736977,20.664757",
     "geom:latitude":20.664757,
     "geom:longitude":-103.736977,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.741977,20.659757,-103.731977,20.669757",
     "lbl:latitude":20.664757,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884789,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Fracc El Chilero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

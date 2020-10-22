@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1131591797,19.4950749643,-99.0839331054,19.5306008126",
     "geom:latitude":19.512835,
     "geom:longitude":-99.098706,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.509458,
     "lbl:longitude":-99.0979,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884015,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619665,
+    "wof:lastmodified":1603242595,
     "wof:name":"El Risco Ctm",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

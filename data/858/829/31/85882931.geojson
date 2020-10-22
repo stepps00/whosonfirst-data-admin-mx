@@ -9,7 +9,6 @@
     "geom:bbox":"-100.388543,20.585951,-100.388543,20.585951",
     "geom:latitude":20.585951,
     "geom:longitude":-100.388543,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.393543,20.580951,-100.383543,20.590951",
     "lbl:latitude":20.585951,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882931,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Villas Del sur",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

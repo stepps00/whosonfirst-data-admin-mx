@@ -9,7 +9,6 @@
     "geom:bbox":"-102.255535,21.885266,-102.255535,21.885266",
     "geom:latitude":21.885266,
     "geom:longitude":-102.255535,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.260535,21.880266,-102.250535,21.890266",
     "lbl:latitude":21.885266,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882507,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Fracc Fidel Velazquez",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

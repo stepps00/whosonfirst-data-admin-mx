@@ -9,7 +9,6 @@
     "geom:bbox":"-103.412436,25.535007,-103.412436,25.535007",
     "geom:latitude":25.535007,
     "geom:longitude":-103.412436,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.417436,25.530007,-103.407436,25.540007",
     "lbl:latitude":25.535007,
@@ -96,10 +95,7 @@
         }
     ],
     "wof:id":85882611,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Fracc Las Villas",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

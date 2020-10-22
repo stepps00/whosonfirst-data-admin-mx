@@ -9,7 +9,6 @@
     "geom:bbox":"-101.265834,21.015611,-101.265834,21.015611",
     "geom:latitude":21.015611,
     "geom:longitude":-101.265834,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.270834,21.010611,-101.260834,21.020611",
     "lbl:latitude":21.015611,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884269,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Municipio Libre",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-97.856743,22.214564,-97.856743,22.214564",
     "geom:latitude":22.214564,
     "geom:longitude":-97.856743,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.861743,22.209564,-97.851743,22.219564",
     "lbl:latitude":22.214564,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85882501,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Zona Centro",
     "wof:parent_id":102001087,
     "wof:placetype":"neighbourhood",

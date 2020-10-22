@@ -9,7 +9,6 @@
     "geom:bbox":"-109.970634,27.495691,-109.970634,27.495691",
     "geom:latitude":27.495691,
     "geom:longitude":-109.970634,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.975634,27.490691,-109.965634,27.500691",
     "lbl:latitude":27.495691,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883135,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242598,
     "wof:name":"Fracc Villa Nainari",
     "wof:parent_id":101993827,
     "wof:placetype":"neighbourhood",

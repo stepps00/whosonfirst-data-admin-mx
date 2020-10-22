@@ -9,7 +9,6 @@
     "geom:bbox":"-106.443317,23.236187,-106.443317,23.236187",
     "geom:latitude":23.236187,
     "geom:longitude":-106.443317,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.448317,23.231187,-106.438317,23.241187",
     "lbl:latitude":23.236187,
@@ -396,10 +395,7 @@
         }
     ],
     "wof:id":85884137,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Flamingos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

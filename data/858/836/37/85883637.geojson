@@ -9,7 +9,6 @@
     "geom:bbox":"-101.001949,25.422798,-101.001949,25.422798",
     "geom:latitude":25.422798,
     "geom:longitude":-101.001949,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.006949,25.417798,-100.996949,25.427798",
     "lbl:latitude":25.422798,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883637,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Saltillo Centro",
     "wof:parent_id":102000871,
     "wof:placetype":"neighbourhood",

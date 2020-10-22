@@ -9,7 +9,6 @@
     "geom:bbox":"-104.89185,21.510213,-104.89185,21.510213",
     "geom:latitude":21.510213,
     "geom:longitude":-104.89185,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.89685,21.505213,-104.88685,21.515213",
     "lbl:latitude":21.510213,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884181,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Acayapan",
     "wof:parent_id":101996983,
     "wof:placetype":"neighbourhood",

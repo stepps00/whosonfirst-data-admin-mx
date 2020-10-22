@@ -9,7 +9,6 @@
     "geom:bbox":"-100.353424,25.679286,-100.353424,25.679286",
     "geom:latitude":25.679286,
     "geom:longitude":-100.353424,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.358424,25.674286,-100.348424,25.684286",
     "lbl:latitude":25.679286,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85883723,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242602,
     "wof:name":"Jardines Del Cerro",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

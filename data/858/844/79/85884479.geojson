@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1845703125,19.2958547249,-99.1777788625,19.3033670141",
     "geom:latitude":19.300614,
     "geom:longitude":-99.180748,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.302028,
     "lbl:longitude":-99.181595,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884479,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619590,
+    "wof:lastmodified":1603242578,
     "wof:name":"Pena Pobre",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.274734,19.545778,-99.274734,19.545778",
     "geom:latitude":19.545778,
     "geom:longitude":-99.274734,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.279734,19.540778,-99.269734,19.550778",
     "lbl:latitude":19.545778,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85882795,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Lomas de Atizapan",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",

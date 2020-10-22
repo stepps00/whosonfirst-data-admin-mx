@@ -9,7 +9,6 @@
     "geom:bbox":"-100.386328,20.999907,-100.386328,20.999907",
     "geom:latitude":20.999907,
     "geom:longitude":-100.386328,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.391328,20.994907,-100.381328,21.004907",
     "lbl:latitude":20.999907,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882825,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242574,
     "wof:name":"San Jose Iturbide Centro",
     "wof:parent_id":101996751,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-103.94886,20.692214,-103.94886,20.692214",
     "geom:latitude":20.692214,
     "geom:longitude":-103.94886,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.95386,20.687214,-103.94386,20.697214",
     "lbl:latitude":20.692214,
@@ -106,10 +105,7 @@
         }
     ],
     "wof:id":85884775,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"La Floresta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

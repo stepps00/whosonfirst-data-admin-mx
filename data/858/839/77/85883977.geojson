@@ -9,7 +9,6 @@
     "geom:bbox":"-99.241262207,19.2570725485,-99.2202758789,19.2770725485",
     "geom:latitude":19.267073,
     "geom:longitude":-99.22995,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.267072,
     "lbl:longitude":-99.227459,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883977,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619711,
+    "wof:lastmodified":1603242605,
     "wof:name":"Lomas Altas de Padierna sur",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

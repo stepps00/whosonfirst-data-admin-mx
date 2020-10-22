@@ -9,7 +9,6 @@
     "geom:bbox":"-96.895706,19.52886,-96.895706,19.52886",
     "geom:latitude":19.52886,
     "geom:longitude":-96.895706,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.900706,19.52386,-96.890706,19.53386",
     "lbl:latitude":19.52886,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883113,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Sahop",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

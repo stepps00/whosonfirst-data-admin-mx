@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2010498047,19.3085511817,-99.1845703125,19.3241030863",
     "geom:latitude":19.317812,
     "geom:longitude":-99.194044,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.319824,
     "lbl:longitude":-99.192561,
@@ -111,10 +110,7 @@
         }
     ],
     "wof:id":85883795,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619691,
+    "wof:lastmodified":1603242601,
     "wof:name":"Jardines Del Pedregal",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

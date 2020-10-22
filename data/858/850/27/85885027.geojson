@@ -9,7 +9,6 @@
     "geom:bbox":"-105.285307,21.53014,-105.285307,21.53014",
     "geom:latitude":21.53014,
     "geom:longitude":-105.285307,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.290307,21.52514,-105.280307,21.53514",
     "lbl:latitude":21.53014,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85885027,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Teniente Azueta",
     "wof:parent_id":101997019,
     "wof:placetype":"neighbourhood",

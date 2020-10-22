@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1488647461,19.3914771316,-99.137878418,19.4025277227",
     "geom:latitude":19.39748,
     "geom:longitude":-99.142834,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.396989,
     "lbl:longitude":-99.142114,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85883687,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619687,
+    "wof:lastmodified":1603242600,
     "wof:name":"Alamos",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

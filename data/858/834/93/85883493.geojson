@@ -9,7 +9,6 @@
     "geom:bbox":"-89.630525,20.986965,-89.630525,20.986965",
     "geom:latitude":20.986965,
     "geom:longitude":-89.630525,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.635525,20.981965,-89.625525,20.991965",
     "lbl:latitude":20.986965,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883493,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Garcia Gineres",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

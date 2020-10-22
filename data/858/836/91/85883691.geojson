@@ -9,7 +9,6 @@
     "geom:bbox":"-99.0798798694,19.4322363008,-99.0569189683,19.4510540298",
     "geom:latitude":19.441444,
     "geom:longitude":-99.06843,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.446445,
     "lbl:longitude":-99.075184,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883691,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619687,
+    "wof:lastmodified":1603242600,
     "wof:name":"San Juan de Aragon 4ta Y 5ta Secc",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",

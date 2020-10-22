@@ -9,7 +9,6 @@
     "geom:bbox":"-103.327332,20.704713,-103.327332,20.704713",
     "geom:latitude":20.704713,
     "geom:longitude":-103.327332,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.332332,20.699713,-103.322332,20.709713",
     "lbl:latitude":20.704713,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884443,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242578,
     "wof:name":"Infonavit Independencia",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

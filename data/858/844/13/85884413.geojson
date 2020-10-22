@@ -9,7 +9,6 @@
     "geom:bbox":"-99.258728,19.469181,-99.258728,19.469181",
     "geom:latitude":19.469181,
     "geom:longitude":-99.258728,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.263728,19.464181,-99.253728,19.474181",
     "lbl:latitude":19.469181,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85884413,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242578,
     "wof:name":"San Juan Totoltepec",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

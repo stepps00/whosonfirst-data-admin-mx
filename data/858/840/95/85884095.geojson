@@ -9,7 +9,6 @@
     "geom:bbox":"-110.301777,24.191498,-110.301777,24.191498",
     "geom:latitude":24.191498,
     "geom:longitude":-110.301777,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.306777,24.186498,-110.296777,24.196498",
     "lbl:latitude":24.191498,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85884095,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"La Calavera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

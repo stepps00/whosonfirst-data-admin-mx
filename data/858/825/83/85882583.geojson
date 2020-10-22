@@ -9,7 +9,6 @@
     "geom:bbox":"-101.181335,20.599365,-101.181335,20.599365",
     "geom:latitude":20.599365,
     "geom:longitude":-101.181335,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.186335,20.594365,-101.176335,20.604365",
     "lbl:latitude":20.599365,
@@ -150,10 +149,7 @@
         }
     ],
     "wof:id":85882583,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242596,
     "wof:name":"Primavera",
     "wof:parent_id":101996705,
     "wof:placetype":"neighbourhood",

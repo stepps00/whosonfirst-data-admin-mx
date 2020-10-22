@@ -9,7 +9,6 @@
     "geom:bbox":"-102.281597,21.88719,-102.281597,21.88719",
     "geom:latitude":21.88719,
     "geom:longitude":-102.281597,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.286597,21.88219,-102.276597,21.89219",
     "lbl:latitude":21.88719,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883021,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Ferronales",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.202148,19.727928,-99.202148,19.727928",
     "geom:latitude":19.727928,
     "geom:longitude":-99.202148,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.207148,19.722928,-99.197148,19.732928",
     "lbl:latitude":19.727928,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884195,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"El Trebol",
     "wof:parent_id":101991839,
     "wof:placetype":"neighbourhood",

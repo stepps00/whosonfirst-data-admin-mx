@@ -9,7 +9,6 @@
     "geom:bbox":"-101.252927,21.016275,-101.252927,21.016275",
     "geom:latitude":21.016275,
     "geom:longitude":-101.252927,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.257927,21.011275,-101.247927,21.021275",
     "lbl:latitude":21.016275,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85884275,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Barrio Calz de Guadalupe",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

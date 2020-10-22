@@ -9,7 +9,6 @@
     "geom:bbox":"-99.815092,16.789641,-99.815092,16.789641",
     "geom:latitude":16.789641,
     "geom:longitude":-99.815092,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.820092,16.784641,-99.810092,16.794641",
     "lbl:latitude":16.789641,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883253,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242582,
     "wof:name":"El Pueblito Del Revolcadero",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

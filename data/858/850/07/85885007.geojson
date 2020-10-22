@@ -9,7 +9,6 @@
     "geom:bbox":"-96.95955,19.454912,-96.95955,19.454912",
     "geom:latitude":19.454912,
     "geom:longitude":-96.95955,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.96455,19.449912,-96.95455,19.459912",
     "lbl:latitude":19.454912,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885007,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Coatepec Centro",
     "wof:parent_id":101998227,
     "wof:placetype":"neighbourhood",

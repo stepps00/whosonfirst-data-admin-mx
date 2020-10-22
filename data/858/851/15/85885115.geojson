@@ -9,7 +9,6 @@
     "geom:bbox":"-98.01178,17.33753,-98.01178,17.33753",
     "geom:latitude":17.33753,
     "geom:longitude":-98.01178,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.01678,17.33253,-98.00678,17.34253",
     "lbl:latitude":17.33753,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85885115,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242583,
     "wof:name":"Barrio Santo Domingo",
     "wof:parent_id":101995991,
     "wof:placetype":"neighbourhood",

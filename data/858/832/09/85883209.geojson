@@ -9,7 +9,6 @@
     "geom:bbox":"-103.417566,25.526131,-103.417566,25.526131",
     "geom:latitude":25.526131,
     "geom:longitude":-103.417566,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.422566,25.521131,-103.412566,25.531131",
     "lbl:latitude":25.526131,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85883209,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242582,
     "wof:name":"Jardines de California",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

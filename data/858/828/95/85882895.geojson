@@ -9,7 +9,6 @@
     "geom:bbox":"-102.305936,21.875467,-102.305936,21.875467",
     "geom:latitude":21.875467,
     "geom:longitude":-102.305936,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.310936,21.870467,-102.300936,21.880467",
     "lbl:latitude":21.875467,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85882895,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242573,
     "wof:name":"Barrio San Marcos",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

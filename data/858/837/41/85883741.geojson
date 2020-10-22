@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1144565813,19.4134972058,-99.1021728516,19.4280660409",
     "geom:latitude":19.420463,
     "geom:longitude":-99.108044,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.419083,
     "lbl:longitude":-99.109874,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883741,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619697,
+    "wof:lastmodified":1603242602,
     "wof:name":"Jardin Balbuena",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",

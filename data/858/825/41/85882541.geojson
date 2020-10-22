@@ -9,7 +9,6 @@
     "geom:bbox":"-116.943676,32.535532,-116.943676,32.535532",
     "geom:latitude":32.535532,
     "geom:longitude":-116.943676,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.948676,32.530532,-116.938676,32.540532",
     "lbl:latitude":32.535532,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85882541,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242596,
     "wof:name":"Campos Deportivos",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

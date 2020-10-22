@@ -9,7 +9,6 @@
     "geom:bbox":"-100.994568,20.511927,-100.994568,20.511927",
     "geom:latitude":20.511927,
     "geom:longitude":-100.994568,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.999568,20.506927,-100.989568,20.516927",
     "lbl:latitude":20.511927,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882579,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242596,
     "wof:name":"El Poder",
     "wof:parent_id":101996817,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-97.054037,15.85047,-97.054037,15.85047",
     "geom:latitude":15.85047,
     "geom:longitude":-97.054037,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.059037,15.84547,-97.049037,15.85547",
     "lbl:latitude":15.85047,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85885135,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242582,
     "wof:name":"Lazaro Cardenas",
     "wof:parent_id":101996233,
     "wof:placetype":"neighbourhood",

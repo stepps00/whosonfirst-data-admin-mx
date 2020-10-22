@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1461181641,19.4924537248,-99.1341592428,19.5041854327",
     "geom:latitude":19.497554,
     "geom:longitude":-99.140599,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.497416,
     "lbl:longitude":-99.138879,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883831,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619675,
+    "wof:lastmodified":1603242597,
     "wof:name":"Unid Profes Zacatenco Lindavista",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

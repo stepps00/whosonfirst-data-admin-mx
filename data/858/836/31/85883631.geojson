@@ -9,7 +9,6 @@
     "geom:bbox":"-116.66482,32.565606,-116.66482,32.565606",
     "geom:latitude":32.565606,
     "geom:longitude":-116.66482,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.66982,32.560606,-116.65982,32.570606",
     "lbl:latitude":32.565606,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883631,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Fracc Colinas Del Cuchuma",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

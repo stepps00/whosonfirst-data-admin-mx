@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2539484462,19.3780341969,-99.2328758703,19.4070209409",
     "geom:latitude":19.39251,
     "geom:longitude":-99.243348,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.389473,
     "lbl:longitude":-99.241194,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883765,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619695,
+    "wof:lastmodified":1603242602,
     "wof:name":"Lomas de Santa Fe",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

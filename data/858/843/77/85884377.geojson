@@ -9,7 +9,6 @@
     "geom:bbox":"-99.241276,19.506672,-99.241276,19.506672",
     "geom:latitude":19.506672,
     "geom:longitude":-99.241276,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.246276,19.501672,-99.236276,19.511672",
     "lbl:latitude":19.506672,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884377,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242577,
     "wof:name":"Cuicalli",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

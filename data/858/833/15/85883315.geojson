@@ -9,7 +9,6 @@
     "geom:bbox":"-100.393789,20.592641,-100.393789,20.592641",
     "geom:latitude":20.592641,
     "geom:longitude":-100.393789,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.398789,20.587641,-100.388789,20.597641",
     "lbl:latitude":20.592641,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883315,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Conjunto Hab Vicente Guerrero",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

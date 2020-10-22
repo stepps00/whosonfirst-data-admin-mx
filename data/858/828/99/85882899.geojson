@@ -9,7 +9,6 @@
     "geom:bbox":"-99.041372,19.425994,-99.041372,19.425994",
     "geom:latitude":19.425994,
     "geom:longitude":-99.041372,
-    "gn:id":"",
     "gn:population":1232220,
     "iso:country":"MX",
     "lbl:bbox":"-99.046372,19.420994,-99.036372,19.430994",
@@ -395,11 +394,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
-        102074107,
         101992489,
-        85686527
+        102074107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -426,7 +425,7 @@
         }
     ],
     "wof:id":85882899,
-    "wof:lastmodified":1587428925,
+    "wof:lastmodified":1603242574,
     "wof:name":"Estado de Mexico",
     "wof:parent_id":101992489,
     "wof:placetype":"neighbourhood",

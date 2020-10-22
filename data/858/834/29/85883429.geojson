@@ -9,7 +9,6 @@
     "geom:bbox":"-98.202839,19.042036,-98.202839,19.042036",
     "geom:latitude":19.042036,
     "geom:longitude":-98.202839,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.207839,19.037036,-98.197839,19.047036",
     "lbl:latitude":19.042036,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883429,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Insurgentes Chulavista",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-101.422648,20.944597,-101.422648,20.944597",
     "geom:latitude":20.944597,
     "geom:longitude":-101.422648,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.427648,20.939597,-101.417648,20.949597",
     "lbl:latitude":20.944597,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884235,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242572,
     "wof:name":"Silao Centro",
     "wof:parent_id":101996777,
     "wof:placetype":"neighbourhood",

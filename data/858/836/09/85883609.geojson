@@ -9,7 +9,6 @@
     "geom:bbox":"-96.951599,18.890695,-96.951599,18.890695",
     "geom:latitude":18.890695,
     "geom:longitude":-96.951599,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.956599,18.885695,-96.946599,18.895695",
     "lbl:latitude":18.890695,
@@ -106,10 +105,7 @@
         }
     ],
     "wof:id":85883609,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"La Esmeralda",
     "wof:parent_id":101998261,
     "wof:placetype":"neighbourhood",

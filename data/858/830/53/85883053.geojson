@@ -9,7 +9,6 @@
     "geom:bbox":"-101.926807,20.931763,-101.926807,20.931763",
     "geom:latitude":20.931763,
     "geom:longitude":-101.926807,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.931807,20.926763,-101.921807,20.936763",
     "lbl:latitude":20.931763,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883053,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Fracc Ca\u00f1ada Del Campestre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

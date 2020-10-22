@@ -9,7 +9,6 @@
     "geom:bbox":"-100.143818,19.198498,-100.143818,19.198498",
     "geom:latitude":19.198498,
     "geom:longitude":-100.143818,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.148818,19.193498,-100.138818,19.203498",
     "lbl:latitude":19.198498,
@@ -99,10 +98,7 @@
         }
     ],
     "wof:id":85884769,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Pe\u00f1a Blanca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

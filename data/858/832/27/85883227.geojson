@@ -9,7 +9,6 @@
     "geom:bbox":"-104.380423,19.120093,-104.380423,19.120093",
     "geom:latitude":19.120093,
     "geom:longitude":-104.380423,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.385423,19.115093,-104.375423,19.125093",
     "lbl:latitude":19.120093,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883227,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Ejidal Miramar",
     "wof:parent_id":101996931,
     "wof:placetype":"neighbourhood",

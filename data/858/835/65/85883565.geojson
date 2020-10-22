@@ -9,7 +9,6 @@
     "geom:bbox":"-110.982238,29.081706,-110.982238,29.081706",
     "geom:latitude":29.081706,
     "geom:longitude":-110.982238,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.987238,29.076706,-110.977238,29.086706",
     "lbl:latitude":29.081706,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883565,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Megacentro",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

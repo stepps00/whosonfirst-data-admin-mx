@@ -9,7 +9,6 @@
     "geom:bbox":"-103.472699,25.544704,-103.472699,25.544704",
     "geom:latitude":25.544704,
     "geom:longitude":-103.472699,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.477699,25.539704,-103.467699,25.549704",
     "lbl:latitude":25.544704,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85883533,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Plan de Ayala",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

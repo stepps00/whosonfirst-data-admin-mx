@@ -9,7 +9,6 @@
     "geom:bbox":"-99.031838,19.399136,-99.031838,19.399136",
     "geom:latitude":19.399136,
     "geom:longitude":-99.031838,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.036838,19.394136,-99.026838,19.404136",
     "lbl:latitude":19.399136,
@@ -115,10 +114,7 @@
         }
     ],
     "wof:id":85882775,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242568,
     "wof:name":"Modelo",
     "wof:parent_id":101992489,
     "wof:placetype":"neighbourhood",

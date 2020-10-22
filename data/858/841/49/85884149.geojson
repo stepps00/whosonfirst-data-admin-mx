@@ -9,7 +9,6 @@
     "geom:bbox":"-116.613462,31.780326,-116.613462,31.780326",
     "geom:latitude":31.780326,
     "geom:longitude":-116.613462,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.618462,31.775326,-116.608462,31.785326",
     "lbl:latitude":31.780326,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85884149,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Ejido Chapultepec",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-104.404644,19.107615,-104.404644,19.107615",
     "geom:latitude":19.107615,
     "geom:longitude":-104.404644,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.409644,19.102615,-104.399644,19.112615",
     "lbl:latitude":19.107615,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883187,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Puesta de Sol",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

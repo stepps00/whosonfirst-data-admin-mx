@@ -9,7 +9,6 @@
     "geom:bbox":"-103.263301,20.298584,-103.263301,20.298584",
     "geom:latitude":20.298584,
     "geom:longitude":-103.263301,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.268301,20.293584,-103.258301,20.303584",
     "lbl:latitude":20.298584,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884711,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Ajijic Centro",
     "wof:parent_id":101998065,
     "wof:placetype":"neighbourhood",

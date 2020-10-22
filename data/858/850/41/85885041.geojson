@@ -9,7 +9,6 @@
     "geom:bbox":"-110.948181,31.316101,-110.948181,31.316101",
     "geom:latitude":31.316101,
     "geom:longitude":-110.948181,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.953181,31.311101,-110.943181,31.321101",
     "lbl:latitude":31.316101,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885041,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Bolivar",
     "wof:parent_id":101993821,
     "wof:placetype":"neighbourhood",

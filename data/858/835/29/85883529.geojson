@@ -9,7 +9,6 @@
     "geom:bbox":"-102.568093,22.779375,-102.568093,22.779375",
     "geom:latitude":22.779375,
     "geom:longitude":-102.568093,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.573093,22.774375,-102.563093,22.784375",
     "lbl:latitude":22.779375,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883529,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Barrio Del Tanquesito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

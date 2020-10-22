@@ -9,7 +9,6 @@
     "geom:bbox":"-95.111389,18.419685,-95.111389,18.419685",
     "geom:latitude":18.419685,
     "geom:longitude":-95.111389,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-95.116389,18.414685,-95.106389,18.424685",
     "lbl:latitude":18.419685,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885017,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Catemaco Centro",
     "wof:parent_id":101998211,
     "wof:placetype":"neighbourhood",

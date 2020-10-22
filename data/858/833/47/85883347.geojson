@@ -9,7 +9,6 @@
     "geom:bbox":"-99.243092,18.934217,-99.243092,18.934217",
     "geom:latitude":18.934217,
     "geom:longitude":-99.243092,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.248092,18.929217,-99.238092,18.939217",
     "lbl:latitude":18.934217,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85883347,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Miraval",
     "wof:parent_id":101993267,
     "wof:placetype":"neighbourhood",

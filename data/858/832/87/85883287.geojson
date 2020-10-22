@@ -9,7 +9,6 @@
     "geom:bbox":"-108.991346,25.792283,-108.991346,25.792283",
     "geom:latitude":25.792283,
     "geom:longitude":-108.991346,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-108.996346,25.787283,-108.986346,25.797283",
     "lbl:latitude":25.792283,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883287,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Los Mochis Centro",
     "wof:parent_id":101993793,
     "wof:placetype":"neighbourhood",

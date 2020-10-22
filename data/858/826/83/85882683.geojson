@@ -9,7 +9,6 @@
     "geom:bbox":"-98.199512,19.04482,-98.199512,19.04482",
     "geom:latitude":19.04482,
     "geom:longitude":-98.199512,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.204512,19.03982,-98.194512,19.04982",
     "lbl:latitude":19.04482,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882683,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242575,
     "wof:name":"Puebla Centro",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.063721,18.882898,-99.063721,18.882898",
     "geom:latitude":18.882898,
     "geom:longitude":-99.063721,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.068721,18.877898,-99.058721,18.887898",
     "lbl:latitude":18.882898,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85882955,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Fracc Yautesol",
     "wof:parent_id":101993225,
     "wof:placetype":"neighbourhood",

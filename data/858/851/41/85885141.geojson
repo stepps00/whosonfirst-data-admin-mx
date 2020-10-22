@@ -9,7 +9,6 @@
     "geom:bbox":"-96.76123,17.197164,-96.76123,17.197164",
     "geom:latitude":17.197164,
     "geom:longitude":-96.76123,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.76623,17.192164,-96.75623,17.202164",
     "lbl:latitude":17.197164,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885141,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242583,
     "wof:name":"Barrio San Jose Vista Hermosa",
     "wof:parent_id":101995183,
     "wof:placetype":"neighbourhood",

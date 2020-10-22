@@ -9,7 +9,6 @@
     "geom:bbox":"-98.187851,19.06041,-98.187851,19.06041",
     "geom:latitude":19.06041,
     "geom:longitude":-98.187851,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.192851,19.05541,-98.182851,19.06541",
     "lbl:latitude":19.06041,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884965,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Fracc Jardines Los Fuertes",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

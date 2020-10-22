@@ -9,7 +9,6 @@
     "geom:bbox":"-99.889199,16.860392,-99.889199,16.860392",
     "geom:latitude":16.860392,
     "geom:longitude":-99.889199,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.894199,16.855392,-99.884199,16.865392",
     "lbl:latitude":16.860392,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883045,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Hornos Insurgentes",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

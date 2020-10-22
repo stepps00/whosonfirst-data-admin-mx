@@ -9,7 +9,6 @@
     "geom:bbox":"-98.190705,19.044195,-98.190705,19.044195",
     "geom:latitude":19.044195,
     "geom:longitude":-98.190705,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.195705,19.039195,-98.185705,19.049195",
     "lbl:latitude":19.044195,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882717,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Barrio El Alto",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

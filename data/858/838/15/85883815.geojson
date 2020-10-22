@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2183748603,19.3562580051,-99.1955566406,19.3785225501",
     "geom:latitude":19.367993,
     "geom:longitude":-99.205286,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.363332,
     "lbl:longitude":-99.202241,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883815,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619677,
+    "wof:lastmodified":1603242598,
     "wof:name":"Sociedad Cooperativa Poder Popular",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

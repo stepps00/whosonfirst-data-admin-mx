@@ -9,7 +9,6 @@
     "geom:bbox":"-103.390858,20.654173,-103.390858,20.654173",
     "geom:latitude":20.654173,
     "geom:longitude":-103.390858,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.395858,20.649173,-103.385858,20.659173",
     "lbl:latitude":20.654173,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884575,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Verde Valle",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

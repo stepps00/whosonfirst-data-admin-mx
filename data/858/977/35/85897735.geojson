@@ -9,7 +9,6 @@
     "geom:bbox":"-115.376848,32.614755,-115.376848,32.614755",
     "geom:latitude":32.614755,
     "geom:longitude":-115.376848,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.381848,32.609755,-115.371848,32.619755",
     "lbl:latitude":32.614755,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85897735,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Fracc Haciendas Del Rio",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-103.392858,20.680024,-103.392858,20.680024",
     "geom:latitude":20.680024,
     "geom:longitude":-103.392858,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.397858,20.675024,-103.387858,20.685024",
     "lbl:latitude":20.680024,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884573,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Vallarta Norte",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

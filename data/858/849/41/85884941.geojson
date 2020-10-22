@@ -9,7 +9,6 @@
     "geom:bbox":"-103.285217,20.578796,-103.285217,20.578796",
     "geom:latitude":20.578796,
     "geom:longitude":-103.285217,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.290217,20.573796,-103.280217,20.583796",
     "lbl:latitude":20.578796,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884941,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Plan de Oriente",
     "wof:parent_id":101997853,
     "wof:placetype":"neighbourhood",

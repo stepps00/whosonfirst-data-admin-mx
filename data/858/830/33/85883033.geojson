@@ -9,7 +9,6 @@
     "geom:bbox":"-101.219788,19.680092,-101.219788,19.680092",
     "geom:latitude":19.680092,
     "geom:longitude":-101.219788,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.224788,19.675092,-101.214788,19.685092",
     "lbl:latitude":19.680092,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883033,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Rinconada Del Valle",
     "wof:parent_id":101997341,
     "wof:placetype":"neighbourhood",

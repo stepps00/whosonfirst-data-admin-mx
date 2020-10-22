@@ -9,7 +9,6 @@
     "geom:bbox":"-98.164216,19.078354,-98.164216,19.078354",
     "geom:latitude":19.078354,
     "geom:longitude":-98.164216,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.169216,19.073354,-98.159216,19.083354",
     "lbl:latitude":19.078354,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882711,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Villa Deportiva",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

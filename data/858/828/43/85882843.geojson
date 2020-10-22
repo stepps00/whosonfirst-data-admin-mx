@@ -9,7 +9,6 @@
     "geom:bbox":"-101.642761,21.194654,-101.642761,21.194654",
     "geom:latitude":21.194654,
     "geom:longitude":-101.642761,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.647761,21.189654,-101.637761,21.199654",
     "lbl:latitude":21.194654,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85882843,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242574,
     "wof:name":"Ibarrilla Poniente",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

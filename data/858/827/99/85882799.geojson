@@ -9,7 +9,6 @@
     "geom:bbox":"-96.136125,19.199803,-96.136125,19.199803",
     "geom:latitude":19.199803,
     "geom:longitude":-96.136125,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.141125,19.194803,-96.131125,19.204803",
     "lbl:latitude":19.199803,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882799,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242568,
     "wof:name":"Fracc Faros",
     "wof:parent_id":101998843,
     "wof:placetype":"neighbourhood",

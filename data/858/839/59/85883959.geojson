@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1653442383,19.4355143326,-99.1543579102,19.445874293",
     "geom:latitude":19.440694,
     "geom:longitude":-99.1604,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.440518,
     "lbl:longitude":-99.159123,
@@ -162,10 +161,7 @@
         }
     ],
     "wof:id":85883959,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619704,
+    "wof:lastmodified":1603242604,
     "wof:name":"San Rafael",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

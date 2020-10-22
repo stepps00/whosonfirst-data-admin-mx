@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1653442383,19.3500194714,-99.1516113281,19.3584813997",
     "geom:latitude":19.354459,
     "geom:longitude":-99.15894,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.354678,
     "lbl:longitude":-99.161431,
@@ -109,10 +108,7 @@
         }
     ],
     "wof:id":85883929,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242604,
     "wof:name":"Del Carmen",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

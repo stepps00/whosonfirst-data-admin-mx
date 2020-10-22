@@ -9,7 +9,6 @@
     "geom:bbox":"-100.360655,25.655144,-100.360655,25.655144",
     "geom:latitude":25.655144,
     "geom:longitude":-100.360655,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.365655,25.650144,-100.355655,25.660144",
     "lbl:latitude":25.655144,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883873,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242597,
     "wof:name":"Los Doctores",
     "wof:parent_id":102000745,
     "wof:placetype":"neighbourhood",

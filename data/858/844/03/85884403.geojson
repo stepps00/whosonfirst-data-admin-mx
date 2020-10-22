@@ -9,7 +9,6 @@
     "geom:bbox":"-99.23172,19.491364,-99.23172,19.491364",
     "geom:latitude":19.491364,
     "geom:longitude":-99.23172,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.23672,19.486364,-99.22672,19.496364",
     "lbl:latitude":19.491364,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884403,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242577,
     "wof:name":"Hacienda de Echegaray",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

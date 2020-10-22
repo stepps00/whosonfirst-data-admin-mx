@@ -9,7 +9,6 @@
     "geom:bbox":"-103.386921,20.67155,-103.386921,20.67155",
     "geom:latitude":20.67155,
     "geom:longitude":-103.386921,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.391921,20.66655,-103.381921,20.67655",
     "lbl:latitude":20.67155,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85884581,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Vallarta",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

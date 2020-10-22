@@ -9,7 +9,6 @@
     "geom:bbox":"-102.293703,21.860694,-102.293703,21.860694",
     "geom:latitude":21.860694,
     "geom:longitude":-102.293703,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.298703,21.855694,-102.288703,21.865694",
     "lbl:latitude":21.860694,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85882751,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Fracc Jardines de la Asuncion",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

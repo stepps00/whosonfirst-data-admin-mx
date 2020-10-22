@@ -9,7 +9,6 @@
     "geom:bbox":"-99.231262,19.58308,-99.231262,19.58308",
     "geom:latitude":19.58308,
     "geom:longitude":-99.231262,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.236262,19.57808,-99.226262,19.58808",
     "lbl:latitude":19.58308,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883151,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242598,
     "wof:name":"Lomas de la Hacienda",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",

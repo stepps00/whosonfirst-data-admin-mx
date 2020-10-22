@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1604999187,19.3681584645,-99.1461181641,19.3837046284",
     "geom:latitude":19.375529,
     "geom:longitude":-99.153333,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.379293,
     "lbl:longitude":-99.156598,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85883713,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619698,
+    "wof:lastmodified":1603242602,
     "wof:name":"Letran Valle",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

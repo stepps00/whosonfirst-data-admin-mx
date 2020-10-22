@@ -9,7 +9,6 @@
     "geom:bbox":"-115.479431,32.623527,-115.479431,32.623527",
     "geom:latitude":32.623527,
     "geom:longitude":-115.479431,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.484431,32.618527,-115.474431,32.628527",
     "lbl:latitude":32.623527,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85883329,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Fracc Las Flores",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

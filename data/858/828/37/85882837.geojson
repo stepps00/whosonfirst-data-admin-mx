@@ -9,7 +9,6 @@
     "geom:bbox":"-99.995644,16.917566,-99.995644,16.917566",
     "geom:latitude":16.917566,
     "geom:longitude":-99.995644,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.000644,16.912566,-99.990644,16.922566",
     "lbl:latitude":16.917566,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85882837,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242574,
     "wof:name":"Playa Hermosa Vicente Guerrero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

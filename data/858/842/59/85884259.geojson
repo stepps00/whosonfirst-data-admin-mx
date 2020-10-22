@@ -9,7 +9,6 @@
     "geom:bbox":"-101.256667,21.04793,-101.256667,21.04793",
     "geom:latitude":21.04793,
     "geom:longitude":-101.256667,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.261667,21.04293,-101.251667,21.05293",
     "lbl:latitude":21.04793,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884259,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242572,
     "wof:name":"Cerro de la Garantiza",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

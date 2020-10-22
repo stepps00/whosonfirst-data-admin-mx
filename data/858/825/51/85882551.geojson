@@ -9,7 +9,6 @@
     "geom:bbox":"-117.046817,32.53406,-117.046817,32.53406",
     "geom:latitude":32.53406,
     "geom:longitude":-117.046817,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.051817,32.52906,-117.041817,32.53906",
     "lbl:latitude":32.53406,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85882551,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Zona Norte",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

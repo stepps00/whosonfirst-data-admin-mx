@@ -9,7 +9,6 @@
     "geom:bbox":"-110.947303,29.097684,-110.947303,29.097684",
     "geom:latitude":29.097684,
     "geom:longitude":-110.947303,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.952303,29.092684,-110.942303,29.102684",
     "lbl:latitude":29.097684,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882699,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Constitucion",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-96.992364,19.409748,-96.992364,19.409748",
     "geom:latitude":19.409748,
     "geom:longitude":-96.992364,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.997364,19.404748,-96.987364,19.414748",
     "lbl:latitude":19.409748,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85885009,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"El Haya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

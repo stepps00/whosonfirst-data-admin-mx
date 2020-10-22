@@ -9,7 +9,6 @@
     "geom:bbox":"-90.568162,19.824819,-90.568162,19.824819",
     "geom:latitude":19.824819,
     "geom:longitude":-90.568162,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-90.573162,19.819819,-90.563162,19.829819",
     "lbl:latitude":19.824819,
@@ -136,10 +135,7 @@
         }
     ],
     "wof:id":85882511,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Miramar",
     "wof:parent_id":102001379,
     "wof:placetype":"neighbourhood",

@@ -473,8 +473,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        102074669,
-        85686603
+        85686603,
+        102074669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -504,10 +504,7 @@
         }
     ],
     "wof:id":101997865,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1587428931,
+    "wof:lastmodified":1603242978,
     "wof:megacity":1,
     "wof:name":"Guadalajara",
     "wof:parent_id":102074669,

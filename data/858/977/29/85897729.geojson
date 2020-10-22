@@ -9,7 +9,6 @@
     "geom:bbox":"-88.333608,18.512725,-88.333608,18.512725",
     "geom:latitude":18.512725,
     "geom:longitude":-88.333608,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-88.338608,18.507725,-88.328608,18.517725",
     "lbl:latitude":18.512725,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85897729,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Los Almendros",
     "wof:parent_id":102001489,
     "wof:placetype":"neighbourhood",

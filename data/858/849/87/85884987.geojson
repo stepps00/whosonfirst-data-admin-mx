@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1845703125,19.4219186222,-99.1787528094,19.4303341116",
     "geom:latitude":19.426003,
     "geom:longitude":-99.181598,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.424846,
     "lbl:longitude":-99.181374,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884987,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619650,
+    "wof:lastmodified":1603242592,
     "wof:name":"Rincon Del Bosque",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

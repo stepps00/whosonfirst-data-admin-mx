@@ -9,7 +9,6 @@
     "geom:bbox":"-100.977088,22.1496,-100.977088,22.1496",
     "geom:latitude":22.1496,
     "geom:longitude":-100.977088,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.982088,22.1446,-100.972088,22.1546",
     "lbl:latitude":22.1496,
@@ -110,10 +109,7 @@
         }
     ],
     "wof:id":85882625,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242576,
     "wof:name":"San Luis Potosi Centro",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

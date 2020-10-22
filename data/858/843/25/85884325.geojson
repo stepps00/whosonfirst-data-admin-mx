@@ -9,7 +9,6 @@
     "geom:bbox":"-99.191361685,19.307255208,-99.1831970215,19.3189193205",
     "geom:latitude":19.312966,
     "geom:longitude":-99.187363,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.313958,
     "lbl:longitude":-99.185365,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884325,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619585,
+    "wof:lastmodified":1603242577,
     "wof:name":"Ampl Insurgentes Cuicuilco",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

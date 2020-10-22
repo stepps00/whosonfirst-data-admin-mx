@@ -9,7 +9,6 @@
     "geom:bbox":"-100.282923,25.677084,-100.282923,25.677084",
     "geom:latitude":25.677084,
     "geom:longitude":-100.282923,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.287923,25.672084,-100.277923,25.682084",
     "lbl:latitude":25.677084,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884083,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242595,
     "wof:name":"Parque Fundidora",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

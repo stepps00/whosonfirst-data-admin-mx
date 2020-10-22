@@ -9,7 +9,6 @@
     "geom:bbox":"-100.252991,25.76774,-100.252991,25.76774",
     "geom:latitude":25.76774,
     "geom:longitude":-100.252991,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.257991,25.76274,-100.247991,25.77274",
     "lbl:latitude":25.76774,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882629,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Pedreras de la Enramada",
     "wof:parent_id":102000809,
     "wof:placetype":"neighbourhood",

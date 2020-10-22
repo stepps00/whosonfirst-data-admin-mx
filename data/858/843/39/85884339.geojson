@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1763305664,19.3700618135,-99.1653442383,19.3811137101",
     "geom:latitude":19.375371,
     "geom:longitude":-99.171428,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.374261,
     "lbl:longitude":-99.172636,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85884339,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619583,
+    "wof:lastmodified":1603242576,
     "wof:name":"Centro Urbano Presidente Aleman",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

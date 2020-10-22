@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1254425105,19.4691817775,-99.1173553411,19.4731469554",
     "geom:latitude":19.470977,
     "geom:longitude":-99.121399,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.470476,
     "lbl:longitude":-99.121712,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884047,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619666,
+    "wof:lastmodified":1603242595,
     "wof:name":"Guadalupe Tepeyac",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

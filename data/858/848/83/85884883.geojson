@@ -9,7 +9,6 @@
     "geom:bbox":"-103.463261,20.604032,-103.463261,20.604032",
     "geom:latitude":20.604032,
     "geom:longitude":-103.463261,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.468261,20.599032,-103.458261,20.609032",
     "lbl:latitude":20.604032,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884883,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Ciudad Bugambilia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

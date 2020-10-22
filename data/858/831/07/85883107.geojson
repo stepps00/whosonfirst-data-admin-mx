@@ -9,7 +9,6 @@
     "geom:bbox":"-110.991367,29.088958,-110.991367,29.088958",
     "geom:latitude":29.088958,
     "geom:longitude":-110.991367,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.996367,29.083958,-110.986367,29.093958",
     "lbl:latitude":29.088958,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883107,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Staus",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

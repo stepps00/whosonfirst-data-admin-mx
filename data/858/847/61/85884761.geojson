@@ -9,7 +9,6 @@
     "geom:bbox":"-100.125013,19.165489,-100.125013,19.165489",
     "geom:latitude":19.165489,
     "geom:longitude":-100.125013,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.130013,19.160489,-100.120013,19.170489",
     "lbl:latitude":19.165489,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884761,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242592,
     "wof:name":"Barrio Balcones",
     "wof:parent_id":101991621,
     "wof:placetype":"neighbourhood",

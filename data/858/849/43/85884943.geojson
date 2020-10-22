@@ -9,7 +9,6 @@
     "geom:bbox":"-105.293099,20.688715,-105.293099,20.688715",
     "geom:latitude":20.688715,
     "geom:longitude":-105.293099,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.298099,20.683715,-105.288099,20.693715",
     "lbl:latitude":20.688715,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884943,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Ejido Las Jarretaderas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

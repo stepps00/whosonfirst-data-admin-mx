@@ -9,7 +9,6 @@
     "geom:bbox":"-89.617071,20.973267,-89.617071,20.973267",
     "geom:latitude":20.973267,
     "geom:longitude":-89.617071,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.622071,20.968267,-89.612071,20.978267",
     "lbl:latitude":20.973267,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882467,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Zona Industrial Cordemex",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

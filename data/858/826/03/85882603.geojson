@@ -9,7 +9,6 @@
     "geom:bbox":"-101.660155,21.115028,-101.660155,21.115028",
     "geom:latitude":21.115028,
     "geom:longitude":-101.660155,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.665155,21.110028,-101.655155,21.120028",
     "lbl:latitude":21.115028,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882603,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242574,
     "wof:name":"La Martinica",
     "wof:parent_id":101996837,
     "wof:placetype":"neighbourhood",

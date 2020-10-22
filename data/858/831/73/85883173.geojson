@@ -9,7 +9,6 @@
     "geom:bbox":"-116.897278,32.475014,-116.897278,32.475014",
     "geom:latitude":32.475014,
     "geom:longitude":-116.897278,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.902278,32.470014,-116.892278,32.480014",
     "lbl:latitude":32.475014,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85883173,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Ca\u00f1on de la Raza",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

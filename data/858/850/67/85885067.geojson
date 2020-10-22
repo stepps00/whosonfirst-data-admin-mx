@@ -9,7 +9,6 @@
     "geom:bbox":"-99.341125,19.908801,-99.341125,19.908801",
     "geom:latitude":19.908801,
     "geom:longitude":-99.341125,
-    "gn:id":"",
     "gn:population":33196,
     "iso:country":"MX",
     "lbl:bbox":"-99.346125,19.903801,-99.336125,19.913801",
@@ -78,11 +77,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686665,
         102191575,
         85633293,
-        102078623,
         102000241,
-        85686665
+        102078623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,10 +109,7 @@
         }
     ],
     "wof:id":85885067,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1587428927,
+    "wof:lastmodified":1603242579,
     "wof:name":"Tepeji Del Rio de Ocampo",
     "wof:parent_id":102000241,
     "wof:placetype":"neighbourhood",

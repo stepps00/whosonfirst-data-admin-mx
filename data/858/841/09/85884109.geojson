@@ -9,7 +9,6 @@
     "geom:bbox":"-106.411334,23.205724,-106.411334,23.205724",
     "geom:latitude":23.205724,
     "geom:longitude":-106.411334,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.416334,23.200724,-106.406334,23.210724",
     "lbl:latitude":23.205724,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884109,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Gabriel Leyva",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

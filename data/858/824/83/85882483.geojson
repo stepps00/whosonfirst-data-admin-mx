@@ -9,7 +9,6 @@
     "geom:bbox":"-100.408362,20.593138,-100.408362,20.593138",
     "geom:latitude":20.593138,
     "geom:longitude":-100.408362,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.413362,20.588138,-100.403362,20.598138",
     "lbl:latitude":20.593138,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85882483,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242591,
     "wof:name":"Centro Universitario",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

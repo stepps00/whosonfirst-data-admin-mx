@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1522601824,19.3723089753,-99.137878418,19.3862955056",
     "geom:latitude":19.379242,
     "geom:longitude":-99.146046,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.378815,
     "lbl:longitude":-99.149487,
@@ -130,10 +129,7 @@
         }
     ],
     "wof:id":85884079,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619664,
+    "wof:lastmodified":1603242595,
     "wof:name":"Independencia",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-100.340881,25.703413,-100.340881,25.703413",
     "geom:latitude":25.703413,
     "geom:longitude":-100.340881,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.345881,25.698413,-100.335881,25.708413",
     "lbl:latitude":25.703413,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883965,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242605,
     "wof:name":"Mitras Norte",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

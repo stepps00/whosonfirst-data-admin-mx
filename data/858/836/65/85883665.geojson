@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1588647461,19.4873074772,-99.1461181641,19.4924859262",
     "geom:latitude":19.489855,
     "geom:longitude":-99.152316,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.489897,
     "lbl:longitude":-99.148865,
@@ -108,10 +107,7 @@
         }
     ],
     "wof:id":85883665,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Nueva Vallejo",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

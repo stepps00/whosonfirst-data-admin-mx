@@ -9,7 +9,6 @@
     "geom:bbox":"-95.992493,19.062118,-95.992493,19.062118",
     "geom:latitude":19.062118,
     "geom:longitude":-95.992493,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-95.997493,19.057118,-95.987493,19.067118",
     "lbl:latitude":19.062118,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85885005,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Z Milit Hca Escuela Naval Militar",
     "wof:parent_id":101998145,
     "wof:placetype":"neighbourhood",

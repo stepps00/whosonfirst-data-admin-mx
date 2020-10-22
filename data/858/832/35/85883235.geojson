@@ -9,7 +9,6 @@
     "geom:bbox":"-104.365723,19.120517,-104.365723,19.120517",
     "geom:latitude":19.120517,
     "geom:longitude":-104.365723,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.370723,19.115517,-104.360723,19.125517",
     "lbl:latitude":19.120517,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883235,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Colimas de Santiago",
     "wof:parent_id":101996931,
     "wof:placetype":"neighbourhood",

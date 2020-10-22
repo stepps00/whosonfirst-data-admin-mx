@@ -9,7 +9,6 @@
     "geom:bbox":"-102.066428,26.98847,-102.066428,26.98847",
     "geom:latitude":26.98847,
     "geom:longitude":-102.066428,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.071428,26.98347,-102.061428,26.99347",
     "lbl:latitude":26.98847,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85883041,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Ampl Benito Juarez",
     "wof:parent_id":102000939,
     "wof:placetype":"neighbourhood",

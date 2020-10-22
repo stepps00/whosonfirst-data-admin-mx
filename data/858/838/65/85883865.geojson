@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1752815684,19.4448425332,-99.1625976562,19.456233596",
     "geom:latitude":19.450043,
     "geom:longitude":-99.169385,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.449551,
     "lbl:longitude":-99.170804,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883865,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619675,
+    "wof:lastmodified":1603242598,
     "wof:name":"Un Hogar Para Nosotros",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

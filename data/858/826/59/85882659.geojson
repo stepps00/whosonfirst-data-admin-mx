@@ -9,7 +9,6 @@
     "geom:bbox":"-98.96993,18.904591,-98.96993,18.904591",
     "geom:latitude":18.904591,
     "geom:longitude":-98.96993,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.97493,18.899591,-98.96493,18.909591",
     "lbl:latitude":18.904591,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85882659,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242574,
     "wof:name":"Fracc Huertas de Oaxtepec",
     "wof:parent_id":101993273,
     "wof:placetype":"neighbourhood",

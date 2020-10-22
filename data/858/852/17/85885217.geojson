@@ -9,7 +9,6 @@
     "geom:bbox":"-92.633423,16.728275,-92.633423,16.728275",
     "geom:latitude":16.728275,
     "geom:longitude":-92.633423,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.638423,16.723275,-92.628423,16.733275",
     "lbl:latitude":16.728275,
@@ -96,10 +95,7 @@
         }
     ],
     "wof:id":85885217,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242606,
     "wof:name":"Barrio Santa Lucia",
     "wof:parent_id":101994509,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.0087890625,19.3503848647,-98.9754431152,19.3755673195",
     "geom:latitude":19.362383,
     "geom:longitude":-98.992,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.363852,
     "lbl:longitude":-98.987093,
@@ -69,10 +68,7 @@
         }
     ],
     "wof:id":85884341,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242577,
     "wof:name":"Lomas de Zaragoza",
     "wof:parent_id":101992407,
     "wof:placetype":"neighbourhood",

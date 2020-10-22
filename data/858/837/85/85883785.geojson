@@ -9,7 +9,6 @@
     "geom:bbox":"-103.346503,20.676262,-103.346503,20.676262",
     "geom:latitude":20.676262,
     "geom:longitude":-103.346503,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.351503,20.671262,-103.341503,20.681262",
     "lbl:latitude":20.676262,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85883785,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242602,
     "wof:name":"Fracc Guadalajara",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

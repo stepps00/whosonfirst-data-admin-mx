@@ -9,7 +9,6 @@
     "geom:bbox":"-116.923054,32.462535,-116.923054,32.462535",
     "geom:latitude":32.462535,
     "geom:longitude":-116.923054,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.928054,32.457535,-116.918054,32.467535",
     "lbl:latitude":32.462535,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85883449,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Los Venados",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

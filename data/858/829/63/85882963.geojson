@@ -9,7 +9,6 @@
     "geom:bbox":"-99.83551,16.849234,-99.83551,16.849234",
     "geom:latitude":16.849234,
     "geom:longitude":-99.83551,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.84051,16.844234,-99.83051,16.854234",
     "lbl:latitude":16.849234,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85882963,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Alta Icacos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

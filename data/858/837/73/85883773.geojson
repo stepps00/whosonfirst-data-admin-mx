@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2010498047,19.3241030817,-99.1873168945,19.3372337415",
     "geom:latitude":19.329503,
     "geom:longitude":-99.194284,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.331903,
     "lbl:longitude":-99.191603,
@@ -102,10 +101,7 @@
         }
     ],
     "wof:id":85883773,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619693,
+    "wof:lastmodified":1603242601,
     "wof:name":"La Otra Banda",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

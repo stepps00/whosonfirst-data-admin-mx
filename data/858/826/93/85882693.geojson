@@ -9,7 +9,6 @@
     "geom:bbox":"-99.892991,16.831496,-99.892991,16.831496",
     "geom:latitude":16.831496,
     "geom:longitude":-99.892991,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.897991,16.826496,-99.887991,16.836496",
     "lbl:latitude":16.831496,
@@ -78,10 +77,7 @@
         }
     ],
     "wof:id":85882693,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242574,
     "wof:name":"Peninsula de Las Playas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

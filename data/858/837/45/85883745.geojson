@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1708374023,19.3552022599,-99.1653442383,19.3603848797",
     "geom:latitude":19.357362,
     "geom:longitude":-99.167633,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.356916,
     "lbl:longitude":-99.168757,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883745,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619693,
+    "wof:lastmodified":1603242601,
     "wof:name":"Ampl Del Carmen",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

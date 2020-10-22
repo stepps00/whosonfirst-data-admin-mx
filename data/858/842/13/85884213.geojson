@@ -9,7 +9,6 @@
     "geom:bbox":"-102.518444,22.748102,-102.518444,22.748102",
     "geom:latitude":22.748102,
     "geom:longitude":-102.518444,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.523444,22.743102,-102.513444,22.753102",
     "lbl:latitude":22.748102,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85884213,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242573,
     "wof:name":"San Jose de la Piedrera",
     "wof:parent_id":101992875,
     "wof:placetype":"neighbourhood",

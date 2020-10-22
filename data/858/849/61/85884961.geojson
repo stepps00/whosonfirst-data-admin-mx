@@ -9,7 +9,6 @@
     "geom:bbox":"-103.377001,20.735838,-103.377001,20.735838",
     "geom:latitude":20.735838,
     "geom:longitude":-103.377001,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.382001,20.730838,-103.372001,20.740838",
     "lbl:latitude":20.735838,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884961,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242591,
     "wof:name":"Fracc Villas de San Ignacio",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

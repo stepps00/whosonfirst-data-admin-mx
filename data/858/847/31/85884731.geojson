@@ -9,7 +9,6 @@
     "geom:bbox":"-103.463723,19.703961,-103.463723,19.703961",
     "geom:latitude":19.703961,
     "geom:longitude":-103.463723,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.468723,19.698961,-103.458723,19.708961",
     "lbl:latitude":19.703961,
@@ -115,10 +114,7 @@
         }
     ],
     "wof:id":85884731,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Ciudad Guzman Centro",
     "wof:parent_id":101997617,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-103.325122,20.716067,-103.325122,20.716067",
     "geom:latitude":20.716067,
     "geom:longitude":-103.325122,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.330122,20.711067,-103.320122,20.721067",
     "lbl:latitude":20.716067,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884451,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147371,
+    "wof:lastmodified":1603242577,
     "wof:name":"Lomas de Independencia",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

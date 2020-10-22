@@ -9,7 +9,6 @@
     "geom:bbox":"-97.358614,19.818143,-97.358614,19.818143",
     "geom:latitude":19.818143,
     "geom:longitude":-97.358614,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.363614,19.813143,-97.353614,19.823143",
     "lbl:latitude":19.818143,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884751,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Teziutlan Centro",
     "wof:parent_id":101999901,
     "wof:placetype":"neighbourhood",

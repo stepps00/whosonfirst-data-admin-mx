@@ -9,7 +9,6 @@
     "geom:bbox":"-103.401947,20.650994,-103.401947,20.650994",
     "geom:latitude":20.650994,
     "geom:longitude":-103.401947,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.406947,20.645994,-103.396947,20.655994",
     "lbl:latitude":20.650994,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884879,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Rinconada Del Sol",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

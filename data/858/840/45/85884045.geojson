@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1598510742,19.3189192178,-99.1516113281,19.3323169997",
     "geom:latitude":19.326126,
     "geom:longitude":-99.154703,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.326868,
     "lbl:longitude":-99.154358,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884045,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619662,
+    "wof:lastmodified":1603242594,
     "wof:name":"Ajusco Huayamilpas",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

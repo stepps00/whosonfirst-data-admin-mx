@@ -9,7 +9,6 @@
     "geom:bbox":"-105.233564,20.638705,-105.233564,20.638705",
     "geom:latitude":20.638705,
     "geom:longitude":-105.233564,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-105.238564,20.633705,-105.228564,20.643705",
     "lbl:latitude":20.638705,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884641,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242589,
     "wof:name":"Los Tabachines",
     "wof:parent_id":101997965,
     "wof:placetype":"neighbourhood",

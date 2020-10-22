@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1763305664,19.3837046277,-99.1652198754,19.3914771419",
     "geom:latitude":19.387869,
     "geom:longitude":-99.170416,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.387339,
     "lbl:longitude":-99.172649,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85883999,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619710,
+    "wof:lastmodified":1603242605,
     "wof:name":"Del Valle Centro",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.992983,21.933475,-99.992983,21.933475",
     "geom:latitude":21.933475,
     "geom:longitude":-99.992983,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.997983,21.928475,-99.987983,21.938475",
     "lbl:latitude":21.933475,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883163,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Rio Verde Centro",
     "wof:parent_id":101996477,
     "wof:placetype":"neighbourhood",

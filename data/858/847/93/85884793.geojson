@@ -9,7 +9,6 @@
     "geom:bbox":"-109.933494,22.874004,-109.933494,22.874004",
     "geom:latitude":22.874004,
     "geom:longitude":-109.933494,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.938494,22.869004,-109.928494,22.879004",
     "lbl:latitude":22.874004,
@@ -81,10 +80,7 @@
         }
     ],
     "wof:id":85884793,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Fracc Colinas Del Cabo Baja",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

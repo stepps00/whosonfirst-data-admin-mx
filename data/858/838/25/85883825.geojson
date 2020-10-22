@@ -9,7 +9,6 @@
     "geom:bbox":"-100.261632,25.661578,-100.261632,25.661578",
     "geom:latitude":25.661578,
     "geom:longitude":-100.261632,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.266632,25.656578,-100.256632,25.666578",
     "lbl:latitude":25.661578,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883825,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242598,
     "wof:name":"Ancon Del Huajuco",
     "wof:parent_id":102000723,
     "wof:placetype":"neighbourhood",

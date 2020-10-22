@@ -9,7 +9,6 @@
     "geom:bbox":"-93.374903,17.987493,-93.374903,17.987493",
     "geom:latitude":17.987493,
     "geom:longitude":-93.374903,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-93.379903,17.982493,-93.369903,17.992493",
     "lbl:latitude":17.987493,
@@ -147,10 +146,7 @@
         }
     ],
     "wof:id":85885249,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147393,
+    "wof:lastmodified":1603242606,
     "wof:name":"Carlos Pellicer Camara",
     "wof:parent_id":101994793,
     "wof:placetype":"neighbourhood",

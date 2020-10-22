@@ -9,7 +9,6 @@
     "geom:bbox":"-100.17343,19.80558,-100.17343,19.80558",
     "geom:latitude":19.80558,
     "geom:longitude":-100.17343,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.17843,19.80058,-100.16843,19.81058",
     "lbl:latitude":19.80558,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885205,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242606,
     "wof:name":"Tlalpujahua Centro",
     "wof:parent_id":101997375,
     "wof:placetype":"neighbourhood",

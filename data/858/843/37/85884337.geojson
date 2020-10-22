@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1818237305,19.3862955056,-99.1735839844,19.3966586019",
     "geom:latitude":19.390831,
     "geom:longitude":-99.178729,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.390993,
     "lbl:longitude":-99.178077,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85884337,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619583,
+    "wof:lastmodified":1603242576,
     "wof:name":"Ampl Napoles",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

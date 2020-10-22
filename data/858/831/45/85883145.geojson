@@ -9,7 +9,6 @@
     "geom:bbox":"-116.891785,32.502811,-116.891785,32.502811",
     "geom:latitude":32.502811,
     "geom:longitude":-116.891785,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.896785,32.497811,-116.886785,32.507811",
     "lbl:latitude":32.502811,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883145,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Las Misiones",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

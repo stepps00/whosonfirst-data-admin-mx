@@ -9,7 +9,6 @@
     "geom:bbox":"-100.138184,19.209503,-100.138184,19.209503",
     "geom:latitude":19.209503,
     "geom:longitude":-100.138184,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.143184,19.204503,-100.133184,19.214503",
     "lbl:latitude":19.209503,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884773,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Issemym",
     "wof:parent_id":101991621,
     "wof:placetype":"neighbourhood",

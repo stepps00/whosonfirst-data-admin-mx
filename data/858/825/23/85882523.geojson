@@ -9,7 +9,6 @@
     "geom:bbox":"-102.296448,21.926344,-102.296448,21.926344",
     "geom:latitude":21.926344,
     "geom:longitude":-102.296448,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.301448,21.921344,-102.291448,21.931344",
     "lbl:latitude":21.926344,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882523,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242596,
     "wof:name":"Fracc Villas de San Nicolas",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

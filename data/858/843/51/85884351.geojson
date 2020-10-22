@@ -9,7 +9,6 @@
     "geom:bbox":"-98.849351,19.685788,-98.849351,19.685788",
     "geom:latitude":19.685788,
     "geom:longitude":-98.849351,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.854351,19.680788,-98.844351,19.690788",
     "lbl:latitude":19.685788,
@@ -81,10 +80,7 @@
         }
     ],
     "wof:id":85884351,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242576,
     "wof:name":"Zona Arqueologica de Teotihuacan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

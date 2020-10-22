@@ -9,7 +9,6 @@
     "geom:bbox":"-89.578114,20.963972,-89.578114,20.963972",
     "geom:latitude":20.963972,
     "geom:longitude":-89.578114,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-89.583114,20.958972,-89.573114,20.968972",
     "lbl:latitude":20.963972,
@@ -344,10 +343,7 @@
         }
     ],
     "wof:id":85883573,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Chichen Itza",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

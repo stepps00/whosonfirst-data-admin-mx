@@ -9,7 +9,6 @@
     "geom:bbox":"-109.446914,27.077814,-109.446914,27.077814",
     "geom:latitude":27.077814,
     "geom:longitude":-109.446914,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.451914,27.072814,-109.441914,27.082814",
     "lbl:latitude":27.077814,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85885043,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Reforma",
     "wof:parent_id":101993973,
     "wof:placetype":"neighbourhood",

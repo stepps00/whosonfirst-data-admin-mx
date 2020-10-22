@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1790771484,19.3759317485,-99.1708374023,19.3862955113",
     "geom:latitude":19.381446,
     "geom:longitude":-99.17531,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.381377,
     "lbl:longitude":-99.175185,
@@ -101,10 +100,7 @@
         }
     ],
     "wof:id":85883689,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619686,
+    "wof:lastmodified":1603242600,
     "wof:name":"Noche Buena",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

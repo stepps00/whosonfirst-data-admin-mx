@@ -9,7 +9,6 @@
     "geom:bbox":"-110.96276,29.08433,-110.96276,29.08433",
     "geom:latitude":29.08433,
     "geom:longitude":-110.96276,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.96776,29.07933,-110.95776,29.08933",
     "lbl:latitude":29.08433,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85883413,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Universidad de Sonora",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

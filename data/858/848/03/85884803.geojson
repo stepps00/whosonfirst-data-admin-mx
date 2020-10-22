@@ -9,7 +9,6 @@
     "geom:bbox":"-109.701735,23.040868,-109.701735,23.040868",
     "geom:latitude":23.040868,
     "geom:longitude":-109.701735,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.706735,23.035868,-109.696735,23.045868",
     "lbl:latitude":23.040868,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884803,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Club de Golf Residencial",
     "wof:parent_id":101993435,
     "wof:placetype":"neighbourhood",

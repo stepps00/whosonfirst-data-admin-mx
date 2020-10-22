@@ -9,7 +9,6 @@
     "geom:bbox":"-110.927555,29.071765,-110.927555,29.071765",
     "geom:latitude":29.071765,
     "geom:longitude":-110.927555,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.932555,29.066765,-110.922555,29.076765",
     "lbl:latitude":29.071765,
@@ -256,10 +255,7 @@
         }
     ],
     "wof:id":85882687,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Sauces",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-98.050232,18.205872,-98.050232,18.205872",
     "geom:latitude":18.205872,
     "geom:longitude":-98.050232,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.055232,18.200872,-98.045232,18.210872",
     "lbl:latitude":18.205872,
@@ -135,10 +134,7 @@
         }
     ],
     "wof:id":85884753,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"San Gabriel",
     "wof:parent_id":101999235,
     "wof:placetype":"neighbourhood",

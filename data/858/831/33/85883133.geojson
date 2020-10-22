@@ -9,7 +9,6 @@
     "geom:bbox":"-96.728821,17.050949,-96.728821,17.050949",
     "geom:latitude":17.050949,
     "geom:longitude":-96.728821,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.733821,17.045949,-96.723821,17.055949",
     "lbl:latitude":17.050949,
@@ -99,10 +98,7 @@
         }
     ],
     "wof:id":85883133,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242598,
     "wof:name":"El Pueblito",
     "wof:parent_id":101995147,
     "wof:placetype":"neighbourhood",

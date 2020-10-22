@@ -9,7 +9,6 @@
     "geom:bbox":"-99.654412,19.252686,-99.654412,19.252686",
     "geom:latitude":19.252686,
     "geom:longitude":-99.654412,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.659412,19.247686,-99.649412,19.257686",
     "lbl:latitude":19.252686,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883185,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Bosques de Colon",
     "wof:parent_id":101991705,
     "wof:placetype":"neighbourhood",

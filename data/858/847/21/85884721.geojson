@@ -9,7 +9,6 @@
     "geom:bbox":"-97.14798,18.267174,-97.14798,18.267174",
     "geom:latitude":18.267174,
     "geom:longitude":-97.14798,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.15298,18.262174,-97.14298,18.272174",
     "lbl:latitude":18.267174,
@@ -127,10 +126,7 @@
         }
     ],
     "wof:id":85884721,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"El Calvario",
     "wof:parent_id":101999345,
     "wof:placetype":"neighbourhood",

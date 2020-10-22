@@ -9,7 +9,6 @@
     "geom:bbox":"-106.067734,28.646474,-106.067734,28.646474",
     "geom:latitude":28.646474,
     "geom:longitude":-106.067734,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.072734,28.641474,-106.062734,28.651474",
     "lbl:latitude":28.646474,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882679,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242575,
     "wof:name":"Tiradores",
     "wof:parent_id":101994137,
     "wof:placetype":"neighbourhood",

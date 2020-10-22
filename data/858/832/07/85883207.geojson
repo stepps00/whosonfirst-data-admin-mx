@@ -9,7 +9,6 @@
     "geom:bbox":"-87.059475,20.644097,-87.059475,20.644097",
     "geom:latitude":20.644097,
     "geom:longitude":-87.059475,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-87.064475,20.639097,-87.054475,20.649097",
     "lbl:latitude":20.644097,
@@ -155,10 +154,7 @@
         }
     ],
     "wof:id":85883207,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242582,
     "wof:name":"Luis Donaldo Colosio",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",

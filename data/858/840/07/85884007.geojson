@@ -9,7 +9,6 @@
     "geom:bbox":"-99.052432181,19.3607496095,-99.0235083008,19.3917980198",
     "geom:latitude":19.376062,
     "geom:longitude":-99.038182,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.379841,
     "lbl:longitude":-99.037847,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884007,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619663,
+    "wof:lastmodified":1603242595,
     "wof:name":"Unidad Hab Ejercito de Oriente",
     "wof:parent_id":890535765,
     "wof:placetype":"neighbourhood",

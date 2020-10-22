@@ -9,7 +9,6 @@
     "geom:bbox":"-104.89563,21.486722,-104.89563,21.486722",
     "geom:latitude":21.486722,
     "geom:longitude":-104.89563,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.90063,21.481722,-104.89063,21.491722",
     "lbl:latitude":21.486722,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884175,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Moctezuma",
     "wof:parent_id":101996983,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-103.397242,20.654717,-103.397242,20.654717",
     "geom:latitude":20.654717,
     "geom:longitude":-103.397242,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.402242,20.649717,-103.392242,20.659717",
     "lbl:latitude":20.654717,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884981,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Jardines Plaza Del Sol",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

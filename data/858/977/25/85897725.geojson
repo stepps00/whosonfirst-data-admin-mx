@@ -9,7 +9,6 @@
     "geom:bbox":"-101.037457,22.124397,-101.037457,22.124397",
     "geom:latitude":22.124397,
     "geom:longitude":-101.037457,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.042457,22.119397,-101.032457,22.129397",
     "lbl:latitude":22.124397,
@@ -75,10 +74,7 @@
         }
     ],
     "wof:id":85897725,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Fracc El Pedregal",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

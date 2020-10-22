@@ -9,7 +9,6 @@
     "geom:bbox":"-99.199333,19.715323,-99.199333,19.715323",
     "geom:latitude":19.715323,
     "geom:longitude":-99.199333,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.204333,19.710323,-99.194333,19.720323",
     "lbl:latitude":19.715323,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884197,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Fracc Industrial Trebol Tepotzotlan",
     "wof:parent_id":101991839,
     "wof:placetype":"neighbourhood",

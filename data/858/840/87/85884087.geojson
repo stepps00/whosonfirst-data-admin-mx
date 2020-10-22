@@ -9,7 +9,6 @@
     "geom:bbox":"-100.996138,25.434416,-100.996138,25.434416",
     "geom:latitude":25.434416,
     "geom:longitude":-100.996138,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.001138,25.429416,-100.991138,25.439416",
     "lbl:latitude":25.434416,
@@ -129,10 +128,7 @@
         }
     ],
     "wof:id":85884087,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Republica",
     "wof:parent_id":102000871,
     "wof:placetype":"neighbourhood",

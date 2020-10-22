@@ -9,7 +9,6 @@
     "geom:bbox":"-109.915823,22.8905,-109.915823,22.8905",
     "geom:latitude":22.8905,
     "geom:longitude":-109.915823,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.920823,22.8855,-109.910823,22.8955",
     "lbl:latitude":22.8905,
@@ -75,10 +74,7 @@
         }
     ],
     "wof:id":85884799,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242593,
     "wof:name":"Benito Juarez",
     "wof:parent_id":101994035,
     "wof:placetype":"neighbourhood",

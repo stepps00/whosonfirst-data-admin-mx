@@ -9,7 +9,6 @@
     "geom:bbox":"-97.872779,22.273295,-97.872779,22.273295",
     "geom:latitude":22.273295,
     "geom:longitude":-97.872779,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.877779,22.268295,-97.867779,22.278295",
     "lbl:latitude":22.273295,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883101,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Fracc Framboyanes",
     "wof:parent_id":102001087,
     "wof:placetype":"neighbourhood",

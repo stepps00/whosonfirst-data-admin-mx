@@ -9,7 +9,6 @@
     "geom:bbox":"-101.131167,20.21348,-101.131167,20.21348",
     "geom:latitude":20.21348,
     "geom:longitude":-101.131167,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.136167,20.20848,-101.126167,20.21848",
     "lbl:latitude":20.21348,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883023,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242604,
     "wof:name":"Yuriria Centro",
     "wof:parent_id":101996827,
     "wof:placetype":"neighbourhood",

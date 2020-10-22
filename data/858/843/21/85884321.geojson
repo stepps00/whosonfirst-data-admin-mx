@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1176310608,19.3161998028,-99.1004125976,19.3318782352",
     "geom:latitude":19.325549,
     "geom:longitude":-99.108712,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.324102,
     "lbl:longitude":-99.110413,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884321,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619582,
+    "wof:lastmodified":1603242576,
     "wof:name":"Ex Ejido San Pablo Tepetlapa",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

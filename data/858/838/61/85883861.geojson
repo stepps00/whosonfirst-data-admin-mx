@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1543579102,19.3992492717,-99.1488647461,19.4044304911",
     "geom:latitude":19.401408,
     "geom:longitude":-99.152069,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.400669,
     "lbl:longitude":-99.151414,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85883861,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619672,
+    "wof:lastmodified":1603242597,
     "wof:name":"Piedad Narvarte",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

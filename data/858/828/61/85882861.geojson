@@ -9,7 +9,6 @@
     "geom:bbox":"-102.582458,22.778375,-102.582458,22.778375",
     "geom:latitude":22.778375,
     "geom:longitude":-102.582458,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.587458,22.773375,-102.577458,22.783375",
     "lbl:latitude":22.778375,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882861,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242573,
     "wof:name":"Lomas de la Sociedad",
     "wof:parent_id":101994047,
     "wof:placetype":"neighbourhood",

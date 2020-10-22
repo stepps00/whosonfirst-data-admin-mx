@@ -9,7 +9,6 @@
     "geom:bbox":"-98.284961,19.055637,-98.284961,19.055637",
     "geom:latitude":19.055637,
     "geom:longitude":-98.284961,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.289961,19.050637,-98.279961,19.060637",
     "lbl:latitude":19.055637,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85884679,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242589,
     "wof:name":"Hacienda Santa Teresa",
     "wof:parent_id":101999685,
     "wof:placetype":"neighbourhood",

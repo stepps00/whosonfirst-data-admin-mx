@@ -9,7 +9,6 @@
     "geom:bbox":"-117.024211,32.529125,-117.024211,32.529125",
     "geom:latitude":32.529125,
     "geom:longitude":-117.024211,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.029211,32.524125,-117.019211,32.534125",
     "lbl:latitude":32.529125,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85882471,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242591,
     "wof:name":"Zona Este",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

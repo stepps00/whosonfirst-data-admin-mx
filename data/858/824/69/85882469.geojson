@@ -9,7 +9,6 @@
     "geom:bbox":"-115.397644,32.620871,-115.397644,32.620871",
     "geom:latitude":32.620871,
     "geom:longitude":-115.397644,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.402644,32.615871,-115.392644,32.625871",
     "lbl:latitude":32.620871,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85882469,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242590,
     "wof:name":"Fracc Santa Lucia",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.214499,19.467689,-99.214499,19.467689",
     "geom:latitude":19.467689,
     "geom:longitude":-99.214499,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.219499,19.462689,-99.209499,19.472689",
     "lbl:latitude":19.467689,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884389,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242576,
     "wof:name":"Ahuizotla",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

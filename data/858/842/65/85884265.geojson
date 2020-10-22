@@ -9,7 +9,6 @@
     "geom:bbox":"-101.251499,21.01366,-101.251499,21.01366",
     "geom:latitude":21.01366,
     "geom:longitude":-101.251499,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.256499,21.00866,-101.246499,21.01866",
     "lbl:latitude":21.01366,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85884265,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"Molino Del Rey",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

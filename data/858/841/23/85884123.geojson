@@ -9,7 +9,6 @@
     "geom:bbox":"-106.423576,23.220619,-106.423576,23.220619",
     "geom:latitude":23.220619,
     "geom:longitude":-106.423576,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.428576,23.215619,-106.418576,23.225619",
     "lbl:latitude":23.220619,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85884123,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Palos Prietos",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

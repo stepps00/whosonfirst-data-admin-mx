@@ -9,7 +9,6 @@
     "geom:bbox":"-104.882231,21.476074,-104.882231,21.476074",
     "geom:latitude":21.476074,
     "geom:longitude":-104.882231,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.887231,21.471074,-104.877231,21.481074",
     "lbl:latitude":21.476074,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85884177,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Infonavit Los Fresnos",
     "wof:parent_id":101996983,
     "wof:placetype":"neighbourhood",

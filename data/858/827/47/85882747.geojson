@@ -9,7 +9,6 @@
     "geom:bbox":"-96.716177,17.063268,-96.716177,17.063268",
     "geom:latitude":17.063268,
     "geom:longitude":-96.716177,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.721177,17.058268,-96.711177,17.068268",
     "lbl:latitude":17.063268,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882747,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242569,
     "wof:name":"Jalatlaco",
     "wof:parent_id":101995147,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.60474,18.556856,-99.60474,18.556856",
     "geom:latitude":18.556856,
     "geom:longitude":-99.60474,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.60974,18.551856,-99.59974,18.561856",
     "lbl:latitude":18.556856,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85882767,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147363,
+    "wof:lastmodified":1603242568,
     "wof:name":"Barrio de San Marcos (zona Centro)",
     "wof:parent_id":101991497,
     "wof:placetype":"neighbourhood",

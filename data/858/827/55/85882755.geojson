@@ -9,7 +9,6 @@
     "geom:bbox":"-99.799596,16.778369,-99.799596,16.778369",
     "geom:latitude":16.778369,
     "geom:longitude":-99.799596,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.804596,16.773369,-99.794596,16.783369",
     "lbl:latitude":16.778369,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882755,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242568,
     "wof:name":"Fracc Copacabana",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

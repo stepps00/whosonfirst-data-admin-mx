@@ -9,7 +9,6 @@
     "geom:bbox":"-115.489154,32.632238,-115.489154,32.632238",
     "geom:latitude":32.632238,
     "geom:longitude":-115.489154,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.494154,32.627238,-115.484154,32.637238",
     "lbl:latitude":32.632238,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85883547,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242581,
     "wof:name":"Fracc Jardines de San Marcos",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

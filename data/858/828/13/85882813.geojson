@@ -9,7 +9,6 @@
     "geom:bbox":"-96.116638,19.101053,-96.116638,19.101053",
     "geom:latitude":19.101053,
     "geom:longitude":-96.116638,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.121638,19.096053,-96.111638,19.106053",
     "lbl:latitude":19.101053,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85882813,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242574,
     "wof:name":"Rio Jamapa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.306592,19.549915,-99.306592,19.549915",
     "geom:latitude":19.549915,
     "geom:longitude":-99.306592,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.311592,19.544915,-99.301592,19.554915",
     "lbl:latitude":19.549915,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883291,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1603242582,
     "wof:name":"Lomas de Valle Escondido",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",

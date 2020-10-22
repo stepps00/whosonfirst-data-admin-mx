@@ -9,7 +9,6 @@
     "geom:bbox":"-99.629054,19.288252,-99.629054,19.288252",
     "geom:latitude":19.288252,
     "geom:longitude":-99.629054,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.634054,19.283252,-99.624054,19.293252",
     "lbl:latitude":19.288252,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883097,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Fracc Rinconadas de Santa Ana",
     "wof:parent_id":101991705,
     "wof:placetype":"neighbourhood",

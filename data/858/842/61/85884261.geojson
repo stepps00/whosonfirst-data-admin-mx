@@ -9,7 +9,6 @@
     "geom:bbox":"-101.255447,21.027975,-101.255447,21.027975",
     "geom:latitude":21.027975,
     "geom:longitude":-101.255447,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.260447,21.022975,-101.250447,21.032975",
     "lbl:latitude":21.027975,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884261,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242572,
     "wof:name":"Barrio de Cata",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

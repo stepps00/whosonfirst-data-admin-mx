@@ -9,7 +9,6 @@
     "geom:bbox":"-96.91636,19.52922,-96.91636,19.52922",
     "geom:latitude":19.52922,
     "geom:longitude":-96.91636,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.92136,19.52422,-96.91136,19.53422",
     "lbl:latitude":19.52922,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85882811,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242573,
     "wof:name":"Maria Esther",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

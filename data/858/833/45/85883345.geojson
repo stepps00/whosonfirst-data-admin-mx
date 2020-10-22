@@ -9,7 +9,6 @@
     "geom:bbox":"-101.120911,27.843933,-101.120911,27.843933",
     "geom:latitude":27.843933,
     "geom:longitude":-101.120911,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.125911,27.838933,-101.115911,27.848933",
     "lbl:latitude":27.843933,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85883345,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242584,
     "wof:name":"Ejido Sabinas",
     "wof:parent_id":102000877,
     "wof:placetype":"neighbourhood",

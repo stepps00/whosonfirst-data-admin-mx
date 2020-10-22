@@ -9,7 +9,6 @@
     "geom:bbox":"-116.973185,32.545341,-116.973185,32.545341",
     "geom:latitude":32.545341,
     "geom:longitude":-116.973185,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.978185,32.540341,-116.968185,32.550341",
     "lbl:latitude":32.545341,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883125,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Aeropuerto Abelardo L Rodriguez",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

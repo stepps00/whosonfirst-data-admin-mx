@@ -9,7 +9,6 @@
     "geom:bbox":"-99.101516,18.988473,-99.101516,18.988473",
     "geom:latitude":18.988473,
     "geom:longitude":-99.101516,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.106516,18.983473,-99.096516,18.993473",
     "lbl:latitude":18.988473,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882863,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242574,
     "wof:name":"Tepoztlan Centro",
     "wof:parent_id":101993257,
     "wof:placetype":"neighbourhood",

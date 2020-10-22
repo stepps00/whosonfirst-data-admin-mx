@@ -9,7 +9,6 @@
     "geom:bbox":"-103.41353,20.708786,-103.41353,20.708786",
     "geom:latitude":20.708786,
     "geom:longitude":-103.41353,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.41853,20.703786,-103.40853,20.713786",
     "lbl:latitude":20.708786,
@@ -138,10 +137,7 @@
         }
     ],
     "wof:id":85884925,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242592,
     "wof:name":"San Bernardo",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

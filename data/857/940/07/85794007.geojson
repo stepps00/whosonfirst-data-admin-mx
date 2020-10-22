@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1461181641,19.3317621045,-99.0966796875,19.40961155",
     "geom:latitude":19.367299,
     "geom:longitude":-99.123847,
-    "gn:id":"",
     "gn:latitude":19.38333,
     "gn:longitude":-99.1,
     "iso:country":"MX",
@@ -104,10 +103,7 @@
         }
     ],
     "wof:id":85794007,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619458,
+    "wof:lastmodified":1603242564,
     "wof:name":"Ramos Millan",
     "wof:parent_id":890535765,
     "wof:placetype":"neighbourhood",

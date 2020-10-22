@@ -159,8 +159,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        102079207,
-        85686701
+        85686701,
+        102079207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -183,10 +183,7 @@
         }
     ],
     "wof:id":102001111,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1587163111,
+    "wof:lastmodified":1603242467,
     "wof:name":"Motul de Carrillo Puerto",
     "wof:parent_id":102079207,
     "wof:placetype":"locality",

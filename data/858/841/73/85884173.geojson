@@ -9,7 +9,6 @@
     "geom:bbox":"-103.734077,19.273048,-103.734077,19.273048",
     "geom:latitude":19.273048,
     "geom:longitude":-103.734077,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.739077,19.268048,-103.729077,19.278048",
     "lbl:latitude":19.273048,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884173,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Senderos Del Carmen",
     "wof:parent_id":101996947,
     "wof:placetype":"neighbourhood",

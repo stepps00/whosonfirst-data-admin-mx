@@ -9,7 +9,6 @@
     "geom:bbox":"-102.054326,19.410474,-102.054326,19.410474",
     "geom:latitude":19.410474,
     "geom:longitude":-102.054326,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.059326,19.405474,-102.049326,19.415474",
     "lbl:latitude":19.410474,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85882827,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242573,
     "wof:name":"Casa Del Ni\u00f1o",
     "wof:parent_id":101997187,
     "wof:placetype":"neighbourhood",

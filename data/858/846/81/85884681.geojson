@@ -9,7 +9,6 @@
     "geom:bbox":"-98.03236,19.838823,-98.03236,19.838823",
     "geom:latitude":19.838823,
     "geom:longitude":-98.03236,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.03736,19.833823,-98.02736,19.843823",
     "lbl:latitude":19.838823,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884681,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Chignahuapan Centro",
     "wof:parent_id":101999417,
     "wof:placetype":"neighbourhood",

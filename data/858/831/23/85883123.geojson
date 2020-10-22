@@ -9,7 +9,6 @@
     "geom:bbox":"-103.380128,25.630358,-103.380128,25.630358",
     "geom:latitude":25.630358,
     "geom:longitude":-103.380128,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.385128,25.625358,-103.375128,25.635358",
     "lbl:latitude":25.630358,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883123,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"La Concha Centro",
     "wof:parent_id":102000851,
     "wof:placetype":"neighbourhood",

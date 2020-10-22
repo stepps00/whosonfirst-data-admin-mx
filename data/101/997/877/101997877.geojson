@@ -263,8 +263,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        102074709,
-        85686603
+        85686603,
+        102074709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -290,10 +290,7 @@
         }
     ],
     "wof:id":101997877,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1587428930,
+    "wof:lastmodified":1603242977,
     "wof:name":"Zapopan",
     "wof:parent_id":102074709,
     "wof:placetype":"locality",

@@ -9,7 +9,6 @@
     "geom:bbox":"-104.365301,19.772202,-104.365301,19.772202",
     "geom:latitude":19.772202,
     "geom:longitude":-104.365301,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.370301,19.767202,-104.360301,19.777202",
     "lbl:latitude":19.772202,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85884819,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Autlan de Navarro Centro",
     "wof:parent_id":101997577,
     "wof:placetype":"neighbourhood",

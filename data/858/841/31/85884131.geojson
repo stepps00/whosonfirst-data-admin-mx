@@ -9,7 +9,6 @@
     "geom:bbox":"-106.475485,23.289105,-106.475485,23.289105",
     "geom:latitude":23.289105,
     "geom:longitude":-106.475485,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.480485,23.284105,-106.470485,23.294105",
     "lbl:latitude":23.289105,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884131,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1603242587,
     "wof:name":"Fracc Villas Del Mar",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

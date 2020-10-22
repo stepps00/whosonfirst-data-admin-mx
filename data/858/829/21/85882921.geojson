@@ -9,7 +9,6 @@
     "geom:bbox":"-100.99939,22.150525,-100.99939,22.150525",
     "geom:latitude":22.150525,
     "geom:longitude":-100.99939,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.00439,22.145525,-100.99439,22.155525",
     "lbl:latitude":22.150525,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882921,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242569,
     "wof:name":"Valle de Tequisquiapan",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

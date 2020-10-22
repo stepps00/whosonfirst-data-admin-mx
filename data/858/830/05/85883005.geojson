@@ -9,7 +9,6 @@
     "geom:bbox":"-99.227384,19.598642,-99.227384,19.598642",
     "geom:latitude":19.598642,
     "geom:longitude":-99.227384,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.232384,19.593642,-99.222384,19.603642",
     "lbl:latitude":19.598642,
@@ -72,10 +71,7 @@
         }
     ],
     "wof:id":85883005,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Hacienda de la Luz",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",

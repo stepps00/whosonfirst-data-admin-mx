@@ -9,7 +9,6 @@
     "geom:bbox":"-99.873962,18.367559,-99.873962,18.367559",
     "geom:latitude":18.367559,
     "geom:longitude":-99.873962,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.878962,18.362559,-99.868962,18.372559",
     "lbl:latitude":18.367559,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885075,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1603242579,
     "wof:name":"Teloloapan Centro",
     "wof:parent_id":101991239,
     "wof:placetype":"neighbourhood",

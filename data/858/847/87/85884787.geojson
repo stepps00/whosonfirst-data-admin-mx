@@ -9,7 +9,6 @@
     "geom:bbox":"-98.863262,18.882356,-98.863262,18.882356",
     "geom:latitude":18.882356,
     "geom:longitude":-98.863262,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.868262,18.877356,-98.858262,18.887356",
     "lbl:latitude":18.882356,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884787,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Yecapixtla Centro",
     "wof:parent_id":101993285,
     "wof:placetype":"neighbourhood",

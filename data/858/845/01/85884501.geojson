@@ -9,7 +9,6 @@
     "geom:bbox":"-99.3016870117,19.3185146625,-99.2707006836,19.3422447911",
     "geom:latitude":19.330867,
     "geom:longitude":-99.284203,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.330074,
     "lbl:longitude":-99.28606,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85884501,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Santa Rosa Xochiac",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

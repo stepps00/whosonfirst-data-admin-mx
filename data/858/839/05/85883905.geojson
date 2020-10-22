@@ -9,7 +9,6 @@
     "geom:bbox":"-99.0050561523,19.2052093924,-98.9850561523,19.222989726",
     "geom:latitude":19.21457,
     "geom:longitude":-98.994989,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.21521,
     "lbl:longitude":-98.995056,
@@ -79,10 +78,7 @@
         }
     ],
     "wof:id":85883905,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619706,
+    "wof:lastmodified":1603242604,
     "wof:name":"Barrio Cruztitla",
     "wof:parent_id":101991183,
     "wof:placetype":"neighbourhood",

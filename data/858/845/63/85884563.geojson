@@ -9,7 +9,6 @@
     "geom:bbox":"-103.336029,20.64949,-103.336029,20.64949",
     "geom:latitude":20.64949,
     "geom:longitude":-103.336029,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.341029,20.64449,-103.331029,20.65449",
     "lbl:latitude":20.64949,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884563,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Quinta Velarde",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

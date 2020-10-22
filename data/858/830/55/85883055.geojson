@@ -9,7 +9,6 @@
     "geom:bbox":"-100.406799,20.573497,-100.406799,20.573497",
     "geom:latitude":20.573497,
     "geom:longitude":-100.406799,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.411799,20.568497,-100.401799,20.578497",
     "lbl:latitude":20.573497,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883055,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242603,
     "wof:name":"Fracc Orquideas",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

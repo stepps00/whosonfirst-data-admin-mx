@@ -9,7 +9,6 @@
     "geom:bbox":"-106.454445,23.239177,-106.454445,23.239177",
     "geom:latitude":23.239177,
     "geom:longitude":-106.454445,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.459445,23.234177,-106.449445,23.244177",
     "lbl:latitude":23.239177,
@@ -80,10 +79,7 @@
         }
     ],
     "wof:id":85884125,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147380,
+    "wof:lastmodified":1603242588,
     "wof:name":"Exlaguna Las Gaviotas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

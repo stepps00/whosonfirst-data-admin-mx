@@ -9,7 +9,6 @@
     "geom:bbox":"-117.022135,32.269428,-117.022135,32.269428",
     "geom:latitude":32.269428,
     "geom:longitude":-117.022135,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-117.027135,32.264428,-117.017135,32.274428",
     "lbl:latitude":32.269428,
@@ -81,10 +80,7 @@
         }
     ],
     "wof:id":85882543,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Terrazas Del Pacifico",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

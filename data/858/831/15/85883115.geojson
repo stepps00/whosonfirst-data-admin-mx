@@ -9,7 +9,6 @@
     "geom:bbox":"-103.451823,25.556455,-103.451823,25.556455",
     "geom:latitude":25.556455,
     "geom:longitude":-103.451823,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.456823,25.551455,-103.446823,25.561455",
     "lbl:latitude":25.556455,
@@ -113,10 +112,7 @@
         }
     ],
     "wof:id":85883115,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147388,
+    "wof:lastmodified":1603242599,
     "wof:name":"Eugenio Aguirre Benavides",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-92.633807,16.738212,-92.633807,16.738212",
     "geom:latitude":16.738212,
     "geom:longitude":-92.633807,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.638807,16.733212,-92.628807,16.743212",
     "lbl:latitude":16.738212,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85885225,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147393,
+    "wof:lastmodified":1603242606,
     "wof:name":"Barrio de Guadalupe",
     "wof:parent_id":101994509,
     "wof:placetype":"neighbourhood",

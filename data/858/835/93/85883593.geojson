@@ -9,7 +9,6 @@
     "geom:bbox":"-88.274547,18.516867,-88.274547,18.516867",
     "geom:latitude":18.516867,
     "geom:longitude":-88.274547,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-88.279547,18.511867,-88.269547,18.521867",
     "lbl:latitude":18.516867,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883593,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Fracc Zona de Granjas",
     "wof:parent_id":102001489,
     "wof:placetype":"neighbourhood",

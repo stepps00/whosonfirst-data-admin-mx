@@ -9,7 +9,6 @@
     "geom:bbox":"-103.450012,19.707243,-103.450012,19.707243",
     "geom:latitude":19.707243,
     "geom:longitude":-103.450012,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.455012,19.702243,-103.445012,19.712243",
     "lbl:latitude":19.707243,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884737,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147384,
+    "wof:lastmodified":1603242593,
     "wof:name":"Lomas Del Valle",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-99.187965923,19.3266949097,-99.1790771484,19.3370617954",
     "geom:latitude":19.332284,
     "geom:longitude":-99.183908,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.332664,
     "lbl:longitude":-99.185111,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85885273,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619713,
+    "wof:lastmodified":1603242606,
     "wof:name":"Conds Para Empleados Federales",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

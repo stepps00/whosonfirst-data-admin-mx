@@ -9,7 +9,6 @@
     "geom:bbox":"-100.345594,25.655666,-100.345594,25.655666",
     "geom:latitude":25.655666,
     "geom:longitude":-100.345594,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.350594,25.650666,-100.340594,25.660666",
     "lbl:latitude":25.655666,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85883935,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1603242604,
     "wof:name":"Lomas de San Francisco",
     "wof:parent_id":102000745,
     "wof:placetype":"neighbourhood",

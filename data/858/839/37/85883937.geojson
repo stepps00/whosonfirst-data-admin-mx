@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2361588265,19.3422449557,-99.2197683573,19.3612167113",
     "geom:latitude":19.350217,
     "geom:longitude":-99.227801,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.349294,
     "lbl:longitude":-99.225677,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883937,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619709,
+    "wof:lastmodified":1603242605,
     "wof:name":"San Clemente",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

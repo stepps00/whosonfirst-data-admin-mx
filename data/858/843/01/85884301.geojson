@@ -9,7 +9,6 @@
     "geom:bbox":"-106.426814,31.688949,-106.426814,31.688949",
     "geom:latitude":31.688949,
     "geom:longitude":-106.426814,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-106.431814,31.683949,-106.421814,31.693949",
     "lbl:latitude":31.688949,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85884301,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242576,
     "wof:name":"Parque Central",
     "wof:parent_id":101994153,
     "wof:placetype":"neighbourhood",

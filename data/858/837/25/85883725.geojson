@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1049194336,19.4199731198,-99.0887438085,19.4355143391",
     "geom:latitude":19.428929,
     "geom:longitude":-99.097715,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.431321,
     "lbl:longitude":-99.098248,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883725,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619698,
+    "wof:lastmodified":1603242602,
     "wof:name":"Moctezuma 2da Secc",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",

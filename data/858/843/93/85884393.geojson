@@ -9,7 +9,6 @@
     "geom:bbox":"-99.233514,19.509895,-99.233514,19.509895",
     "geom:latitude":19.509895,
     "geom:longitude":-99.233514,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.238514,19.504895,-99.228514,19.514895",
     "lbl:latitude":19.509895,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85884393,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1603242576,
     "wof:name":"Ampl Vista Hermosa",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

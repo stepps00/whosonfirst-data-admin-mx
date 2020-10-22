@@ -9,7 +9,6 @@
     "geom:bbox":"-98.942592,20.268911,-98.942592,20.268911",
     "geom:latitude":20.268911,
     "geom:longitude":-98.942592,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.947592,20.263911,-98.937592,20.273911",
     "lbl:latitude":20.268911,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885105,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242582,
     "wof:name":"Centro sur",
     "wof:parent_id":102000619,
     "wof:placetype":"neighbourhood",

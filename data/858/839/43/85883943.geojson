@@ -9,7 +9,6 @@
     "geom:bbox":"-99.2175292969,19.4141046106,-99.1955566406,19.4306779829",
     "geom:latitude":19.420877,
     "geom:longitude":-99.207787,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.418818,
     "lbl:longitude":-99.203098,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883943,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619708,
+    "wof:lastmodified":1603242604,
     "wof:name":"Lomas de Virreyes",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

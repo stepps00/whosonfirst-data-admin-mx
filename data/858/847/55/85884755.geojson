@@ -9,7 +9,6 @@
     "geom:bbox":"-98.847784,18.595489,-98.847784,18.595489",
     "geom:latitude":18.595489,
     "geom:longitude":-98.847784,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.852784,18.590489,-98.842784,18.600489",
     "lbl:latitude":18.595489,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884755,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242593,
     "wof:name":"Barrio Santuario Centro",
     "wof:parent_id":101993417,
     "wof:placetype":"neighbourhood",

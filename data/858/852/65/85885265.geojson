@@ -9,7 +9,6 @@
     "geom:bbox":"-101.735621,19.588627,-101.735621,19.588627",
     "geom:latitude":19.588627,
     "geom:longitude":-101.735621,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-101.740621,19.583627,-101.730621,19.593627",
     "lbl:latitude":19.588627,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85885265,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242606,
     "wof:name":"Alfonso Urueta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

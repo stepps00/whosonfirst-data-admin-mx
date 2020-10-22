@@ -9,7 +9,6 @@
     "geom:bbox":"-109.014587,25.777634,-109.014587,25.777634",
     "geom:latitude":25.777634,
     "geom:longitude":-109.014587,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.019587,25.772634,-109.009587,25.782634",
     "lbl:latitude":25.777634,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85882637,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242575,
     "wof:name":"Fracc Guadalupe",
     "wof:parent_id":101993793,
     "wof:placetype":"neighbourhood",

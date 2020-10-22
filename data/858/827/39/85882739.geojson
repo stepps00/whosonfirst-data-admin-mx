@@ -9,7 +9,6 @@
     "geom:bbox":"-96.72161,17.071805,-96.72161,17.071805",
     "geom:latitude":17.071805,
     "geom:longitude":-96.72161,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.72661,17.066805,-96.71661,17.076805",
     "lbl:latitude":17.071805,
@@ -201,10 +200,7 @@
         }
     ],
     "wof:id":85882739,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147364,
+    "wof:lastmodified":1603242568,
     "wof:name":"Xochimilco",
     "wof:parent_id":101995147,
     "wof:placetype":"neighbourhood",

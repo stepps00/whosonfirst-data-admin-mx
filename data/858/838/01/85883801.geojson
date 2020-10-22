@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1643579101,19.4913010551,-99.1385148286,19.5182420362",
     "geom:latitude":19.503568,
     "geom:longitude":-99.152401,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.502963,
     "lbl:longitude":-99.145104,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883801,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619676,
+    "wof:lastmodified":1603242598,
     "wof:name":"Unidad Lindavista Vallejo",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-97.794928,22.275636,-97.794928,22.275636",
     "geom:latitude":22.275636,
     "geom:longitude":-97.794928,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-97.799928,22.270636,-97.789928,22.280636",
     "lbl:latitude":22.275636,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882901,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Fracc Miramar",
     "wof:parent_id":102001085,
     "wof:placetype":"neighbourhood",

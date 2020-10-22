@@ -9,7 +9,6 @@
     "geom:bbox":"-116.920491,32.499497,-116.920491,32.499497",
     "geom:latitude":32.499497,
     "geom:longitude":-116.920491,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.925491,32.494497,-116.915491,32.504497",
     "lbl:latitude":32.499497,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85882547,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242597,
     "wof:name":"Ampl Guaycura",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

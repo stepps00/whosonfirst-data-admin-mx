@@ -9,7 +9,6 @@
     "geom:bbox":"-104.661561,24.026477,-104.661561,24.026477",
     "geom:latitude":24.026477,
     "geom:longitude":-104.661561,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.666561,24.021477,-104.656561,24.031477",
     "lbl:latitude":24.026477,
@@ -152,10 +151,7 @@
         }
     ],
     "wof:id":85884205,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147367,
+    "wof:lastmodified":1603242572,
     "wof:name":"La Paloma",
     "wof:parent_id":101994335,
     "wof:placetype":"neighbourhood",

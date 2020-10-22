@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1385939683,19.2909344505,-99.1080266008,19.3281229891",
     "geom:latitude":19.308772,
     "geom:longitude":-99.123021,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.31162,
     "lbl:longitude":-99.123726,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85883655,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619688,
+    "wof:lastmodified":1603242600,
     "wof:name":"Conj Hab Alianza Pop Revolucionaria",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

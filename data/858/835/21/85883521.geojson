@@ -9,7 +9,6 @@
     "geom:bbox":"-104.325819,19.09797,-104.325819,19.09797",
     "geom:latitude":19.09797,
     "geom:longitude":-104.325819,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-104.330819,19.09297,-104.320819,19.10297",
     "lbl:latitude":19.09797,
@@ -80,10 +79,7 @@
         }
     ],
     "wof:id":85883521,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Fovissste",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

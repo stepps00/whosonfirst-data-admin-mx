@@ -9,7 +9,6 @@
     "geom:bbox":"-116.634083,32.564176,-116.634083,32.564176",
     "geom:latitude":32.564176,
     "geom:longitude":-116.634083,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-116.639083,32.559176,-116.629083,32.569176",
     "lbl:latitude":32.564176,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883629,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147389,
+    "wof:lastmodified":1603242600,
     "wof:name":"Centro Urbano Valencia",
     "wof:parent_id":101993543,
     "wof:placetype":"neighbourhood",

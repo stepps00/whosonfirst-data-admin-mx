@@ -9,7 +9,6 @@
     "geom:bbox":"-100.378098,20.585244,-100.378098,20.585244",
     "geom:latitude":20.585244,
     "geom:longitude":-100.378098,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.383098,20.580244,-100.373098,20.590244",
     "lbl:latitude":20.585244,
@@ -106,10 +105,7 @@
         }
     ],
     "wof:id":85882481,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1603242591,
     "wof:name":"Observatorio",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

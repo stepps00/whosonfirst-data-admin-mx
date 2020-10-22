@@ -9,7 +9,6 @@
     "geom:bbox":"-96.729123,17.071177,-96.729123,17.071177",
     "geom:latitude":17.071177,
     "geom:longitude":-96.729123,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.734123,17.066177,-96.724123,17.076177",
     "lbl:latitude":17.071177,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883585,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242581,
     "wof:name":"Cerro Del Fortin",
     "wof:parent_id":101995147,
     "wof:placetype":"neighbourhood",

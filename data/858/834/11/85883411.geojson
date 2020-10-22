@@ -9,7 +9,6 @@
     "geom:bbox":"-90.516162,19.859493,-90.516162,19.859493",
     "geom:latitude":19.859493,
     "geom:longitude":-90.516162,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-90.521162,19.854493,-90.511162,19.864493",
     "lbl:latitude":19.859493,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85883411,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147377,
+    "wof:lastmodified":1603242585,
     "wof:name":"Villas de Ah Kim Pech",
     "wof:parent_id":102001379,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-100.445709,20.697031,-100.445709,20.697031",
     "geom:latitude":20.697031,
     "geom:longitude":-100.445709,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.450709,20.692031,-100.440709,20.702031",
     "lbl:latitude":20.697031,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883035,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242602,
     "wof:name":"Fracc Jurica San Francisco",
     "wof:parent_id":101996375,
     "wof:placetype":"neighbourhood",

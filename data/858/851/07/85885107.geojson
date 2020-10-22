@@ -9,7 +9,6 @@
     "geom:bbox":"-98.673914,20.140873,-98.673914,20.140873",
     "geom:latitude":20.140873,
     "geom:longitude":-98.673914,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.678914,20.135873,-98.668914,20.145873",
     "lbl:latitude":20.140873,
@@ -106,10 +105,7 @@
         }
     ],
     "wof:id":85885107,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1603242583,
     "wof:name":"Barrio San Ignacio",
     "wof:parent_id":102000481,
     "wof:placetype":"neighbourhood",

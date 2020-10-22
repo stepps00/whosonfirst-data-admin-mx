@@ -9,7 +9,6 @@
     "geom:bbox":"-103.710215,19.284129,-103.710215,19.284129",
     "geom:latitude":19.284129,
     "geom:longitude":-103.710215,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.715215,19.279129,-103.705215,19.289129",
     "lbl:latitude":19.284129,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85897731,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Fracc Res Esmeralda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

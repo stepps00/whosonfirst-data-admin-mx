@@ -9,7 +9,6 @@
     "geom:bbox":"-92.263815,14.90798,-92.263815,14.90798",
     "geom:latitude":14.90798,
     "geom:longitude":-92.263815,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.268815,14.90298,-92.258815,14.91298",
     "lbl:latitude":14.90798,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882873,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242573,
     "wof:name":"Texcuyuapan",
     "wof:parent_id":101994355,
     "wof:placetype":"neighbourhood",

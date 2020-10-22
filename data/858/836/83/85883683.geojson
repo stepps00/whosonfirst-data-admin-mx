@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1994493255,19.3837046273,-99.1818237305,19.4018399026",
     "geom:latitude":19.392227,
     "geom:longitude":-99.189298,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.390546,
     "lbl:longitude":-99.186976,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85883683,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619689,
+    "wof:lastmodified":1603242600,
     "wof:name":"8 de Agosto",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

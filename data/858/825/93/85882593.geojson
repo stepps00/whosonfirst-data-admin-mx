@@ -9,7 +9,6 @@
     "geom:bbox":"-87.073922,20.636857,-87.073922,20.636857",
     "geom:latitude":20.636857,
     "geom:longitude":-87.073922,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-87.078922,20.631857,-87.068922,20.641857",
     "lbl:latitude":20.636857,
@@ -146,10 +145,7 @@
         }
     ],
     "wof:id":85882593,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1603242596,
     "wof:name":"Gonzalo Guerrero",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",

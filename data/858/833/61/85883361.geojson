@@ -9,7 +9,6 @@
     "geom:bbox":"-102.047768,19.429003,-102.047768,19.429003",
     "geom:latitude":19.429003,
     "geom:longitude":-102.047768,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-102.052768,19.424003,-102.042768,19.434003",
     "lbl:latitude":19.429003,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883361,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147376,
+    "wof:lastmodified":1603242583,
     "wof:name":"Fracc Espinoza",
     "wof:parent_id":101997187,
     "wof:placetype":"neighbourhood",

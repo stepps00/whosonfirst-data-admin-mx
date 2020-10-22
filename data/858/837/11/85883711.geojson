@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1708374023,19.3681584989,-99.1619487825,19.3759317497",
     "geom:latitude":19.371861,
     "geom:longitude":-99.166402,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.371819,
     "lbl:longitude":-99.166118,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85883711,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619692,
+    "wof:lastmodified":1603242601,
     "wof:name":"Del Valle sur",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

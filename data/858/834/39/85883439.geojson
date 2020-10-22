@@ -9,7 +9,6 @@
     "geom:bbox":"-110.948601,27.91141,-110.948601,27.91141",
     "geom:latitude":27.91141,
     "geom:longitude":-110.948601,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-110.953601,27.90641,-110.943601,27.91641",
     "lbl:latitude":27.91141,
@@ -115,10 +114,7 @@
         }
     ],
     "wof:id":85883439,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1603242586,
     "wof:name":"Lomas de Cortes",
     "wof:parent_id":101994013,
     "wof:placetype":"neighbourhood",

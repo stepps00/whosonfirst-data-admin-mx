@@ -9,7 +9,6 @@
     "geom:bbox":"-103.020689,19.916192,-103.020689,19.916192",
     "geom:latitude":19.916192,
     "geom:longitude":-103.020689,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.025689,19.911192,-103.015689,19.921192",
     "lbl:latitude":19.916192,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884715,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Mazamitla Centro",
     "wof:parent_id":101997977,
     "wof:placetype":"neighbourhood",

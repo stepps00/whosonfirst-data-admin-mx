@@ -9,7 +9,6 @@
     "geom:bbox":"-100.219482,19.177338,-100.219482,19.177338",
     "geom:latitude":19.177338,
     "geom:longitude":-100.219482,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.224482,19.172338,-100.214482,19.182338",
     "lbl:latitude":19.177338,
@@ -115,10 +114,7 @@
         }
     ],
     "wof:id":85884763,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242593,
     "wof:name":"Loma Bonita",
     "wof:parent_id":101991619,
     "wof:placetype":"neighbourhood",

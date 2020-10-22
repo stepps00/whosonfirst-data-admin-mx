@@ -9,7 +9,6 @@
     "geom:bbox":"-115.410737,32.653981,-115.410737,32.653981",
     "geom:latitude":32.653981,
     "geom:longitude":-115.410737,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-115.415737,32.648981,-115.405737,32.658981",
     "lbl:latitude":32.653981,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85882855,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242574,
     "wof:name":"Fracc Catavi\u00f1a",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

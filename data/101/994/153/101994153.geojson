@@ -310,8 +310,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        102075223,
-        85686581
+        85686581,
+        102075223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -344,10 +344,7 @@
         }
     ],
     "wof:id":101994153,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1587428932,
+    "wof:lastmodified":1603243033,
     "wof:megacity":1,
     "wof:name":"Ju\u00e1rez",
     "wof:parent_id":102075223,

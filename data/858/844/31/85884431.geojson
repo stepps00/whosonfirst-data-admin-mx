@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1387523387,19.2816627726,-99.1315881586,19.2895367992",
     "geom:latitude":19.285154,
     "geom:longitude":-99.135273,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.283732,
     "lbl:longitude":-99.13674,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884431,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619588,
+    "wof:lastmodified":1603242578,
     "wof:name":"Amsa",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

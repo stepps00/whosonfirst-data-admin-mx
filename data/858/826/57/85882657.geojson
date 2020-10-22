@@ -9,7 +9,6 @@
     "geom:bbox":"-99.056678,18.898337,-99.056678,18.898337",
     "geom:latitude":18.898337,
     "geom:longitude":-99.056678,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.061678,18.893337,-99.051678,18.903337",
     "lbl:latitude":18.898337,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85882657,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147369,
+    "wof:lastmodified":1603242574,
     "wof:name":"Barrio Ixtlahuacan",
     "wof:parent_id":101993225,
     "wof:placetype":"neighbourhood",

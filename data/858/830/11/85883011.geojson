@@ -9,7 +9,6 @@
     "geom:bbox":"-99.060974,19.489897,-99.060974,19.489897",
     "geom:latitude":19.489897,
     "geom:longitude":-99.060974,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-99.065974,19.484897,-99.055974,19.494897",
     "lbl:latitude":19.489897,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85883011,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1603242603,
     "wof:name":"Valle de Aragon",
     "wof:parent_id":101992489,
     "wof:placetype":"neighbourhood",

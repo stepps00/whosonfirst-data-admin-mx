@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1199491903,19.4898967328,-99.1097009894,19.5032317613",
     "geom:latitude":19.496171,
     "geom:longitude":-99.115021,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.49184,
     "lbl:longitude":-99.11705,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85884493,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619586,
+    "wof:lastmodified":1603242577,
     "wof:name":"Rosas Del Tepeyac",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

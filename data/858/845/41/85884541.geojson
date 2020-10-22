@@ -9,7 +9,6 @@
     "geom:bbox":"-103.369982,20.705268,-103.369982,20.705268",
     "geom:latitude":20.705268,
     "geom:longitude":-103.369982,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.374982,20.700268,-103.364982,20.710268",
     "lbl:latitude":20.705268,
@@ -109,10 +108,7 @@
         }
     ],
     "wof:id":85884541,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Country Club",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-93.1076,16.758404,-93.1076,16.758404",
     "geom:latitude":16.758404,
     "geom:longitude":-93.1076,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-93.1126,16.753404,-93.1026,16.763404",
     "lbl:latitude":16.758404,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882983,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147365,
+    "wof:lastmodified":1603242570,
     "wof:name":"Fracc Brasilia",
     "wof:parent_id":101994357,
     "wof:placetype":"neighbourhood",

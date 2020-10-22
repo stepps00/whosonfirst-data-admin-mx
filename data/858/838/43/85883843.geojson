@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1873168945,19.3700618135,-99.1811748617,19.3759317503",
     "geom:latitude":19.373341,
     "geom:longitude":-99.18456,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.373111,
     "lbl:longitude":-99.184492,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85883843,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147387,
+    "wof:lastmodified":1603242597,
     "wof:name":"Insurgentes Mixcoac",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

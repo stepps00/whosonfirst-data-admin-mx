@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1961892949,19.4719816482,-99.1673879438,19.4950749643",
     "geom:latitude":19.485104,
     "geom:longitude":-99.180367,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.477531,
     "lbl:longitude":-99.174201,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85883839,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619676,
+    "wof:lastmodified":1603242598,
     "wof:name":"Villa Azcapotzalco",
     "wof:parent_id":890535755,
     "wof:placetype":"neighbourhood",

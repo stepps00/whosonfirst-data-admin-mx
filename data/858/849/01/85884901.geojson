@@ -9,7 +9,6 @@
     "geom:bbox":"-98.263095,19.008716,-98.263095,19.008716",
     "geom:latitude":19.008716,
     "geom:longitude":-98.263095,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-98.268095,19.003716,-98.258095,19.013716",
     "lbl:latitude":19.008716,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85884901,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242592,
     "wof:name":"Res la Vista",
     "wof:parent_id":101999689,
     "wof:placetype":"neighbourhood",

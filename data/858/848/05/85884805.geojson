@@ -9,7 +9,6 @@
     "geom:bbox":"-111.342097,26.012134,-111.342097,26.012134",
     "geom:latitude":26.012134,
     "geom:longitude":-111.342097,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-111.347097,26.007134,-111.337097,26.017134",
     "lbl:latitude":26.012134,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884805,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147381,
+    "wof:lastmodified":1603242589,
     "wof:name":"Loreto Centro",
     "wof:parent_id":101993437,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-100.742815,20.919114,-100.742815,20.919114",
     "geom:latitude":20.919114,
     "geom:longitude":-100.742815,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-100.747815,20.914114,-100.737815,20.924114",
     "lbl:latitude":20.919114,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85883555,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147373,
+    "wof:lastmodified":1603242580,
     "wof:name":"Santa Maria Del Obraje",
     "wof:parent_id":101993059,
     "wof:placetype":"neighbourhood",

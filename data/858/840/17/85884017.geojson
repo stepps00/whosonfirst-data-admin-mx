@@ -9,7 +9,6 @@
     "geom:bbox":"-99.1873168945,19.315295656,-99.1598510742,19.3318784408",
     "geom:latitude":19.325263,
     "geom:longitude":-99.174463,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.324625,
     "lbl:longitude":-99.179742,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85884017,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147385,
+    "wof:lastmodified":1603242594,
     "wof:name":"Copilco El Alto",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

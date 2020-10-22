@@ -9,7 +9,6 @@
     "geom:bbox":"-92.645034,16.734893,-92.645034,16.734893",
     "geom:latitude":16.734893,
     "geom:longitude":-92.645034,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-92.650034,16.729893,-92.640034,16.739893",
     "lbl:latitude":16.734893,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85885219,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147392,
+    "wof:lastmodified":1603242606,
     "wof:name":"Barrio de la Merced",
     "wof:parent_id":101994509,
     "wof:placetype":"neighbourhood",

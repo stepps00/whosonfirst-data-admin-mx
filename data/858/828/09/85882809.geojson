@@ -9,7 +9,6 @@
     "geom:bbox":"-96.12812,19.188861,-96.12812,19.188861",
     "geom:latitude":19.188861,
     "geom:longitude":-96.12812,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-96.13312,19.183861,-96.12312,19.193861",
     "lbl:latitude":19.188861,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85882809,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147368,
+    "wof:lastmodified":1603242574,
     "wof:name":"Fracc Ricardo Flores Magon",
     "wof:parent_id":101998843,
     "wof:placetype":"neighbourhood",

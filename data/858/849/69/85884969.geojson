@@ -9,7 +9,6 @@
     "geom:bbox":"-109.921456,22.873345,-109.921456,22.873345",
     "geom:latitude":22.873345,
     "geom:longitude":-109.921456,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-109.926456,22.868345,-109.916456,22.878345",
     "lbl:latitude":22.873345,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85884969,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147383,
+    "wof:lastmodified":1603242591,
     "wof:name":"Lienzo Charro Centro",
     "wof:parent_id":101994035,
     "wof:placetype":"neighbourhood",

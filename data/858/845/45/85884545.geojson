@@ -9,7 +9,6 @@
     "geom:bbox":"-103.366603,20.649378,-103.366603,20.649378",
     "geom:latitude":20.649378,
     "geom:longitude":-103.366603,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:bbox":"-103.371603,20.644378,-103.361603,20.654378",
     "lbl:latitude":20.649378,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85884545,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582147366,
+    "wof:lastmodified":1603242571,
     "wof:name":"Del sur",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

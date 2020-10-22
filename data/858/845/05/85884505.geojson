@@ -9,7 +9,6 @@
     "geom:bbox":"-99.323659668,19.2985512639,-99.2817268651,19.3278724143",
     "geom:latitude":19.313369,
     "geom:longitude":-99.30527,
-    "gn:id":"",
     "iso:country":"MX",
     "lbl:latitude":19.31236,
     "lbl:longitude":-99.309163,
@@ -78,10 +77,7 @@
         }
     ],
     "wof:id":85884505,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1566619556,
+    "wof:lastmodified":1603242571,
     "wof:name":"Zona Rustica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
